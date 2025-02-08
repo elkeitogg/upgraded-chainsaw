@@ -1,1073 +1,222 @@
-[18:28:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[18:28:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[18:28:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:28:18] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar'...
-[18:28:18] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/TAB v5.0.6.jar'...
-[18:28:19] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
-[18:28:19] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 666ms.
-[18:28:20] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI-2.11.6.jar' in 1248ms.
-[18:28:20] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TAB v5.0.6.jar' in 1294ms.
-[18:28:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:28:20] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:28:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:28:26] [ServerMain/INFO]: Loaded 1290 recipes
-[18:28:26] [ServerMain/INFO]: Loaded 1399 advancements
-[18:28:26] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:28:26] [Server thread/INFO]: Loading properties
-[18:28:26] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[18:28:27] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:28:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:28:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:28:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:28:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:28:28] [Server thread/INFO]: Generating keypair
-[18:28:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:28:28] [Server thread/INFO]: Using epoll channel type
-[18:28:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:28:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:28:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:28:29] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:28:29] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:28:29] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:28:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:28:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:28:30] [Server thread/INFO]:         __    
-[18:28:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:28:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:28:30] [Server thread/INFO]: 
-[18:28:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:28:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:28:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:28:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:28:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1084ms)
-[18:28:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:28:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:28:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:28:31] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:28:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:28:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:28:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:28:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:28:31] [Server thread/INFO]: Preparing level "world"
-[18:28:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:28:33] [Server thread/INFO]: Time elapsed: 912 ms
-[18:28:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:28:33] [Server thread/INFO]: Time elapsed: 204 ms
-[18:28:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:28:33] [Server thread/INFO]: Time elapsed: 123 ms
-[18:28:33] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:28:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:28:33] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:28:34] [Server thread/INFO]: [TAB] Loaded NMS hook in 137ms
-[18:28:35] [Server thread/INFO]: [TAB] Enabled in 991ms
-[18:28:35] [Server thread/INFO]: [spark] Starting background profiler...
-[18:28:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:28:35] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[18:28:35] [Server thread/INFO]: Done preparing level "world" (4.187s)
-[18:28:35] [Server thread/INFO]: Running delayed init tasks
-[18:28:35] [Server thread/INFO]: Done (18.002s)! For help, type "help"
-[18:28:35] [Server thread/INFO]: Timings Reset
-[18:28:35] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:28:35] [Craft Scheduler Thread - 2 - Vault/INFO]: [Vault] No new version available
-[18:31:58] [User Authenticator #0/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
-[18:31:59] [Server thread/INFO]: ElKeitoGG joined the game
-[18:31:59] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:55627] logged in with entity id 46 at ([world]-46.5, 67.0, -7.5)
-[18:41:26] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:41:26] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:41:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:41:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:41:26] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:41:26] [Server thread/INFO]: [TAB] Disabled in 1ms
-[18:41:26] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:41:26] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:41:26] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:41:26] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:41:26] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:41:26] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:41:27] [Server thread/INFO]: Loaded 1290 recipes
-[18:41:27] [Server thread/INFO]: Loaded 1399 advancements
-[18:41:27] [Paper Async Command Builder Thread Pool - 1/ERROR]: Caught previously unhandled exception :
-[18:41:27] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:41:27] [Paper Async Command Builder Thread Pool - 1/ERROR]: Paper Async Command Builder Thread Pool - 1
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:41:27] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:41:27] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:41:27] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:41:27] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:41:27] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:41:27] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:41:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:41:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:41:27] [Server thread/INFO]:         __    
-[18:41:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:41:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:41:27] [Server thread/INFO]: 
-[18:41:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:41:28] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:41:28] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:41:28] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:41:28] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 647ms)
-[18:41:28] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:41:28] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:41:28] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:41:28] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:41:28] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:41:29] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:41:29] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:41:29] [Server thread/INFO]: [TAB] Loaded NMS hook in 82ms
-[18:41:29] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
-[18:41:29] [Server thread/INFO]: [TAB] Error message from yaml parser: while parsing a block mapping
- in 'reader', line 98, column 7:
-          title: "<#E0
-          ^
-expected <block end>, but found '<anchor>'
- in 'reader', line 108, column 10:
-          - '&7┃ &3:bow_and_arrow: &fᴅᴇᴀᴛʜѕ:  ... 
-             ^
-
-[18:41:29] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
-[18:41:29] [Server thread/INFO]: [TAB] - Add ' at the end of line 107
-[18:41:29] [Server thread/INFO]: [TAB] - Remove extra text "    scoreboard:" after ending ' in line 112
-[18:41:29] [Server thread/INFO]: [TAB] - Add ' at the end of line 121
-[18:41:29] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
-[18:41:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:41:30] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3477ms or 69 ticks behind
-[18:41:30] [Server thread/INFO]: Timings Reset
-[18:41:30] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[18:41:30] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:41:30] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
-[18:41:38] [Async Chat Thread - #0/INFO]: [Not Secure] <ElKeitoGG> wasd
-[18:41:41] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
-[18:41:41] [Server thread/INFO]: ElKeitoGG left the game
-[18:41:44] [User Authenticator #1/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
-[18:41:45] [Server thread/INFO]: ElKeitoGG joined the game
-[18:41:45] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:40477] logged in with entity id 1473 at ([world]-34.217401416799106, 68.0, -4.521200085518655)
-[18:42:23] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:42:23] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:42:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:42:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:42:23] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:42:23] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:42:23] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:42:23] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:42:23] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:42:23] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:42:23] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:42:23] [Server thread/INFO]: Loaded 1290 recipes
-[18:42:23] [Server thread/INFO]: Loaded 1399 advancements
-[18:42:23] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:42:23] [Paper Async Command Builder Thread Pool - 2/ERROR]: Caught previously unhandled exception :
-[18:42:23] [Paper Async Command Builder Thread Pool - 2/ERROR]: Paper Async Command Builder Thread Pool - 2
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:42:23] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:42:23] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:42:23] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:42:24] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:42:24] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:42:24] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:42:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:42:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:42:24] [Server thread/INFO]:         __    
-[18:42:24] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:42:24] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:42:24] [Server thread/INFO]: 
-[18:42:24] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:42:24] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:42:24] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:42:24] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:42:24] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 719ms)
-[18:42:24] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:42:24] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:42:25] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:42:25] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:42:25] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:42:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:42:25] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:42:25] [Server thread/INFO]: [TAB] Loaded NMS hook in 46ms
-[18:42:25] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
-[18:42:25] [Server thread/INFO]: [TAB] Error message from yaml parser: while parsing a block mapping
- in 'reader', line 112, column 9:
-          - '&4&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'    scoreb ... 
-            ^
-expected <block end>, but found ':'
- in 'reader', line 112, column 45:
-     ... l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'    scoreboard:
-                                         ^
-
-[18:42:25] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
-[18:42:25] [Server thread/INFO]: [TAB] - Remove extra text "    scoreboard:" after ending ' in line 112
-[18:42:25] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
-[18:42:25] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:42:25] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[18:42:25] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
-[18:42:25] [Server thread/INFO]: Timings Reset
-[18:42:25] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:42:25] [Craft Scheduler Thread - 11 - Vault/INFO]: [Vault] No new version available
-[18:42:57] [Server thread/INFO]: ElKeitoGG was slain by Zombie
-[18:43:16] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:43:16] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:43:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:43:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:43:16] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:43:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:43:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:43:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:43:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:43:16] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:43:16] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:43:16] [Server thread/INFO]: Loaded 1290 recipes
-[18:43:16] [Server thread/INFO]: Loaded 1399 advancements
-[18:43:17] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:43:17] [Paper Async Command Builder Thread Pool - 3/ERROR]: Caught previously unhandled exception :
-[18:43:17] [Paper Async Command Builder Thread Pool - 3/ERROR]: Paper Async Command Builder Thread Pool - 3
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:43:17] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:43:17] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:43:17] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:43:17] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:43:17] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:43:17] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:43:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:43:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:43:17] [Server thread/INFO]:         __    
-[18:43:17] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:43:17] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:43:17] [Server thread/INFO]: 
-[18:43:17] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:43:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:43:17] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:43:17] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:43:17] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 540ms)
-[18:43:17] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:43:18] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:43:18] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:43:18] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:43:18] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:43:18] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:43:18] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:43:18] [Server thread/INFO]: [TAB] Loaded NMS hook in 44ms
-[18:43:18] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[18:43:19] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[18:43:19] [Server thread/INFO]: [TAB] Enabled in 743ms
-[18:43:19] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:43:19] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[18:43:19] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
-[18:43:19] [Server thread/INFO]: Timings Reset
-[18:43:19] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:43:19] [Craft Scheduler Thread - 15 - Vault/INFO]: [Vault] No new version available
-[18:43:56] [Server thread/INFO]: Made ElKeitoGG a server operator
-[18:43:59] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
-[18:43:59] [Server thread/INFO]: [ElKeitoGG: Set own game mode to Creative Mode]
-[18:45:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:45:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:45:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:45:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:45:02] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:45:02] [Server thread/INFO]: [TAB] Disabled in 2ms
-[18:45:02] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:45:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:45:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:45:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:45:02] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:45:02] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:45:02] [Server thread/INFO]: Loaded 1290 recipes
-[18:45:02] [Server thread/INFO]: Loaded 1399 advancements
-[18:45:02] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:45:02] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:45:02] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:45:02] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:45:02] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:45:02] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:45:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:45:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:45:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:45:03] [Server thread/INFO]:         __    
-[18:45:03] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:45:03] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:45:03] [Server thread/INFO]: 
-[18:45:03] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:45:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:45:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:45:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:45:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 531ms)
-[18:45:03] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:45:03] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:45:03] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:45:03] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:45:03] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:45:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:45:04] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:45:04] [Server thread/INFO]: [TAB] Loaded NMS hook in 49ms
-[18:45:04] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[18:45:05] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[18:45:05] [Server thread/INFO]: [TAB] Enabled in 670ms
-[18:45:05] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:45:05] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[18:45:05] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
-[18:45:05] [Server thread/INFO]: Timings Reset
-[18:45:05] [Server thread/WARN]: ElKeitoGG moved too quickly! 5.770761585402422,-5.437658903505437,-6.427811794230408
-[18:45:05] [Craft Scheduler Thread - 19 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:45:05] [Craft Scheduler Thread - 19 - Vault/INFO]: [Vault] No new version available
-[18:45:33] [Server thread/INFO]: ElKeitoGG issued server command: /time set day
-[18:45:33] [Server thread/INFO]: [ElKeitoGG: Set the time to 1000]
-[18:47:42] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download vault
-[18:47:42] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:47:46] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:47:46] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:47:46] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:47:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:48:06] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Player
-[18:48:06] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:07] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:48:07] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:48:07] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:48:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:48:24] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerTime
-[18:48:24] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:25] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:48:25] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:48:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:48:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:48:25] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[18:48:31] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Statistic
-[18:48:31] [placeholderapi-io-#2/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:33] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:48:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:48:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:48:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[18:48:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:48:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:48:33] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[18:49:00] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Server
-[18:49:00] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:49:01] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:49:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[18:49:01] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[18:49:07] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download LuckPerms
-[18:49:07] [placeholderapi-io-#2/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:49:09] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:49:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[18:49:09] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[18:49:58] [Server thread/INFO]: CONSOLE: Usage: /reload [permissions|commands|confirm]
-[18:50:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[18:50:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[18:50:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:50:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:50:02] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:50:02] [Server thread/INFO]: [TAB] Disabled in 1ms
-[18:50:02] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:50:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:50:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:50:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:50:02] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:50:02] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:50:02] [Server thread/INFO]: Loaded 1290 recipes
-[18:50:02] [Server thread/INFO]: Loaded 1399 advancements
-[18:50:02] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:50:02] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[18:50:02] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:50:02] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:50:02] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:50:02] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:50:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:50:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:50:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:50:02] [Server thread/INFO]:         __    
-[18:50:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:50:02] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:50:02] [Server thread/INFO]: 
-[18:50:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:50:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:50:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:50:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:50:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 491ms)
-[18:50:03] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:50:03] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:50:03] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:50:03] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:50:03] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:50:03] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:50:03] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:50:04] [Server thread/INFO]: [TAB] Loaded NMS hook in 50ms
-[18:50:04] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[18:50:04] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[18:50:04] [Server thread/INFO]: [TAB] Enabled in 733ms
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[18:50:04] [Server thread/INFO]: CONSOLE: Reload complete.
-[18:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
-[18:50:04] [Server thread/INFO]: Timings Reset
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[18:50:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[18:50:04] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[18:50:04] [Server thread/INFO]: 5 placeholder hook(s) registered!
-[18:50:04] [Craft Scheduler Thread - 23 - Vault/INFO]: [Vault] Checking for Updates ... 
-[18:50:04] [Craft Scheduler Thread - 23 - Vault/INFO]: [Vault] No new version available
-[18:52:33] [Server thread/INFO]: ElKeitoGG issued server command: /lp creategroup CREADOR
-[18:52:33] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:52:33] [luckperms-command-executor/INFO]: [LP] LOG > create
-[18:53:05] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador permission set minecraft.admin
-[18:53:05] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:53:05] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.admin true
-[18:53:19] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador permission set minecraft.admin true
-[18:53:43] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent add creador
-[18:53:43] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
-[18:53:43] [luckperms-command-executor/INFO]: [LP] LOG > parent add creador
-[18:53:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:55:03] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent remove creador
-[18:55:03] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
-[18:55:03] [luckperms-command-executor/INFO]: [LP] LOG > parent remove creador
-[18:55:07] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent set creador
-[18:55:07] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
-[18:55:07] [luckperms-command-executor/INFO]: [LP] LOG > parent set creador
-[18:55:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[18:55:17] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent set creador
-[18:55:17] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
-[18:55:17] [luckperms-command-executor/INFO]: [LP] LOG > parent set creador
-[18:55:31] [Async Chat Thread - #1/INFO]: [Not Secure] <ElKeitoGG> w
-[18:56:41] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador meta setprefix '&9[CREADOR]'
-[18:56:41] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:56:41] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 '&9[CREADOR]'
-[18:56:57] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador meta setprefix "&9[CREADOR]"
-[18:56:57] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:56:57] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &9[CREADOR]
-[18:57:03] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador meta setprefix "&1[CREADOR]"
-[18:57:03] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:57:03] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &1[CREADOR]
-[18:57:09] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador meta setprefix "&4&l[CREADOR]"
-[18:57:09] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:57:09] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &4&l[CREADOR]
-[18:57:19] [Server thread/INFO]: ElKeitoGG issued server command: /lp group creador meta setprefix "&4&l[CREADOR] &f"
-[18:57:19] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:57:19] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &4&l[CREADOR] &f
-[18:57:32] [Async Chat Thread - #3/INFO]: [Not Secure] <ElKeitoGG> w
-[18:58:02] [Server thread/INFO]: ElKeitoGG issued server command: /lp editor
-[18:58:35] [Server thread/INFO]: ElKeitoGG issued server command: /lp applyedits 26f2wEGG1k
-[18:58:36] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:58:36] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add * true
-[18:58:36] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
-[18:58:36] [luckperms-command-executor/INFO]: [LP] LOG > webeditor remove minecraft.admin true
-[18:58:45] [Server thread/INFO]: ElKeitoGG issued server command: /lp editor
-[18:58:53] [Server thread/INFO]: ElKeitoGG issued server command: /lp trusteditor b4c1-5954
-[18:59:57] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
-[18:59:57] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
-[18:59:57] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
-[18:59:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:59:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:59:57] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[18:59:57] [Server thread/INFO]: [TAB] Disabled in 1ms
-[18:59:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[18:59:57] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[18:59:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[18:59:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[18:59:57] [Server thread/INFO]: [LuckPerms] Closing storage...
-[18:59:57] [Server thread/INFO]: [LuckPerms] Goodbye!
-[18:59:57] [Server thread/INFO]: Loaded 1290 recipes
-[18:59:57] [Server thread/INFO]: Loaded 1399 advancements
-[18:59:57] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:59:57] [Paper Async Command Builder Thread Pool - 10/ERROR]: Caught previously unhandled exception :
-[18:59:57] [Paper Async Command Builder Thread Pool - 10/ERROR]: Paper Async Command Builder Thread Pool - 10
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[18:59:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/NametagEdit.jar'...
-[18:59:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/NametagEdit.jar' in 228ms.
-[18:59:57] [Server thread/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[18:59:57] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (5):
- - LuckPerms (5.4.153), NametagEdit (4.5.23), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[18:59:57] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[18:59:57] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[18:59:57] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[18:59:57] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[18:59:57] [Server thread/INFO]: [NametagEdit] Loading server plugin NametagEdit v4.5.23
-[18:59:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:59:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[18:59:58] [Server thread/INFO]:         __    
-[18:59:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[18:59:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:59:58] [Server thread/INFO]: 
-[18:59:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:59:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:59:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:59:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:59:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 547ms)
-[18:59:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[18:59:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[18:59:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[18:59:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[18:59:58] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[18:59:59] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[18:59:59] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[18:59:59] [Server thread/INFO]: [TAB] Loaded NMS hook in 47ms
-[18:59:59] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[19:00:00] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:00:00] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[19:00:00] [Server thread/INFO]: [TAB] Enabled in 784ms
-[19:00:00] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
-[19:00:00] [Server thread/ERROR]: Error occurred while enabling NametagEdit v4.5.23 (Is it up to date?)
-java.lang.ExceptionInInitializerError: null
-	at NametagEdit.jar/com.nametagedit.plugin.packets.PacketWrapper.<clinit>(PacketWrapper.java:28) ~[NametagEdit.jar:?]
-	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.testCompat(NametagEdit.java:103) ~[NametagEdit.jar:?]
-	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.onEnable(NametagEdit.java:39) ~[NametagEdit.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.Bukkit.reload(Bukkit.java:1027) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
-	at NametagEdit.jar/com.nametagedit.plugin.packets.PacketAccessor.<clinit>(PacketAccessor.java:15) ~[NametagEdit.jar:?]
-	... 39 more
-[19:00:00] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
-[19:00:00] [Server thread/ERROR]: Error occurred while disabling NametagEdit v4.5.23
-java.lang.NullPointerException: Cannot invoke "com.nametagedit.plugin.NametagManager.reset()" because "this.manager" is null
-	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.onDisable(NametagEdit.java:86) ~[NametagEdit.jar:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at org.bukkit.Bukkit.reload(Bukkit.java:1027) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:00:00] [Server thread/INFO]: ElKeitoGG: Reload complete.
-[19:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
-[19:00:00] [Server thread/INFO]: Timings Reset
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[19:00:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[19:00:00] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[19:00:00] [Server thread/INFO]: 5 placeholder hook(s) registered!
-[19:00:00] [Craft Scheduler Thread - 26 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:00:00] [Craft Scheduler Thread - 26 - Vault/INFO]: [Vault] No new version available
-[19:00:03] [Async Chat Thread - #5/INFO]: [Not Secure] <ElKeitoGG> w
-[19:00:05] [Server thread/INFO]: ElKeitoGG issued server command: /pl
-[19:00:53] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
-[19:00:53] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
-[19:00:53] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
-[19:00:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:00:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:00:53] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[19:00:53] [Server thread/INFO]: [TAB] Disabled in 1ms
-[19:00:53] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[19:00:53] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[19:00:53] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[19:00:53] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:00:53] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:00:53] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:00:53] [Server thread/INFO]: Loaded 1290 recipes
-[19:00:53] [Server thread/INFO]: Loaded 1399 advancements
-[19:00:53] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:00:53] [Paper Async Command Builder Thread Pool - 11/ERROR]: Caught previously unhandled exception :
-[19:00:53] [Paper Async Command Builder Thread Pool - 11/ERROR]: Paper Async Command Builder Thread Pool - 11
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[19:00:53] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Nametagsplusplus-1.2.1-stable.jar'...
-[19:00:54] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Nametagsplusplus-1.2.1-stable.jar' in 81ms.
-[19:00:54] [Server thread/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[19:00:54] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (5):
- - LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131), nametags (1.2.1-stable)
-[19:00:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[19:00:54] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[19:00:54] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[19:00:54] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[19:00:54] [Server thread/INFO]: [nametags] Loading server plugin nametags v1.2.1-stable
-[19:00:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:00:54] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[19:00:54] [Server thread/INFO]:         __    
-[19:00:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[19:00:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:00:54] [Server thread/INFO]: 
-[19:00:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:00:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:00:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:00:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:00:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 552ms)
-[19:00:54] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[19:00:55] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[19:00:55] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[19:00:55] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[19:00:55] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[19:00:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:00:55] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[19:00:55] [Server thread/INFO]: [TAB] Loaded NMS hook in 48ms
-[19:00:55] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[19:00:56] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:00:56] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[19:00:56] [Server thread/INFO]: [TAB] Enabled in 691ms
-[19:00:56] [Server thread/INFO]: [nametags] Enabling nametags v1.2.1-stable
-[19:00:56] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:00:56] [Server thread/INFO]: ElKeitoGG: Reload complete.
-[19:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
-[19:00:56] [Server thread/INFO]: Timings Reset
-[19:00:56] [Craft Scheduler Thread - 29 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[19:00:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[19:00:56] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[19:00:56] [Server thread/INFO]: 5 placeholder hook(s) registered!
-[19:00:56] [Craft Scheduler Thread - 29 - Vault/INFO]: [Vault] No new version available
-[19:00:58] [Async Chat Thread - #6/INFO]: [Not Secure] <ElKeitoGG> w
-[19:01:00] [Server thread/INFO]: ElKeitoGG issued server command: /pl
-[19:01:07] [Server thread/INFO]: ElKeitoGG issued server command: /nametags:tag
-[19:03:07] [Async Chat Thread - #7/INFO]: [Not Secure] <ElKeitoGG> ww
-[19:03:07] [Server thread/INFO]: ElKeitoGG lost connection: Timed out
-[19:03:07] [Server thread/INFO]: ElKeitoGG left the game
-[19:03:59] [User Authenticator #2/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
-[19:03:59] [Server thread/INFO]: ElKeitoGG joined the game
-[19:03:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:03:59] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:38587] logged in with entity id 3911 at ([world]-39.53747960476604, 72.16610926093821, -120.51411161442473)
-[19:04:03] [Server thread/INFO]: ElKeitoGG issued server command: /nte
-[19:04:08] [Server thread/INFO]: ElKeitoGG issued server command: /nametags:tags ElKeitoGG ElKeitoGG
-[19:04:13] [Server thread/INFO]: ElKeitoGG issued server command: /tags reload
-[19:04:13] [Server thread/INFO]: [nametags] NameTagPlugin has been disabled.
-[19:04:13] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
-[19:04:13] [Server thread/INFO]: Plugin configuration reloaded successfully.
-[19:04:16] [Async Chat Thread - #9/INFO]: [Not Secure] <ElKeitoGG> w
-[19:04:26] [Server thread/INFO]: ElKeitoGG issued server command: /nametags:tag
-[19:04:36] [Server thread/INFO]: ElKeitoGG issued server command: /tag ElKeitoGG prefix
-[19:04:47] [Server thread/INFO]: ElKeitoGG issued server command: /baltop
-[19:05:57] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[19:05:57] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[19:05:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:05:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:05:57] [Server thread/INFO]: [nametags] Disabling nametags v1.2.1-stable
-[19:05:57] [Server thread/INFO]: [nametags] NameTagPlugin has been disabled.
-[19:05:57] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[19:05:57] [Server thread/INFO]: [TAB] Disabled in 1ms
-[19:05:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[19:05:57] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[19:05:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[19:05:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:05:57] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:05:57] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:05:57] [Server thread/INFO]: Loaded 1290 recipes
-[19:05:57] [Server thread/INFO]: Loaded 1399 advancements
-[19:05:57] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:05:57] [Server thread/INFO]: [PluginInitializerManager] Initialized 8 plugins
-[19:05:57] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
- - Essentials (2.21.0-dev+166-fb6edc0), EssentialsChat (2.21.0-dev+166-fb6edc0), EssentialsSpawn (2.21.0-dev+166-fb6edc0), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131), nametags (1.2.1-stable)
-[19:05:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[19:05:58] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[19:05:58] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+166-fb6edc0
-[19:05:58] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[19:05:58] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:05:58] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[19:05:58] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:05:58] [Server thread/INFO]: [nametags] Loading server plugin nametags v1.2.1-stable
-[19:05:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:05:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[19:05:58] [Server thread/INFO]:         __    
-[19:05:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[19:05:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:05:58] [Server thread/INFO]: 
-[19:05:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:05:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:05:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:05:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:05:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 546ms)
-[19:05:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[19:05:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[19:05:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[19:05:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[19:05:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[19:05:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+166-fb6edc0
-[19:05:59] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
-[19:05:59] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[19:05:59] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
-[19:05:59] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
-[19:05:59] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
-[19:05:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[19:05:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[19:05:59] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[19:05:59] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[19:05:59] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
-[19:05:59] [Server thread/INFO]: [Essentials] Done converting random teleport config.
-[19:05:59] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[19:05:59] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[19:06:00] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
-[19:06:00] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[19:06:00] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
-[19:06:00] [Server thread/INFO]: [Essentials] Using locale en
-[19:06:00] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[19:06:00] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[19:06:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[19:06:00] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[19:06:00] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[19:06:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:06:00] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:06:00] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[19:06:00] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[19:06:00] [Server thread/INFO]: [TAB] Loaded NMS hook in 45ms
-[19:06:01] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[19:06:01] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:06:01] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[19:06:01] [Server thread/INFO]: [TAB] Enabled in 782ms
-[19:06:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:06:01] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[19:06:01] [Server thread/INFO]: [nametags] Enabling nametags v1.2.1-stable
-[19:06:01] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:06:01] [Server thread/INFO]: CONSOLE: Reload complete.
-[19:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
-[19:06:01] [Server thread/INFO]: Timings Reset
-[19:06:01] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[19:06:01] [Craft Scheduler Thread - 32 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:06:01] [Craft Scheduler Thread - 33 - Essentials/INFO]: [Essentials] Fetching version information...
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[19:06:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[19:06:01] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[19:06:01] [Server thread/INFO]: 5 placeholder hook(s) registered!
-[19:06:01] [Craft Scheduler Thread - 32 - Vault/INFO]: [Vault] No new version available
-[19:06:24] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
-[19:06:24] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
-[19:06:24] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
-[19:06:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:06:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:06:24] [Server thread/INFO]: [nametags] Disabling nametags v1.2.1-stable
-[19:06:24] [Server thread/INFO]: [nametags] NameTagPlugin has been disabled.
-[19:06:24] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:06:24] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[19:06:24] [Server thread/INFO]: [TAB] Disabled in 0ms
-[19:06:24] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:06:24] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[19:06:24] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+166-fb6edc0
-[19:06:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[19:06:24] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
-[19:06:24] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[19:06:24] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[19:06:24] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:06:24] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:06:24] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:06:25] [Server thread/INFO]: Loaded 1290 recipes
-[19:06:25] [Server thread/INFO]: Loaded 1399 advancements
-[19:06:25] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:06:25] [Paper Async Command Builder Thread Pool - 14/ERROR]: Caught previously unhandled exception :
-[19:06:25] [Paper Async Command Builder Thread Pool - 14/ERROR]: Paper Async Command Builder Thread Pool - 14
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[19:06:25] [Server thread/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[19:06:25] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (7):
- - Essentials (2.21.0-dev+166-fb6edc0), EssentialsChat (2.21.0-dev+166-fb6edc0), EssentialsSpawn (2.21.0-dev+166-fb6edc0), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), TAB (5.0.6), Vault (1.7.3-b131)
-[19:06:25] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
-[19:06:25] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[19:06:25] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+166-fb6edc0
-[19:06:25] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[19:06:25] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:06:25] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
-[19:06:25] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:06:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:06:25] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
-[19:06:25] [Server thread/INFO]:         __    
-[19:06:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
-[19:06:25] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:06:25] [Server thread/INFO]: 
-[19:06:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:06:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:06:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:06:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:06:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 588ms)
-[19:06:26] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[19:06:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[19:06:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[19:06:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[19:06:26] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[19:06:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+166-fb6edc0
-[19:06:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[19:06:27] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[19:06:27] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[19:06:27] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
-[19:06:27] [Server thread/INFO]: [Essentials] Found 1 files to convert...
-[19:06:27] [Server thread/INFO]: [Essentials] Converted 0/1
-[19:06:27] [Server thread/INFO]: [Essentials] Ban format update complete.
-[19:06:27] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
-[19:06:27] [Server thread/INFO]: [Essentials] Done converting ignore list.
-[19:06:27] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
-[19:06:27] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
-[19:06:27] [Server thread/INFO]: [Essentials] Done converting mail list.
-[19:06:27] [Server thread/INFO]: [Essentials] #===========================================================================#
-[19:06:27] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
-[19:06:27] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
-[19:06:27] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
-[19:06:27] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
-[19:06:27] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
-[19:06:27] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
-[19:06:27] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
-[19:06:27] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
-[19:06:27] [Server thread/INFO]: [Essentials] 
-[19:06:27] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
-[19:06:27] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
-[19:06:27] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
-[19:06:27] [Server thread/INFO]: [Essentials] #===========================================================================#
-[19:06:27] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
-[19:06:27] [Server thread/INFO]: [Essentials] #===========================================================================#
-[19:06:27] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
-[19:06:27] [Server thread/INFO]: [Essentials] 
-[19:06:27] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
-[19:06:27] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
-[19:06:27] [Server thread/INFO]: [Essentials] 
-[19:06:27] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
-[19:06:27] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
-[19:06:27] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
-[19:06:27] [Server thread/INFO]: [Essentials]  to us on GitHub:
-[19:06:27] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
-[19:06:27] [Server thread/INFO]: [Essentials] #===========================================================================#
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[19:06:27] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[19:06:27] [Server thread/INFO]: [Essentials] Using locale en
-[19:06:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[19:06:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[19:06:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[19:06:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[19:06:27] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[19:06:28] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:06:28] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:06:28] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[19:06:28] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
-[19:06:28] [Server thread/INFO]: [TAB] Loaded NMS hook in 69ms
-[19:06:28] [Server thread/INFO]: [TAB] [WARN] [config.yml] Configuration section "scoreboard.scoreboards.scoreboard-1.20.3+" has unknown key "scoreboard". Valid keys: [display-condition, title, lines]
-[19:06:29] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:06:29] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
-[19:06:29] [Server thread/INFO]: [TAB] Enabled in 792ms
-[19:06:29] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:06:29] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:06:29] [Server thread/INFO]: ElKeitoGG: Reload complete.
-[19:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
-[19:06:29] [Server thread/INFO]: Timings Reset
-[19:06:29] [Craft Scheduler Thread - 35 - Essentials/INFO]: [Essentials] Fetching version information...
-[19:06:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
-[19:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[19:06:29] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
-[19:06:29] [Server thread/INFO]: 5 placeholder hook(s) registered!
-[19:06:29] [Server thread/WARN]: ElKeitoGG moved too quickly! -4.1385992296393255,-0.20326439933128881,9.324462434205145
-[19:06:29] [Craft Scheduler Thread - 37 - Vault/INFO]: [Vault] Checking for Updates ... 
-[19:06:29] [Craft Scheduler Thread - 37 - Vault/INFO]: [Vault] No new version available
-[19:06:41] [Server thread/INFO]: ElKeitoGG issued server command: /baltop
-[19:06:46] [Server thread/INFO]: ElKeitoGG issued server command: /bal ElKeitoGG add
-[19:06:51] [Server thread/INFO]: ElKeitoGG issued server command: /bal help
-[19:06:54] [Server thread/INFO]: ElKeitoGG issued server command: /balhelp
-[19:07:00] [Server thread/INFO]: ElKeitoGG issued server command: /balance ElKeitoGG add 1000000
-[19:07:05] [Async Chat Thread - #11/INFO]: [Not Secure] <[CREADOR] ElKeitoGG> w
-[19:07:14] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
-[19:07:14] [Server thread/INFO]: ElKeitoGG left the game
-[19:07:20] [Server thread/INFO]: Stopping the server
-[19:07:20] [Server thread/INFO]: Stopping server
-[19:07:20] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.0-dev+166-fb6edc0
-[19:07:20] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
-[19:07:20] [Server thread/INFO]: [TAB] Disabled in 1ms
-[19:07:20] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.21.0-dev+166-fb6edc0
-[19:07:20] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[19:07:20] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+166-fb6edc0
-[19:07:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[19:07:20] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[19:07:20] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
-[19:07:20] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:07:20] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:07:20] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:07:20] [Server thread/INFO]: Saving players
-[19:07:20] [Server thread/INFO]: Saving worlds
-[19:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saved 416 block chunks, 239 entity chunks, 0 poi chunks in world 'world' in 0.40s
-[19:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[19:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[19:07:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[19:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:21:21] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[04:21:21] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[04:21:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:21:21] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[04:21:22] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[04:21:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:21:28] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[04:21:28] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[04:21:30] [ServerMain/INFO]: No existing world data, creating new world
+[04:21:31] [ServerMain/INFO]: Loaded 1290 recipes
+[04:21:31] [ServerMain/INFO]: Loaded 1399 advancements
+[04:21:31] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:21:31] [Server thread/INFO]: Loading properties
+[04:21:31] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 8987ms.
+[04:21:31] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[04:21:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:21:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:21:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:21:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[04:21:33] [Server thread/INFO]: Default game type: SURVIVAL
+[04:21:33] [Server thread/INFO]: Generating keypair
+[04:21:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:21:33] [Server thread/INFO]: Using epoll channel type
+[04:21:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:21:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:21:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:21:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:21:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:21:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:21:33] [Server thread/INFO]: Preparing level "world"
+[04:21:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:21:49] [Server thread/INFO]: Time elapsed: 5881 ms
+[04:21:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:21:51] [Server thread/INFO]: Time elapsed: 2149 ms
+[04:21:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:21:52] [Server thread/INFO]: Time elapsed: 483 ms
+[04:21:52] [Server thread/INFO]: [spark] Starting background profiler...
+[04:21:52] [Server thread/INFO]: Done preparing level "world" (18.872s)
+[04:21:52] [Server thread/INFO]: Running delayed init tasks
+[04:21:52] [Server thread/INFO]: Done (32.242s)! For help, type "help"
+[04:21:52] [Server thread/INFO]: *************************************************************************************
+[04:21:52] [Server thread/INFO]: This is the first time you're starting this server.
+[04:21:52] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[04:21:52] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[04:21:52] [Server thread/INFO]: *************************************************************************************
+[04:21:52] [Server thread/INFO]: Timings Reset
+[04:25:15] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[04:25:15] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[04:25:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:25:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:25:15] [Server thread/INFO]: Loaded 1290 recipes
+[04:25:15] [Server thread/INFO]: Loaded 1399 advancements
+[04:25:16] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:25:16] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/TAB v5.0.6.jar'...
+[04:25:16] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[04:25:16] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/EssentialsXChat-2.20.1.jar'...
+[04:25:16] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/EssentialsXSpawn-2.20.1.jar'...
+[04:25:16] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EssentialsXSpawn-2.20.1.jar' in 166ms.
+[04:25:16] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/EssentialsX-2.20.1.jar'...
+[04:25:16] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EssentialsXChat-2.20.1.jar' in 230ms.
+[04:25:16] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 401ms.
+[04:25:16] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TAB v5.0.6.jar' in 645ms.
+[04:25:17] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EssentialsX-2.20.1.jar' in 710ms.
+[04:25:17] [Server thread/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[04:25:17] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), TAB (5.0.6), Vault (1.7.3-b131)
+[04:25:17] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[04:25:17] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[04:25:17] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[04:25:17] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[04:25:17] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[04:25:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:25:17] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[04:25:17] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[04:25:17] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[04:25:18] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[04:25:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[04:25:18] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:25:18] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[04:25:19] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[04:25:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[04:25:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:25:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:25:19] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[04:25:19] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[04:25:19] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[04:25:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[04:25:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[04:25:19] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[04:25:19] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[04:25:19] [Server thread/INFO]: [Essentials] Using locale en
+[04:25:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:25:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:25:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[04:25:20] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[04:25:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[04:25:20] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[04:25:20] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[04:25:20] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[04:25:20] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[04:25:20] [Server thread/INFO]: [TAB] Loaded NMS hook in 138ms
+[04:25:21] [Server thread/INFO]: [TAB] Enabled in 1088ms
+[04:25:21] [Server thread/INFO]: CONSOLE: Reload complete.
+[04:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[04:25:21] [Server thread/INFO]: Timings Reset
+[04:25:21] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:25:21] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[04:25:21] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:25:22] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[04:28:06] [User Authenticator #0/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[04:28:08] [Server thread/INFO]: ElKeitoGG joined the game
+[04:28:08] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:42279] logged in with entity id 43 at ([world]-2.5, 86.0, -9.5)
+[04:28:08] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:28:08] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[04:28:08] [Server thread/INFO]: ElKeitoGG has made the advancement [Getting an Upgrade]
+[04:28:14] [Async Chat Thread - #0/INFO]: [Not Secure] <ElKeitoGG> w
+[04:28:47] [Server thread/INFO]: Made ElKeitoGG a server operator
+[04:28:50] [Async Chat Thread - #0/INFO]: [Not Secure] <ElKeitoGG> w
+[04:30:30] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
+[04:30:30] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
+[04:30:30] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
+[04:30:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:30:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:30:30] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[04:30:30] [Server thread/INFO]: [TAB] Disabled in 1ms
+[04:30:30] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[04:30:30] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[04:30:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[04:30:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[04:30:30] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[04:30:30] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[04:30:30] [Server thread/INFO]: Loaded 1290 recipes
+[04:30:30] [Server thread/INFO]: Loaded 1399 advancements
+[04:30:31] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:30:31] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[04:30:31] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), TAB (5.0.6), Vault (1.7.3-b131)
+[04:30:31] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[04:30:33] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[04:30:33] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[04:30:33] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[04:30:33] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[04:30:33] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[04:30:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:30:33] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[04:30:33] [Server thread/INFO]:         __    
+[04:30:33] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[04:30:33] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:30:33] [Server thread/INFO]: 
+[04:30:33] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:30:33] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:30:34] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:30:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:30:34] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 954ms)
+[04:30:34] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[04:30:34] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[04:30:34] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[04:30:34] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[04:30:34] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[04:30:34] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[04:30:34] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:30:35] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:30:35] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:30:35] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[04:30:35] [Server thread/INFO]: [Essentials] Found 1 files to convert...
+[04:30:35] [Server thread/INFO]: [Essentials] Converted 0/1
+[04:30:35] [Server thread/INFO]: [Essentials] Ban format update complete.
+[04:30:35] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[04:30:35] [Server thread/INFO]: [Essentials] Done converting ignore list.
+[04:30:35] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[04:30:35] [Server thread/INFO]: [Essentials] Done converting legacy userdata keys to Configurate.
+[04:30:35] [Server thread/INFO]: [Essentials] Done converting mail list.
+[04:30:35] [Server thread/INFO]: [Essentials] #===========================================================================#
+[04:30:35] [Server thread/INFO]: [Essentials]  EssentialsX will now purge any NPC accounts which were incorrectly created.
+[04:30:35] [Server thread/INFO]: [Essentials]  Only NPC accounts with the default starting balance will be deleted. If
+[04:30:35] [Server thread/INFO]: [Essentials]  they turn out to be valid NPC accounts, they will be re-created as needed.
+[04:30:35] [Server thread/INFO]: [Essentials]  Any files deleted here will be backed up to the 
+[04:30:35] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+[04:30:35] [Server thread/INFO]: [Essentials]  have been purged incorrectly, you should restore it from the backup and
+[04:30:35] [Server thread/INFO]: [Essentials]  report it to us on GitHub:
+[04:30:35] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[04:30:35] [Server thread/INFO]: [Essentials] 
+[04:30:35] [Server thread/INFO]: [Essentials]  NOTE: This is a one-time process and will take several minutes if you have
+[04:30:35] [Server thread/INFO]: [Essentials]  a lot of userdata files! If you interrupt this process, EssentialsX will
+[04:30:35] [Server thread/INFO]: [Essentials]  skip the process until you rename or remove the backup folder.
+[04:30:35] [Server thread/INFO]: [Essentials] #===========================================================================#
+[04:30:35] [Server thread/INFO]: [Essentials] Found ~1 files under "plugins/Essentials/userdata"...
+[04:30:35] [Server thread/INFO]: [Essentials] #===========================================================================#
+[04:30:35] [Server thread/INFO]: [Essentials]  EssentialsX has finished purging NPC accounts.
+[04:30:35] [Server thread/INFO]: [Essentials] 
+[04:30:35] [Server thread/INFO]: [Essentials]  Deleted accounts: 0
+[04:30:35] [Server thread/INFO]: [Essentials]  Total accounts processed: 1
+[04:30:35] [Server thread/INFO]: [Essentials] 
+[04:30:35] [Server thread/INFO]: [Essentials]  Purged accounts have been backed up to
+[04:30:35] [Server thread/INFO]: [Essentials]  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+[04:30:35] [Server thread/INFO]: [Essentials]  if needed. Please report any files which have been incorrectly deleted
+[04:30:35] [Server thread/INFO]: [Essentials]  to us on GitHub:
+[04:30:35] [Server thread/INFO]: [Essentials]  https://github.com/EssentialsX/Essentials/issues/new/choose
+[04:30:35] [Server thread/INFO]: [Essentials] #===========================================================================#
+[04:30:35] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[04:30:35] [Server thread/INFO]: [Essentials] Using locale en
+[04:30:36] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:30:36] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:30:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[04:30:36] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[04:30:36] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[04:30:36] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[04:30:36] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[04:30:36] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[04:30:36] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[04:30:36] [Server thread/INFO]: [TAB] Loaded NMS hook in 50ms
+[04:30:37] [Server thread/INFO]: [TAB] Enabled in 757ms
+[04:30:37] [Server thread/INFO]: ElKeitoGG: Reload complete.
+[04:30:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[04:30:37] [Server thread/INFO]: Timings Reset
+[04:30:37] [Craft Scheduler Thread - 11 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:30:37] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[04:30:37] [Craft Scheduler Thread - 13 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:30:37] [Craft Scheduler Thread - 13 - Vault/INFO]: [Vault] No new version available
+[04:30:40] [Server thread/INFO]: ElKeitoGG issued server command: /pl
+[04:30:42] [Server thread/INFO]: ElKeitoGG issued server command: /lp editor
+[04:30:51] [Server thread/INFO]: ElKeitoGG issued server command: /lp trusteditor 356a-7459

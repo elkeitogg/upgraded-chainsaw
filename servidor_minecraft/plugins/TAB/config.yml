@@ -86,7 +86,7 @@ bossbar:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Scoreboard
 scoreboard:
-  enabled: true
+  enabled: false
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
@@ -95,36 +95,37 @@ scoreboard:
   delay-on-join-milliseconds: 0
   scoreboards:
     scoreboard-1.20.3+:
-      title: "<#E0B11E>Server Keo</#FF0000>"
+      title: "<#E0B11E>MyServer</#FF0000>"
       display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
       lines:
-      - '&4&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
-      - '&c&l%player_name%'
-      - '&f┃ &2✎ &fʀᴀɴᴋ: &#ffff00%luckperms_prefix%'
-      - '&7┃ &#00bbff:watch: &fᴘʟᴀʏᴛɪᴍᴇ: &#00bbff%statistic_time_played:hours%'
-      - '&#ffff00ɪɴꜰᴏ:'
-      - '&f┃ &6☠ &fᴋɪʟʟ: &4%statistic_player_kills%'
-      - '&f┃ &b☀&fmoney: &#ffff00%vault_eco_balance%'
-      - '&7┃ &3:bow_and_arrow: &fᴅᴇᴀᴛʜѕ: &#800080%statistic_deaths%'
-      - '&#ffbb00ѕᴇʀᴠᴇʀ:'
-      - '&f┃ &4☀ &fᴛᴘѕ &e%tps%'
-      - '&7┃ &b☄ &fᴏɴʟɪɴᴇ: &#00ff00%server_online%'
-      - '&4&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
-      scoreboard:
-      title: "<#E0B11E>Server Keo</#FF0000>"
+        - "&7%date%"
+        - "%animation:MyAnimation1%"
+        - "&6Online:"
+        - "* &eOnline&7:||%online%"
+        - "* &eCurrent World&7:||%worldonline%"
+        - "* &eStaff&7:||%staffonline%"
+        - ""
+        - "&6Personal Info:"
+        - "* &bRank&7:||%group%"
+        - "* &bPing&7:||%ping%&8ms"
+        - "* &bWorld&7:||%world%"
+        - "%animation:MyAnimation1%"
+    scoreboard:
+      title: "<#E0B11E>MyServer</#FF0000>"
       lines:
-      - '&4&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
-      - '&c&l%player_name%'
-      - '&f┃ &2✎ &fʀᴀɴᴋ: &#ffff00%luckperms_prefix%'
-      - '&7┃ &#00bbff⌚ &fᴘʟᴀʏᴛɪᴍᴇ: &#00bbff%statistic_time_played:hours%'
-      - '&#ffff00ɪɴꜰᴏ:'
-      - '&f┃ &6☠ &fᴋɪʟʟ: &4%statistic_player_kills%'
-      - '&f┃ &b☀ &fmoney: &#ffff00%vault_eco_balance%'
-      - '&7┃ &3� &fᴅᴇᴀᴛʜѕ: &#800080%statistic_deaths%'
-      - '&#ffbb00ѕᴇʀᴠᴇʀ:'
-      - '&f┃ &4☀ &fᴛᴘѕ &e%tps%'
-      - '&7┃ &b☄ &fᴏɴʟɪɴᴇ: &#00ff00%server_online%'
-      - '&4&l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+        - "&7%date%"
+        - "%animation:MyAnimation1%"
+        - "&6Online:"
+        - "* &eOnline&7: &f%online%"
+        - "* &eCurrent World&7: &f%worldonline%"
+        - "* &eStaff&7: &f%staffonline%"
+        - ""
+        - "&6Personal Info:"
+        - "* &bRank&7: &f%group%"
+        - "* &bPing&7: &f%ping%&8ms"
+        - "* &bWorld&7: &f%world%"
+        - "%animation:MyAnimation1%"
+
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:
   enabled: false
