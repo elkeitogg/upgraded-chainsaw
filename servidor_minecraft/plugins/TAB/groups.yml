@@ -1,12 +1,12 @@
-Creador:
-  tabprefix: "%vault-prefix%"
-  tagprefix: "%"vault-prefix%"
-Staff:
-  tabprefix: "%vault-prefix%"
-  tagprefix: "%vault-prefix%"
-Default:
-  tabprefix: "%vault-prefix%"
-  tagprefix: "%vault-prefix%"
+# Creador:
+ # tabprefix: "&0&l[&4&lCREADOR&0&l] &f"
+ # tagprefix: "&2&lCREADOR &f"
+# Staff:
+ # tabprefix: "&0&l[&6&lSTAFF&0&l] &f"
+ # tagprefix: "&2&lSTAFF &f"
+# Default:
+ # tabprefix: "&0&l[&a&lUsuario&0&l] &7"
+ # tagprefix: "&2&lUsuario &7"
 example_group:
   header:
     - "This is an example of per-group header/footer"
@@ -15,12 +15,11 @@ example_group:
 
  # default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
 _DEFAULT_:
-  tabprefix: "%vault-prefix%"
-  tagprefix: "%vault-prefix%"
-  customtabname: "%essentials-nickname%"
-  customtagname: "%essentials-nickname%"
-  tabsuffix: "%%vault-suffix%%afk%"
-  tagsuffix: "%%vault-suffix%%afk%"
+  tabprefix: "%luckperms-prefix%"
+  tagprefix: "%luckperms-prefix%"
+  customtabname: "%player%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"
 
 per-world:
   world1:
