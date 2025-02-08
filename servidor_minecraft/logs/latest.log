@@ -473,3 +473,42 @@ java.util.ConcurrentModificationException: null
 [04:49:43] [Server thread/INFO]: ElKeitoGG issued server command: /color
 [04:49:44] [Server thread/INFO]: ElKeitoGG issued server command: /colo
 [04:49:45] [Server thread/INFO]: ElKeitoGG issued server command: /color
+[04:51:31] [Async Chat Thread - #8/INFO]: [Not Secure] [CREADOR] ElKeitoGG: w
+[05:00:22] [Server thread/INFO]: ElKeitoGG issued server command: /lp applyedits cyk84Jzm1v
+[05:00:27] [Server thread/INFO]: ElKeitoGG issued server command: /lp applyedits cyk84Jzm1v --force
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.tempban true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.feed true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.vanish true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.afk.auto true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.chat true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.tempbanip true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.mute true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.weather true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.socialspy true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.clearinventory true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.unbanip true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.god true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.invsee true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.tp true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.heal true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.near true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.kick true
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[05:00:27] [luckperms-command-executor/INFO]: [LP] LOG > webeditor add essentials.afk true
