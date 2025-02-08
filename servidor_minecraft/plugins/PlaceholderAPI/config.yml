@@ -41,3 +41,29 @@ expansions:
       low: '&c'
   localtime:
     date_format: dd/MM/yyyy hh:mma
+  playerlist:
+    offline-text: Offline
+    argument-separator: ','
+    lists:
+      players:
+        type: ONLINE
+        included: true
+        filters:
+        - '!PERMISSION:group.staff'
+        - CANSEE
+      staff:
+        type: ONLINE
+        included: true
+        filters:
+        - PERMISSION:group.staff
+        - CANSEE
+    groups:
+      staffAndPlayers:
+        gap: 1
+        lists:
+          staff:
+            title: Staff Members (%amount%)
+            max: 10
+            remaining: '... and %remaining% more!'
+          players:
+            title: Players (%amount%)

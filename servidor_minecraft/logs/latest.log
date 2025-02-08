@@ -1935,3 +1935,97 @@ java.util.ConcurrentModificationException: null
 [06:10:02] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [06:10:02] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
 [06:10:02] [Server thread/INFO]: [TAB] Enabled in 13ms
+[06:12:23] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:12:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[06:12:23] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:12:23] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:12:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:12:23] [Server thread/INFO]: [TAB] Enabled in 7ms
+[06:14:21] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:14:21] [Server thread/INFO]: [TAB] Disabled in 1ms
+[06:14:21] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:14:21] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:14:21] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:14:21] [Server thread/INFO]: [TAB] Enabled in 9ms
+[06:14:33] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerTime
+[06:14:33] [placeholderapi-io-#5/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:14:38] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[06:14:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[06:14:38] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[06:14:38] [Craft Scheduler Thread - 120 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[06:14:40] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:14:40] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:14:40] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:14:40] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:14:40] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:14:40] [Server thread/INFO]: [TAB] Enabled in 7ms
+[06:15:23] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:15:23] [Server thread/INFO]: [TAB] Disabled in 1ms
+[06:15:23] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:15:23] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:15:23] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:15:23] [Server thread/INFO]: [TAB] Enabled in 6ms
+[06:15:32] [Server thread/INFO]: ElKeitoGG issued server command: /weather clear
+[06:15:34] [Server thread/INFO]: ElKeitoGG issued server command: /time 1
+[06:16:18] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerStats
+[06:16:18] [placeholderapi-io-#7/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:16:25] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerList
+[06:16:25] [placeholderapi-io-#9/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:16:29] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerTime
+[06:16:29] [placeholderapi-io-#7/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:16:33] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[06:16:33] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[06:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[06:16:33] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[06:16:33] [Craft Scheduler Thread - 121 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[06:16:37] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:16:37] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:16:37] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:16:37] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:16:37] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:16:37] [Server thread/INFO]: [TAB] Enabled in 6ms
+[06:16:42] [Async Chat Thread - #18/INFO]: [Not Secure] [CREADOR] ElKeitoGG: w
+[06:17:52] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
+[06:17:52] [Server thread/INFO]: ElKeitoGG left the game
+[06:19:09] [User Authenticator #5/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[06:19:10] [Server thread/INFO]: ElKeitoGG joined the game
+[06:19:10] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:47185] logged in with entity id 10255 at ([world]-20.146003811828734, 124.0, 172.59257526979167)
+[06:19:10] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:19:10] [Craft Scheduler Thread - 125 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[06:21:03] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:21:03] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:21:03] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:21:03] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:21:03] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:21:03] [Server thread/INFO]: [TAB] Enabled in 7ms
+[06:21:37] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:21:37] [Server thread/INFO]: [TAB] Disabled in 1ms
+[06:21:37] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:21:37] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:21:37] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:21:37] [Server thread/INFO]: [TAB] Enabled in 8ms
+[06:21:45] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:21:45] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:21:45] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:21:45] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:21:45] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:21:45] [Server thread/INFO]: [TAB] Enabled in 6ms
+[06:21:46] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[06:21:46] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:21:46] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:21:46] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:21:46] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:21:46] [Server thread/INFO]: [TAB] Enabled in 6ms

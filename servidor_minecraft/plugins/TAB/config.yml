@@ -91,7 +91,7 @@ scoreboard:
       - '&8&l| &f☠ &7ᴍᴜᴇʀᴛᴇꜱ&f: &#FFFFFF%statistic_deaths%'
       - '&8&l| &f⭐ &7ᴅɪɴᴇʀᴏ&f: &#FFFFFF$%vault_eco_balance_fixed%'
       - '&r'
-      - ''
+      - '&8&l| &f⌚ &7ᴛɪᴇᴍᴘᴏ ᴅᴇ ᴊᴜᴇɢᴏ&f: &#FFFFFF%statistic_time_played:hours%h'
       - '&r'
       - <#084CFB>&lᴅ<#1256FB>&lɪ<#1B60FB>&lꜱ<#2569FB>&lᴄ<#2F73FB>&lᴏ<#397DFC>&lʀ<#4287FC>&lᴅ<#4C91FC>&l.<#569BFC>&lɢ<#5FA4FC>&lɢ<#69AEFC>&l/<#73B8FC>&lᴅ<#7CC2FC>&lᴇ<#86CCFD>&lɴ<#90D6FD>&lᴋ<#9ADFFD>&lᴀ<#A3E9FD>&lɪ<#ADF3FD>&lʀ
 layout:
