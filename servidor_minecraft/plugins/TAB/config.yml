@@ -68,7 +68,7 @@ bossbar:
       progress: '100'
       text: '&fWebsite: &bwww.domain.com'
 scoreboard:
-  enabled: false
+  enabled: true
   toggle-command: /sb
   remember-toggle-choice: false
   hidden-by-default: false
@@ -76,24 +76,8 @@ scoreboard:
   static-number: 0
   delay-on-join-milliseconds: 0
   scoreboards:
-    scoreboard-1.20.3+:
-      title: <#E0B11E>MyServer</#FF0000>
-      display-condition: '%player-version-id%>=765'
-      lines:
-      - '&7%date%'
-      - '%animation:MyAnimation1%'
-      - '&6Online:'
-      - '* &eOnline&7:||%online%'
-      - '* &eCurrent World&7:||%worldonline%'
-      - '* &eStaff&7:||%staffonline%'
-      - ''
-      - '&6Personal Info:'
-      - '* &bRank&7:||%group%'
-      - '* &bPing&7:||%ping%&8ms'
-      - '* &bWorld&7:||%world%'
-      - '%animation:MyAnimation1%'
     scoreboard:
-      title: <#E0B11E>MyServer</#FF0000>
+      title: <#084CFB>&lꜱ<#2064FB>&lᴜ<#377CFC>&lʀ<#4F94FC>&lᴠ<#66ABFC>&lɪ<#7EC3FC>&lᴠ<#95DBFD>&lᴀ<#ADF3FD>&lʟ
       lines:
       - '&7%date%'
       - '%animation:MyAnimation1%'

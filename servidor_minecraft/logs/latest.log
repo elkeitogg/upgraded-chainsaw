@@ -1505,3 +1505,84 @@ Caused by: java.lang.ClassCastException: class java.lang.Object cannot be cast t
 [05:31:07] [Server thread/INFO]: ElKeitoGG joined the game
 [05:31:07] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:41513] logged in with entity id 5907 at ([world]2.6565557524817613, 125.23814968241876, 94.23059626640946)
 [05:31:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:37:10] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:37:10] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[05:37:10] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning an anchor
+ in 'reader', line 80, column 14:
+          title: &#084CFB&l&nꜱ&#2064FB&l&nᴜ&#377C ... 
+                 ^
+unexpected character found &(38)
+ in 'reader', line 80, column 22:
+          title: &#084CFB&l&nꜱ&#2064FB&l&nᴜ&#377CFC&l&nʀ& ... 
+                         ^
+
+[05:37:10] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[05:37:10] [Server thread/INFO]: [TAB] - Wrap value in line 80 into quotes.
+[05:37:10] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[05:37:10] [Server thread/INFO]: [TAB] [TAB] Failed to reload, file config.yml has broken syntax. Check console for more info.
+[05:38:03] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:38:03] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:38:03] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:38:03] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:38:03] [Server thread/INFO]: [TAB] Enabled in 43ms
+[05:38:40] [Server thread/INFO]: [TAB] TAB v5.0.6
+[05:38:40] [Server thread/INFO]: [TAB]                                                                                 
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab reload
+[05:38:40] [Server thread/INFO]: [TAB]       - Reloads plugin and config
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab group/player <name> <property> <value...>
+[05:38:40] [Server thread/INFO]: [TAB]       - Do /tab group/player to show properties
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab parse <player> <placeholder> 
+[05:38:40] [Server thread/INFO]: [TAB]       - Test if a placeholder works
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab debug [player]
+[05:38:40] [Server thread/INFO]: [TAB]       - displays debug information about player
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab cpu
+[05:38:40] [Server thread/INFO]: [TAB]       - shows CPU usage of the plugin
+[05:38:40] [Server thread/INFO]: [TAB]  >> /tab group/player <name> remove
+[05:38:40] [Server thread/INFO]: [TAB]       - Clears all data about player/group
+[05:38:40] [Server thread/INFO]: [TAB]                                                                                 
+[05:38:42] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:38:42] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[05:38:42] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning an anchor
+ in 'reader', line 80, column 14:
+          title: &x&0&8&4&C&F&B&l&nꜱ&x&2&0&6&4&F& ... 
+                 ^
+unexpected character found &(38)
+ in 'reader', line 80, column 16:
+          title: &x&0&8&4&C&F&B&l&nꜱ&x&2&0&6&4&F&B& ... 
+                   ^
+
+[05:38:42] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[05:38:42] [Server thread/INFO]: [TAB] - Wrap value in line 80 into quotes.
+[05:38:42] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[05:38:42] [Server thread/INFO]: [TAB] [TAB] Failed to reload, file config.yml has broken syntax. Check console for more info.
+[05:38:59] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:38:59] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:38:59] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:38:59] [Server thread/INFO]: [TAB] Enabled in 12ms
+[05:38:59] [Server thread/INFO]: [TAB] Successfully reloaded
+[05:40:06] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:40:06] [Server thread/INFO]: [TAB] [WARN] File plugins/TAB/config.yml has broken syntax.
+[05:40:06] [Server thread/INFO]: [TAB] Error message from yaml parser: while scanning an anchor
+ in 'reader', line 80, column 14:
+          title: &#ADF3FD&lꜱ&#95DBFD&lᴜ&#7EC3FC&l ... 
+                 ^
+unexpected character found &(38)
+ in 'reader', line 80, column 22:
+          title: &#ADF3FD&lꜱ&#95DBFD&lᴜ&#7EC3FC&lʀ&#66ABF ... 
+                         ^
+
+[05:40:06] [Server thread/INFO]: [TAB] Suggestions to fix yaml syntax:
+[05:40:06] [Server thread/INFO]: [TAB] - Wrap value in line 80 into quotes.
+[05:40:06] [Server thread/INFO]: [TAB] [WARN] Did not enable due to a broken configuration file.
+[05:40:06] [Server thread/INFO]: [TAB] [TAB] Failed to reload, file config.yml has broken syntax. Check console for more info.
+[05:40:30] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:40:30] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:40:30] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:40:30] [Server thread/INFO]: [TAB] Enabled in 10ms
+[05:40:30] [Server thread/INFO]: [TAB] Successfully reloaded
+[05:40:56] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:40:56] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:40:56] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:40:56] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:40:56] [Server thread/INFO]: [TAB] Enabled in 9ms
+[05:40:56] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
