@@ -221,3 +221,255 @@
 [04:30:42] [Server thread/INFO]: ElKeitoGG issued server command: /lp editor
 [04:30:51] [Server thread/INFO]: ElKeitoGG issued server command: /lp trusteditor 356a-7459
 [04:35:12] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.tpaccept true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.tpahere true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.tpa true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add prefix.1.&a[Usuario] &7 true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.delhome true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add weight.1 true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.rules true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.warp true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add meta.default.true true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.sethome true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.home true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.tpacancel true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add weight.2 true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add group.default true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add prefix.2.&6[Staff] &7 true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add meta.default.false true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.fly true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.delwarp true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.warp true
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:41:54] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.setwarp true
+[04:42:05] [Async Chat Thread - #2/INFO]: [Not Secure] <[Usuario] ElKeitoGG> hallo
+[04:42:29] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent set staff
+[04:42:29] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
+[04:42:29] [luckperms-command-executor/INFO]: [LP] LOG > parent set staff
+[04:42:29] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add prefix.2.&6&l[STAFF] &f true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor remove prefix.2.&6[Staff] &7 true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add tab.change.* true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add tab.group.* true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add weight.3 true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add group.default true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add prefix.3.prefix\.1\.&7&l[CREADOR] &f true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.gamemode.* true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add * true
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:02] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add essentials.* true
+[04:44:12] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent set creador
+[04:44:12] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
+[04:44:12] [luckperms-command-executor/INFO]: [LP] LOG > parent set creador
+[04:44:12] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:44:54] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:54] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add prefix.3.prefix\.&4&l[CREADOR] &f true
+[04:44:54] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:44:54] [luckperms-worker-7/INFO]: [LP] LOG > webeditor remove prefix.3.prefix\.1\.&7&l[CREADOR] &f true
+[04:46:18] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:46:18] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add prefix.&4&l[CREADOR] &f true
+[04:46:18] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:46:18] [luckperms-worker-7/INFO]: [LP] LOG > webeditor remove prefix.3.prefix\.&4&l[CREADOR] &f true
+[04:46:30] [Server thread/INFO]: ElKeitoGG issued server command: /lp user ElKeitoGG parent set creador
+[04:46:30] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (elkeitogg)
+[04:46:30] [luckperms-command-executor/INFO]: [LP] LOG > parent set creador
+[04:46:38] [Async Chat Thread - #4/INFO]: [Not Secure] <[Usuario] ElKeitoGG> was
+[04:46:56] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:46:56] [luckperms-worker-5/INFO]: [LP] LOG > webeditor add prefix.3.&4&l[CREADOR] &f true
+[04:46:56] [luckperms-worker-5/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[04:46:56] [luckperms-worker-5/INFO]: [LP] LOG > webeditor remove prefix.&4&l[CREADOR] &f true
+[04:49:11] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[04:49:11] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[04:49:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:49:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:49:11] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[04:49:11] [Server thread/INFO]: [TAB] Disabled in 1ms
+[04:49:11] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[04:49:11] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[04:49:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[04:49:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[04:49:11] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[04:49:11] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[04:49:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[04:49:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:49:11] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:49:11] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:49:11] [Server thread/INFO]: Loaded 1290 recipes
+[04:49:11] [Server thread/INFO]: Loaded 1399 advancements
+[04:49:11] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:49:11] [Paper Async Command Builder Thread Pool - 5/ERROR]: Caught previously unhandled exception :
+[04:49:11] [Paper Async Command Builder Thread Pool - 5/ERROR]: Paper Async Command Builder Thread Pool - 5
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:49:12] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[04:49:12] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), TAB (5.0.6), Vault (1.7.3-b131)
+[04:49:12] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[04:49:12] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[04:49:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[04:49:12] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[04:49:12] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[04:49:12] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[04:49:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:49:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[04:49:12] [Server thread/INFO]:         __    
+[04:49:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[04:49:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:49:12] [Server thread/INFO]: 
+[04:49:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:49:12] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:49:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:49:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:49:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 877ms)
+[04:49:13] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[04:49:13] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[04:49:13] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[04:49:13] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[04:49:13] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[04:49:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[04:49:13] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:49:14] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:49:14] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:49:14] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[04:49:14] [Server thread/INFO]: [Essentials] Using locale en
+[04:49:14] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:49:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:49:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[04:49:14] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[04:49:14] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[04:49:14] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[04:49:14] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[04:49:14] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[04:49:14] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[04:49:14] [Server thread/INFO]: [TAB] Loaded NMS hook in 47ms
+[04:49:15] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:49:15] [Server thread/INFO]: [TAB] Enabled in 810ms
+[04:49:15] [Server thread/INFO]: CONSOLE: Reload complete.
+[04:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4611ms or 92 ticks behind
+[04:49:15] [Server thread/INFO]: Timings Reset
+[04:49:15] [Craft Scheduler Thread - 16 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:49:15] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[04:49:15] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:49:15] [Craft Scheduler Thread - 18 - Vault/INFO]: [Vault] No new version available
+[04:49:19] [Async Chat Thread - #6/INFO]: [Not Secure] [CREADOR] ElKeitoGG: w
+[04:49:27] [Async Chat Thread - #6/INFO]: [Not Secure] [CREADOR] ElKeitoGG: w
+[04:49:31] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[04:49:31] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[04:49:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:49:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:49:31] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[04:49:31] [Server thread/INFO]: [TAB] Disabled in 1ms
+[04:49:31] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[04:49:31] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[04:49:31] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[04:49:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[04:49:31] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[04:49:31] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[04:49:31] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[04:49:31] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:49:31] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:49:31] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:49:31] [Server thread/INFO]: Loaded 1290 recipes
+[04:49:31] [Server thread/INFO]: Loaded 1399 advancements
+[04:49:31] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:49:31] [Paper Async Command Builder Thread Pool - 6/ERROR]: Caught previously unhandled exception :
+[04:49:31] [Paper Async Command Builder Thread Pool - 6/ERROR]: Paper Async Command Builder Thread Pool - 6
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:49:31] [Server thread/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[04:49:31] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), TAB (5.0.6), Vault (1.7.3-b131)
+[04:49:31] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[04:49:31] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[04:49:31] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[04:49:31] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[04:49:31] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[04:49:31] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[04:49:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:49:31] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[04:49:32] [Server thread/INFO]:         __    
+[04:49:32] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[04:49:32] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:49:32] [Server thread/INFO]: 
+[04:49:32] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:49:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:49:32] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:49:32] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:49:32] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 545ms)
+[04:49:32] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[04:49:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[04:49:32] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[04:49:32] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[04:49:32] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[04:49:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[04:49:32] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[04:49:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[04:49:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[04:49:33] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[04:49:33] [Server thread/INFO]: [Essentials] Using locale en
+[04:49:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[04:49:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[04:49:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[04:49:33] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[04:49:33] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[04:49:33] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[04:49:33] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[04:49:33] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[04:49:33] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[04:49:33] [Server thread/INFO]: [TAB] Loaded NMS hook in 48ms
+[04:49:34] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:49:34] [Server thread/INFO]: [TAB] Enabled in 709ms
+[04:49:34] [Server thread/INFO]: CONSOLE: Reload complete.
+[04:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[04:49:34] [Server thread/INFO]: Timings Reset
+[04:49:34] [Server thread/WARN]: ElKeitoGG moved too quickly! 8.497432037604556,0.0,6.315770943454606
+[04:49:34] [Craft Scheduler Thread - 19 - Essentials/INFO]: [Essentials] Fetching version information...
+[04:49:34] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[04:49:34] [Craft Scheduler Thread - 20 - Vault/INFO]: [Vault] Checking for Updates ... 
+[04:49:34] [Craft Scheduler Thread - 20 - Vault/INFO]: [Vault] No new version available
+[04:49:36] [Async Chat Thread - #7/INFO]: [Not Secure] [CREADOR] ElKeitoGG: w
+[04:49:43] [Server thread/INFO]: ElKeitoGG issued server command: /color
+[04:49:44] [Server thread/INFO]: ElKeitoGG issued server command: /colo
+[04:49:45] [Server thread/INFO]: ElKeitoGG issued server command: /color
