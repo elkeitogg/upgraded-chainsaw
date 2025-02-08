@@ -83,7 +83,12 @@ scoreboard:
       - '&7%localtime_time%'
       - '&r'
       - '&#00FFFF&l%player%'
-      - '&8&l| &7ᴘɪɴɢ&f: &##2874a6%ping%ms'
+      - '&8&l| &7ᴘɪɴɢ&f: &#FFFFFF%ping%ms'
+      - '&8&l| &7ʀᴀɴɢᴏ&f: &#FFFFFF%luckperms_prefix%'
+      - '&r'
+      - '&#00FFFF&lᴇꜱᴛᴀᴅɪꜱᴛɪᴄᴀꜱ'
+      - '&8&l| &7ᴋɪʟʟꜱ&f: &#FF0000%statistic_player_kills%'
+      - '&8&l| ☠ &7ᴍᴜᴇʀᴛᴇꜱ&f: &#FFFFFF%statistic_deaths%'
 layout:
   enabled: false
   direction: COLUMNS
