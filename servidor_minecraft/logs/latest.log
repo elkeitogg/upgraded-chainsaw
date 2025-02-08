@@ -2610,3 +2610,184 @@ java.util.ConcurrentModificationException: null
 [06:30:19] [Server thread/INFO]: 6 placeholder hook(s) registered!
 [06:30:19] [Craft Scheduler Thread - 144 - Vault/INFO]: [Vault] No new version available
 [06:30:19] [Craft Scheduler Thread - 141 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[06:33:27] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
+[06:33:27] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
+[06:33:27] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
+[06:33:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:33:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:33:27] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[06:33:27] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[06:33:27] [Server thread/ERROR]: *****************************************************************
+[06:33:27] [Server thread/ERROR]: *** WARNING                                                   ***
+[06:33:27] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[06:33:27] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[06:33:27] [Server thread/ERROR]: ***                                                           ***
+[06:33:27] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[06:33:27] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[06:33:27] [Server thread/ERROR]: *** on GitHub!                                                ***
+[06:33:27] [Server thread/ERROR]: *****************************************************************
+[06:33:27] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[06:33:27] [Server thread/INFO]: [TAB] Disabled in 1ms
+[06:33:27] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[06:33:27] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[06:33:27] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[06:33:27] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[06:33:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:33:27] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[06:33:27] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:33:27] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[06:33:27] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:33:27] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:33:27] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:33:27] [Server thread/INFO]: Loaded 1290 recipes
+[06:33:27] [Server thread/INFO]: Loaded 1399 advancements
+[06:33:27] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:33:27] [Server thread/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[06:33:27] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[06:33:27] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), TAB (5.0.6), Vault (1.7.3-b131)
+[06:33:27] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[06:33:27] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[06:33:27] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[06:33:27] [Server thread/WARN]: [PluginInitializerManager] =========================
+[06:33:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[06:33:28] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[06:33:28] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[06:33:28] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[06:33:28] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[06:33:28] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[06:33:28] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[06:33:28] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[06:33:30] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[06:33:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:33:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[06:33:30] [Server thread/INFO]:         __    
+[06:33:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[06:33:30] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[06:33:30] [Server thread/INFO]: 
+[06:33:30] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:33:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:33:31] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:33:31] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:33:31] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 735ms)
+[06:33:31] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[06:33:31] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[06:33:31] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[06:33:31] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[06:33:31] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[06:33:31] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[06:33:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[06:33:31] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[06:33:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[06:33:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[06:33:32] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[06:33:32] [Server thread/INFO]: [Essentials] Using locale en
+[06:33:32] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[06:33:32] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[06:33:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[06:33:32] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[06:33:32] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[06:33:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:33:32] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[06:33:32] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[06:33:32] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[06:33:32] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[06:33:32] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[06:33:32] [Server thread/INFO]: [TAB] Loaded NMS hook in 45ms
+[06:33:33] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[06:33:33] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:33:33] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[06:33:33] [Server thread/INFO]: [TAB] Enabled in 773ms
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando lang-es.yml como archivo de idioma...
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 12 secciones de tiendas.
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21...
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[06:33:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[06:33:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[06:33:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 249ms para completar
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[06:33:34] [Server thread/INFO]: ElKeitoGG: Reload complete.
+[06:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6538ms or 130 ticks behind
+[06:33:34] [Server thread/INFO]: Timings Reset
+[06:33:34] [Craft Scheduler Thread - 146 - Essentials/INFO]: [Essentials] Fetching version information...
+[06:33:34] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[06:33:34] [Craft Scheduler Thread - 147 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:33:34] [Craft Scheduler Thread - 147 - Vault/INFO]: [Vault] No new version available
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[06:33:34] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[06:33:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[06:33:34] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[06:33:34] [Server thread/INFO]: 6 placeholder hook(s) registered!
+[06:33:34] [Craft Scheduler Thread - 146 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[06:33:37] [Server thread/INFO]: ElKeitoGG issued server command: /sreload
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando lang-es.yml como archivo de idioma...
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 12 secciones de tiendas.
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21...
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[06:33:37] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[06:33:40] [Server thread/INFO]: ElKeitoGG issued server command: /shop
+[06:33:56] [Server thread/INFO]: ElKeitoGG issued server command: /baltop
+[06:34:32] [Server thread/INFO]: ElKeitoGG issued server command: /sellall inventory
+[06:34:32] [Server thread/INFO]: Shop >> [CREADOR] ElKeitoGG vendido 2304x Diamond Block(Ores.page1.items.10) por 285,788.16$ con el vender todo el comando.
+[06:34:33] [Server thread/INFO]: ElKeitoGG issued server command: /sellall inventory
+[06:34:33] [Server thread/INFO]: Shop >> [CREADOR] ElKeitoGG vendido 1216x Diamond Block(Ores.page1.items.10) por 150,832.63$ con el vender todo el comando.
+[06:34:39] [Server thread/INFO]: ElKeitoGG issued server command: /shop
+[06:35:39] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
+[06:35:39] [Server thread/INFO]: ElKeitoGG left the game
+[06:35:46] [Server thread/INFO]: Stopping the server
+[06:35:46] [Server thread/INFO]: Stopping server
+[06:35:46] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[06:35:46] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[06:35:46] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[06:35:46] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:35:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[06:35:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[06:35:46] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[06:35:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[06:35:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:35:46] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:35:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[06:35:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:35:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:35:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:35:46] [Server thread/INFO]: Saving players
+[06:35:46] [Server thread/INFO]: Saving worlds
+[06:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Saved 100 block chunks, 193 entity chunks, 1 poi chunks in world 'world' in 0.22s
+[06:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Saved 793 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.25s
+[06:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:35:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:35:47] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.24s
+[06:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:35:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

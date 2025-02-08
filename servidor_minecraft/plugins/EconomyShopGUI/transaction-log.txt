@@ -1,3 +1,5 @@
 [2025-02-08 06:28:03] - [CREADOR] ElKeitoGG sold 576x Diamond(Ores.page1.items.9) for $7,562.87 with the sell all command.
 [2025-02-08 06:28:22] - [CREADOR] ElKeitoGG sold 2304x Diamond Block(Ores.page1.items.10) for $285,788.16 with the sell all command.
 [2025-02-08 06:28:26] - [CREADOR] ElKeitoGG sold 64x Diamond Block(Ores.page1.items.10) for $7,938.56 with the sell all command.
+[2025-02-08 06:34:32] - [CREADOR] ElKeitoGG vendido 2304x Diamond Block(Ores.page1.items.10) por 285,788.16$ con el vender todo el comando.
+[2025-02-08 06:34:33] - [CREADOR] ElKeitoGG vendido 1216x Diamond Block(Ores.page1.items.10) por 150,832.63$ con el vender todo el comando.
