@@ -1586,3 +1586,62 @@ unexpected character found &(38)
 [05:40:56] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
 [05:40:56] [Server thread/INFO]: [TAB] Enabled in 9ms
 [05:40:56] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+[05:43:03] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:43:03] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:43:03] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:43:03] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:43:03] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:43:03] [Server thread/INFO]: [TAB] Enabled in 8ms
+[05:43:53] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download LocalTime
+[05:43:53] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:43:55] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:43:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[05:44:45] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:44:45] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:44:45] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:44:45] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:44:45] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:44:45] [Server thread/INFO]: [TAB] Enabled in 10ms
+[05:44:45] [Craft Scheduler Thread - 106 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[05:46:14] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:46:14] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:46:14] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:46:14] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:46:14] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:46:14] [Server thread/INFO]: [TAB] Enabled in 6ms
+[05:46:26] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
+[05:46:26] [Server thread/INFO]: ElKeitoGG left the game
+[05:48:02] [User Authenticator #4/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[05:48:03] [Server thread/INFO]: ElKeitoGG joined the game
+[05:48:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:48:03] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:55627] logged in with entity id 7513 at ([world]-10.345620878099847, 124.0, 138.29948352015933)
+[05:48:03] [Craft Scheduler Thread - 110 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get ElKeitoGG's timezone. Will use default timezone.
+[05:49:28] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:49:28] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:49:28] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:49:28] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:49:28] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:49:28] [Server thread/INFO]: [TAB] Enabled in 8ms
+[05:50:54] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:50:54] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:50:54] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:50:54] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:50:54] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:50:54] [Server thread/INFO]: [TAB] Enabled in 7ms
+[05:51:11] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:51:11] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:51:11] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:51:11] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:51:11] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:51:11] [Server thread/INFO]: [TAB] Enabled in 8ms
+[05:51:35] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[05:51:35] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:51:35] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:51:35] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:51:35] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:51:35] [Server thread/INFO]: [TAB] Enabled in 5ms

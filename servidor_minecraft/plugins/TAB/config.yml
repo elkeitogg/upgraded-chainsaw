@@ -79,18 +79,11 @@ scoreboard:
     scoreboard:
       title: <#084CFB>&lꜱ<#2064FB>&lᴜ<#377CFC>&lʀ<#4F94FC>&lᴠ<#66ABFC>&lɪ<#7EC3FC>&lᴠ<#95DBFD>&lᴀ<#ADF3FD>&lʟ
       lines:
-      - '&7%date%'
-      - '%animation:MyAnimation1%'
-      - '&6Online:'
-      - '* &eOnline&7: &f%online%'
-      - '* &eCurrent World&7: &f%worldonline%'
-      - '* &eStaff&7: &f%staffonline%'
-      - ''
-      - '&6Personal Info:'
-      - '* &bRank&7: &f%group%'
-      - '* &bPing&7: &f%ping%&8ms'
-      - '* &bWorld&7: &f%world%'
-      - '%animation:MyAnimation1%'
+      - '&8&m                           &r'
+      - '&7%localtime_time%'
+      - '&r'
+      - '&#00FFFF&l%player%'
+      - '&8&l| &7ᴘɪɴɢ&f: &##2874a6%ping%ms'
 layout:
   enabled: false
   direction: COLUMNS

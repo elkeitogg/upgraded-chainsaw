@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738992567490
-  login: 1738992667530
+  logout: 1738993586784
+  login: 1738993683283
 money: '0'
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: 2.6565557524817613
-  y: 125.23814968241876
-  z: 94.23059626640946
-  yaw: -21.29633140563965
-  pitch: 9.12352180480957
+  x: -10.345620878099847
+  y: 124.0
+  z: 138.29948352015933
+  yaw: -156.9879150390625
+  pitch: 12.924945831298828
 last-account-name: ElKeitoGG
