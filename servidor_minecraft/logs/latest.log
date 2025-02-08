@@ -845,3 +845,663 @@ expected <block end>, but found '<scalar>'
 [05:20:15] [Craft Scheduler Thread - 36 - Vault/INFO]: [Vault] Checking for Updates ... 
 [05:20:15] [Craft Scheduler Thread - 36 - Vault/INFO]: [Vault] No new version available
 [05:20:16] [Server thread/INFO]: ElKeitoGG issued server command: /pl
+[05:23:42] [Server thread/INFO]: ElKeitoGG issued server command: /simplescore reload
+[05:23:46] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
+[05:23:46] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
+[05:23:46] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
+[05:23:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:23:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:23:46] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v3.12.5
+[05:23:46] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[05:23:46] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:23:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[05:23:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[05:23:46] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:23:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:23:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:23:46] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[05:23:46] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:23:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[05:23:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:23:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:23:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:23:47] [Server thread/INFO]: Loaded 1290 recipes
+[05:23:47] [Server thread/INFO]: Loaded 1399 advancements
+[05:23:47] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:23:47] [Server thread/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[05:23:47] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), SimpleScore (3.12.5), TAB (5.0.6), Vault (1.7.3-b131)
+[05:23:47] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[05:23:47] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:23:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:23:47] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:23:47] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[05:23:47] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:23:47] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[05:23:47] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[05:23:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:23:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[05:23:48] [Server thread/INFO]:         __    
+[05:23:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[05:23:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:23:48] [Server thread/INFO]: 
+[05:23:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:23:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:23:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:23:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:23:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 873ms)
+[05:23:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:23:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:23:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:23:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:23:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:23:49] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:23:49] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:23:49] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:23:49] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:23:49] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:23:49] [Server thread/INFO]: [Essentials] Using locale en
+[05:23:49] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:23:49] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:23:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:23:50] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:23:50] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:23:50] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:23:50] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:23:50] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:23:50] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:23:50] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:23:50] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[05:23:50] [Server thread/INFO]: [TAB] Loaded NMS hook in 45ms
+[05:23:50] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:23:51] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:23:51] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:23:51] [Server thread/INFO]: [TAB] Enabled in 698ms
+[05:23:51] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[05:23:52] [Server thread/INFO]: [SimpleScore] It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
+[05:23:52] [Server thread/INFO]: [SimpleScore] https://www.spigotmc.org/resources/protocollib.1997/
+[05:23:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[05:23:52] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:23:52] [Server thread/INFO]: ElKeitoGG: Reload complete.
+[05:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5575ms or 111 ticks behind
+[05:23:52] [Server thread/INFO]: Timings Reset
+[05:23:52] [Craft Scheduler Thread - 56 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:23:52] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:23:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:23:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:23:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:23:52] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[05:23:52] [Server thread/WARN]: ElKeitoGG moved too quickly! -18.804395666743005,4.4943438141239085,10.789496018640264
+[05:23:52] [Craft Scheduler Thread - 55 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:23:52] [Craft Scheduler Thread - 55 - Vault/INFO]: [Vault] No new version available
+[05:26:15] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[05:26:15] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[05:26:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:26:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:26:16] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v3.12.5
+[05:26:16] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[05:26:16] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:26:16] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[05:26:16] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[05:26:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:26:16] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:26:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:26:16] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[05:26:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:26:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[05:26:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:26:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:26:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:26:16] [Server thread/INFO]: Loaded 1290 recipes
+[05:26:16] [Server thread/INFO]: Loaded 1399 advancements
+[05:26:16] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:26:16] [Server thread/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[05:26:16] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SimpleScore (3.12.5), TAB (5.0.6), Vault (1.7.3-b131)
+[05:26:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[05:26:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:26:16] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:26:16] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:26:16] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[05:26:18] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[05:26:18] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:26:18] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[05:26:18] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[05:26:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:26:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[05:26:19] [Server thread/INFO]:         __    
+[05:26:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[05:26:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:26:19] [Server thread/INFO]: 
+[05:26:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:26:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:26:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:26:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:26:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 630ms)
+[05:26:19] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:26:19] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:26:19] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:26:19] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:26:19] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:26:19] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[05:26:19] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:26:19] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:26:20] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:26:20] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:26:20] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:26:20] [Server thread/INFO]: [Essentials] Using locale en
+[05:26:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:26:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:26:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:26:20] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:26:20] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:26:21] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:26:21] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:26:21] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:26:21] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:26:21] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:26:21] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[05:26:21] [Server thread/INFO]: [TAB] Loaded NMS hook in 43ms
+[05:26:21] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:26:21] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:26:21] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:26:21] [Server thread/INFO]: [TAB] Enabled in 713ms
+[05:26:21] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[05:26:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[05:26:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:26:23] [Server thread/INFO]: CONSOLE: Reload complete.
+[05:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7092ms or 141 ticks behind
+[05:26:23] [Server thread/INFO]: Timings Reset
+[05:26:23] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:26:23] [Craft Scheduler Thread - 73 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:26:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:26:23] [Craft Scheduler Thread - 75 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:26:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:26:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:26:23] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[05:26:23] [Craft Scheduler Thread - 75 - Vault/INFO]: [Vault] No new version available
+[05:26:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+reloa confirm<--[HERE]
+[05:26:59] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[05:26:59] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[05:26:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:26:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:26:59] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v3.12.5
+[05:26:59] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[05:26:59] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:26:59] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[05:26:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[05:26:59] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[05:26:59] [Server thread/ERROR]: *****************************************************************
+[05:26:59] [Server thread/ERROR]: *** WARNING                                                   ***
+[05:26:59] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[05:26:59] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[05:26:59] [Server thread/ERROR]: ***                                                           ***
+[05:26:59] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[05:26:59] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[05:26:59] [Server thread/ERROR]: *** on GitHub!                                                ***
+[05:26:59] [Server thread/ERROR]: *****************************************************************
+[05:26:59] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:26:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:26:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:26:59] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[05:26:59] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:26:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[05:26:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:26:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:26:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:26:59] [Server thread/INFO]: Loaded 1290 recipes
+[05:26:59] [Server thread/INFO]: Loaded 1399 advancements
+[05:27:00] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:27:00] [Server thread/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[05:27:00] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SimpleScore (3.12.5), TAB (5.0.6), Vault (1.7.3-b131)
+[05:27:00] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[05:27:00] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:27:00] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:27:00] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:27:00] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[05:27:02] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[05:27:02] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:27:02] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[05:27:02] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[05:27:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:27:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[05:27:02] [Server thread/INFO]:         __    
+[05:27:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[05:27:02] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:27:02] [Server thread/INFO]: 
+[05:27:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:27:02] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:27:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:27:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:27:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 611ms)
+[05:27:03] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:27:03] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:27:03] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:27:03] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:27:03] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:27:03] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[05:27:03] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:27:03] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:27:04] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:27:04] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:27:04] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:27:04] [Server thread/INFO]: [Essentials] Using locale en
+[05:27:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:27:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:27:04] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:27:04] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:27:04] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:27:04] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:27:04] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:27:04] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:27:04] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:27:04] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:27:04] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[05:27:04] [Server thread/INFO]: [TAB] Loaded NMS hook in 48ms
+[05:27:05] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:27:05] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:27:05] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:27:05] [Server thread/INFO]: [TAB] Enabled in 662ms
+[05:27:05] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[05:27:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[05:27:06] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:27:06] [Server thread/INFO]: CONSOLE: Reload complete.
+[05:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6967ms or 139 ticks behind
+[05:27:06] [Server thread/INFO]: Timings Reset
+[05:27:06] [Craft Scheduler Thread - 78 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:27:06] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:27:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:27:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:27:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:27:06] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[05:27:06] [Craft Scheduler Thread - 81 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:27:06] [Craft Scheduler Thread - 81 - Vault/INFO]: [Vault] No new version available
+[05:27:10] [Async Chat Thread - #14/INFO]: [Not Secure] [CREADOR] ElKeitoGG: wasd
+[05:27:11] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
+[05:27:11] [Server thread/INFO]: ElKeitoGG left the game
+[05:27:13] [User Authenticator #1/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[05:27:14] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:27:14] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:set_objective (skippable? false)
+io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:20) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:762) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelDuplexHandler.write(ChannelDuplexHandler.java:115) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at TAB v5.0.6.jar/me.neznamy.tab.shared.features.injection.NettyPipelineInjector$TabChannelDuplexHandler.write(NettyPipelineInjector.java:78) ~[TAB v5.0.6.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1020) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:311) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[ProtocolLib.jar:?]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:513) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:498) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:49) ~[ProtocolLib.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassCastException: class java.lang.Object cannot be cast to class net.minecraft.network.chat.numbers.NumberFormat (java.lang.Object is in module java.base of loader 'bootstrap'; net.minecraft.network.chat.numbers.NumberFormat is in unnamed module of loader java.net.URLClassLoader @7591083d)
+	at net.minecraft.network.codec.StreamCodec$6.encode(StreamCodec.java:104) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:363) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ClientboundSetObjectivePacket.write(ClientboundSetObjectivePacket.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$2.encode(StreamCodec.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:88) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:78) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	... 45 more
+[05:27:14] [Server thread/INFO]: ElKeitoGG joined the game
+[05:27:14] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:52395] logged in with entity id 5900 at ([world]2.6565557524817613, 125.23814968241876, 94.23059626640946)
+[05:27:14] [Server thread/INFO]: ElKeitoGG lost connection: Internal Exception: io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+[05:27:14] [Server thread/INFO]: ElKeitoGG left the game
+[05:27:40] [User Authenticator #1/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[05:27:40] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:27:40] [Server thread/INFO]: ElKeitoGG joined the game
+[05:27:40] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:54589] logged in with entity id 5904 at ([world]2.6565557524817613, 125.23814968241876, 94.23059626640946)
+[05:27:40] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:set_objective (skippable? false)
+io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:20) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:762) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelDuplexHandler.write(ChannelDuplexHandler.java:115) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at TAB v5.0.6.jar/me.neznamy.tab.shared.features.injection.NettyPipelineInjector$TabChannelDuplexHandler.write(NettyPipelineInjector.java:78) ~[TAB v5.0.6.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1020) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:311) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[ProtocolLib.jar:?]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:513) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:498) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:49) ~[ProtocolLib.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassCastException: class java.lang.Object cannot be cast to class net.minecraft.network.chat.numbers.NumberFormat (java.lang.Object is in module java.base of loader 'bootstrap'; net.minecraft.network.chat.numbers.NumberFormat is in unnamed module of loader java.net.URLClassLoader @7591083d)
+	at net.minecraft.network.codec.StreamCodec$6.encode(StreamCodec.java:104) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:363) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ClientboundSetObjectivePacket.write(ClientboundSetObjectivePacket.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$2.encode(StreamCodec.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:88) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:78) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	... 45 more
+[05:27:40] [Server thread/INFO]: ElKeitoGG lost connection: Internal Exception: io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+[05:27:40] [Server thread/INFO]: ElKeitoGG left the game
+[05:29:10] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[05:29:10] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[05:29:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:29:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:29:10] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v3.12.5
+[05:29:10] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[05:29:10] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:29:10] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[05:29:10] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[05:29:10] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[05:29:10] [Server thread/ERROR]: *****************************************************************
+[05:29:10] [Server thread/ERROR]: *** WARNING                                                   ***
+[05:29:10] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[05:29:10] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[05:29:10] [Server thread/ERROR]: ***                                                           ***
+[05:29:10] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[05:29:10] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[05:29:10] [Server thread/ERROR]: *** on GitHub!                                                ***
+[05:29:10] [Server thread/ERROR]: *****************************************************************
+[05:29:10] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:29:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:29:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:29:10] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[05:29:10] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:29:10] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[05:29:10] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:29:10] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:29:10] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:29:10] [Server thread/INFO]: Loaded 1290 recipes
+[05:29:10] [Server thread/INFO]: Loaded 1399 advancements
+[05:29:10] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:29:10] [Server thread/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[05:29:10] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SimpleScore (3.12.5), TAB (5.0.6), Vault (1.7.3-b131)
+[05:29:10] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[05:29:10] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:29:10] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:29:10] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:29:10] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[05:29:11] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[05:29:11] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:29:11] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[05:29:11] [Server thread/INFO]: [SimpleScore] Loading server plugin SimpleScore v3.12.5
+[05:29:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:29:11] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[05:29:11] [Server thread/INFO]:         __    
+[05:29:11] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[05:29:11] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:29:11] [Server thread/INFO]: 
+[05:29:11] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:29:11] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:29:11] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:29:11] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:29:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 604ms)
+[05:29:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:29:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:29:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:29:12] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:29:12] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:29:12] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[05:29:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:29:12] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:29:12] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:29:12] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:29:12] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:29:12] [Server thread/INFO]: [Essentials] Using locale en
+[05:29:12] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:29:12] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:29:12] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:29:12] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:29:12] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:29:13] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:29:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:29:13] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:29:13] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:29:13] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:29:13] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[05:29:13] [Server thread/INFO]: [TAB] Loaded NMS hook in 62ms
+[05:29:13] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:29:13] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:29:13] [Server thread/INFO]: [TAB] Enabled in 545ms
+[05:29:13] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.12.5
+[05:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleScore [3.12.5]
+[05:29:15] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:29:15] [Server thread/INFO]: CONSOLE: Reload complete.
+[05:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
+[05:29:15] [Server thread/INFO]: Timings Reset
+[05:29:15] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:29:15] [Craft Scheduler Thread - 90 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:29:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:29:15] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[05:29:15] [Craft Scheduler Thread - 93 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:29:15] [Craft Scheduler Thread - 93 - Vault/INFO]: [Vault] No new version available
+[05:29:17] [Server thread/INFO]: [TAB] Disabled in 0ms
+[05:29:17] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:29:17] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:29:17] [Server thread/INFO]: [TAB] Enabled in 10ms
+[05:29:17] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+[05:29:20] [Server thread/INFO]: [SimpleScore] Reloading plugin...
+[05:29:20] [Server thread/INFO]: [SimpleScore] Plugin reloaded.
+[05:29:26] [User Authenticator #2/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[05:29:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:29:27] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:set_objective (skippable? false)
+io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:20) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:26) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at net.minecraft.network.Connection$2.write(Connection.java:762) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelDuplexHandler.write(ChannelDuplexHandler.java:115) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at TAB v5.0.6.jar/me.neznamy.tab.shared.features.injection.NettyPipelineInjector$TabChannelDuplexHandler.write(NettyPipelineInjector.java:78) ~[TAB v5.0.6.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1020) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:311) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:227) ~[ProtocolLib.jar:?]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyChannelProxy.writeAndFlush(NettyChannelProxy.java:233) ~[ProtocolLib.jar:?]
+	at net.minecraft.network.Connection.doSendPacket(Connection.java:513) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.Connection.lambda$sendPacket$13(Connection.java:498) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at ProtocolLib.jar/com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.lambda$proxyRunnable$2(NettyEventLoopProxy.java:49) ~[ProtocolLib.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413) ~[netty-transport-classes-epoll-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassCastException: class java.lang.Object cannot be cast to class net.minecraft.network.chat.numbers.NumberFormat (java.lang.Object is in module java.base of loader 'bootstrap'; net.minecraft.network.chat.numbers.NumberFormat is in unnamed module of loader java.net.URLClassLoader @7591083d)
+	at net.minecraft.network.codec.StreamCodec$6.encode(StreamCodec.java:104) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:363) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.ByteBufCodecs$18.encode(ByteBufCodecs.java:353) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ClientboundSetObjectivePacket.write(ClientboundSetObjectivePacket.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$2.encode(StreamCodec.java:38) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:88) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:78) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	... 45 more
+[05:29:27] [Server thread/INFO]: ElKeitoGG joined the game
+[05:29:27] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:58095] logged in with entity id 5906 at ([world]2.6565557524817613, 125.23814968241876, 94.23059626640946)
+[05:29:27] [Server thread/INFO]: ElKeitoGG lost connection: Internal Exception: io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:set_objective'
+[05:29:27] [Server thread/INFO]: ElKeitoGG left the game
+[05:30:57] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[05:30:57] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[05:30:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:30:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:30:57] [Server thread/INFO]: [SimpleScore] Disabling SimpleScore v3.12.5
+[05:30:57] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[05:30:57] [Server thread/INFO]: [TAB] Disabled in 1ms
+[05:30:57] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[05:30:57] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[05:30:57] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[05:30:57] [Server thread/ERROR]: *****************************************************************
+[05:30:57] [Server thread/ERROR]: *** WARNING                                                   ***
+[05:30:57] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[05:30:57] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[05:30:57] [Server thread/ERROR]: ***                                                           ***
+[05:30:57] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[05:30:57] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[05:30:57] [Server thread/ERROR]: *** on GitHub!                                                ***
+[05:30:57] [Server thread/ERROR]: *****************************************************************
+[05:30:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[05:30:57] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[05:30:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:30:57] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[05:30:57] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:30:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[05:30:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:30:57] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:30:57] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:30:57] [Server thread/INFO]: Loaded 1290 recipes
+[05:30:57] [Server thread/INFO]: Loaded 1399 advancements
+[05:30:57] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:30:57] [Server thread/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[05:30:57] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), TAB (5.0.6), Vault (1.7.3-b131)
+[05:30:57] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[05:30:57] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:30:57] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:30:57] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:30:57] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[05:30:57] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:30:57] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[05:30:57] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[05:30:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:30:57] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[05:30:58] [Server thread/INFO]:         __    
+[05:30:58] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[05:30:58] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:30:58] [Server thread/INFO]: 
+[05:30:58] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:30:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:30:58] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:30:58] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:30:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 590ms)
+[05:30:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:30:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:30:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:30:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:30:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:30:58] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[05:30:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:30:58] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:30:59] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:30:59] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:30:59] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:30:59] [Server thread/INFO]: [Essentials] Using locale en
+[05:30:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:30:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:30:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:30:59] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:30:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:31:00] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:31:00] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:31:00] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:31:00] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:31:00] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:31:00] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[05:31:00] [Server thread/INFO]: [TAB] Loaded NMS hook in 43ms
+[05:31:00] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[05:31:00] [Server thread/INFO]: [TAB] [WARN] Found a total of 1 issues.
+[05:31:00] [Server thread/INFO]: [TAB] Enabled in 594ms
+[05:31:01] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:31:01] [Server thread/INFO]: CONSOLE: Reload complete.
+[05:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[05:31:01] [Server thread/INFO]: Timings Reset
+[05:31:01] [Craft Scheduler Thread - 102 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:31:01] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:31:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[05:31:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[05:31:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:31:01] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[05:31:01] [Craft Scheduler Thread - 104 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:31:01] [Craft Scheduler Thread - 104 - Vault/INFO]: [Vault] No new version available
+[05:31:06] [User Authenticator #3/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[05:31:07] [Server thread/INFO]: ElKeitoGG joined the game
+[05:31:07] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:41513] logged in with entity id 5907 at ([world]2.6565557524817613, 125.23814968241876, 94.23059626640946)
+[05:31:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.

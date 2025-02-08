@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.106.169.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738992567490
+  login: 1738992667530
+money: '0'
+logoutlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: 2.6565557524817613
+  y: 125.23814968241876
+  z: 94.23059626640946
+  yaw: -21.29633140563965
+  pitch: 9.12352180480957
+last-account-name: ElKeitoGG
