@@ -593,3 +593,83 @@
 [20:33:11] [Server thread/INFO]: [TAB] Enabled in 10ms
 [20:33:22] [Async Chat Thread - #9/INFO]: [Not Secure] [STAFF] caezon: el meo hoyo
 [20:33:34] [Async Chat Thread - #9/INFO]: [Not Secure] [STAFF] caezon: KJSJA
+[20:34:50] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:34:50] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:34:50] [Server thread/INFO]: [TAB] Enabled in 9ms
+[20:34:53] [Async Chat Thread - #11/INFO]: [Not Secure] [CREADOR] ElKeitoGG: oigan
+[20:34:58] [Async Chat Thread - #11/INFO]: [Not Secure] [STAFF] caezon: si
+[20:35:00] [Async Chat Thread - #11/INFO]: [Not Secure] [CREADOR] ElKeitoGG: les sale su nombre al lado en la barra que tienen?
+[20:35:06] [Async Chat Thread - #11/INFO]: [Not Secure] [CREADOR] ElKeitoGG: vale
+[20:35:07] [Async Chat Thread - #11/INFO]: [Not Secure] [STAFF] caezon: yes
+[20:35:33] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:35:33] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:35:33] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:36:25] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:36:25] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:36:25] [Server thread/INFO]: [TAB] Enabled in 10ms
+[20:36:33] [Async Chat Thread - #13/INFO]: [Not Secure] [CREADOR] ElKeitoGG: XD
+[20:36:35] [Async Chat Thread - #13/INFO]: [Not Secure] [CREADOR] ElKeitoGG: si
+[20:36:39] [Server thread/INFO]: ElKeitoGG issued server command: /lp editor
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add prefix.3.&4&lCREADOR &f true
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (creador)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor remove prefix.3.&4&l[CREADOR] &f true
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add prefix.2.&6&lSTAFF &f true
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (staff)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor remove prefix.2.&6&l[STAFF] &f true
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor add prefix.1.&aUsuario &7 true
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > (ElKeitoGG) [G] (default)
+[20:37:17] [luckperms-worker-7/INFO]: [LP] LOG > webeditor remove prefix.1.&a[Usuario] &7 true
+[20:37:20] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: Oigan
+[20:37:24] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: Que han sabido de estelita?
+[20:37:32] [Async Chat Thread - #13/INFO]: [Not Secure] STAFF caezon: niidea
+[20:37:38] [Server thread/INFO]: ElKeitoGG issued server command: /tp mwarrii
+[20:37:44] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: DEJA DE VOLAR
+[20:37:49] [Server thread/INFO]: ElKeitoGG issued server command: /bacxk
+[20:37:50] [Server thread/INFO]: ElKeitoGG issued server command: /back
+[20:37:53] [Async Chat Thread - #13/INFO]: [Not Secure] STAFF caezon: modo legit:
+[20:38:44] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:38:44] [Server thread/INFO]: [TAB] Disabled in 2ms
+[20:38:44] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:38:47] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: ;:v
+[20:38:48] [Server thread/INFO]: ElKeitoGG issued server command: /eco
+[20:38:49] [Server thread/INFO]: ElKeitoGG issued server command: /bal
+[20:38:59] [Server thread/INFO]: ElKeitoGG issued server command: /eco give ElKeitoGG 10000
+[20:39:12] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Player mwarrii tried to mine a spawner with a not allowed spawner-break-tool: ItemStack{IRON_PICKAXE x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, Damage=113}}
+[20:39:20] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:39:20] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:39:20] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:39:24] [Async Chat Thread - #13/INFO]: [Not Secure] STAFF caezon: me dieron zanahoria
+[20:39:25] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: Como se ve mejor
+[20:39:25] [Async Chat Thread - #13/INFO]: [Not Secure] STAFF caezon: !!!!!!!!
+[20:39:30] [Async Chat Thread - #13/INFO]: [Not Secure] CREADOR ElKeitoGG: con el 10k o el 10,000
+[20:39:35] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:39:35] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:39:35] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:40:56] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:40:56] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:40:56] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:40:59] [Server thread/INFO]: caezon has made the advancement [Cover Me with Diamonds]
+[20:41:03] [Async Chat Thread - #15/INFO]: [Not Secure] CREADOR ElKeitoGG: nomames :v
+[20:41:07] [Async Chat Thread - #15/INFO]: [Not Secure] CREADOR ElKeitoGG: kevin viciao
+[20:41:09] [Async Chat Thread - #15/INFO]: [Not Secure] STAFF caezon: fui a minar un ratito pe
+[20:41:10] [Async Chat Thread - #15/INFO]: [Not Secure] CREADOR ElKeitoGG: xk mari no habla
+[20:41:20] [Async Chat Thread - #15/INFO]: [Not Secure] STAFF caezon: no sé
+[20:42:01] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:42:01] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:42:01] [Server thread/INFO]: [TAB] Enabled in 9ms
+[20:43:09] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: mari
+[20:43:13] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF mwarrii: q
+[20:43:18] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: wajapen, no hablas
+[20:43:25] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF mwarrii: t saliste
+[20:43:28] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: q
+[20:43:29] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: aver
+[20:43:43] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: lito
+[20:43:57] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: yo:
+[20:44:02] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: JKASJAS
+[20:44:25] [Async Chat Thread - #17/INFO]: [Not Secure] STAFF caezon: tratame bien
+[20:44:28] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:44:28] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:44:28] [Server thread/INFO]: [TAB] Enabled in 8ms
