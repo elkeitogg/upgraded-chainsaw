@@ -1,7 +1,7 @@
-# Full color code support and some variables
-# Keep in mind that variables wont work for some lines, when it will for anothers :)
-# Just keep them where there are now and everything will be ok :)
-# Some lines can have global variables set. For player who will be effected. In example /heal Zrips then Zrips data will be used
+# The phrases support full color (hex) code, and some variables.
+# Keep in mind that some variables will not work for certain lines.
+# Just keep them where there are now and everything will be okay :)
+# Some lines can have global variables set. For the player who will be affected. For example /heal Zrips then Zrips data will be used as variable
 # [serverName] to show server name
 # [playerName] to show target player name
 # [playerDisplayName] to show target player display name
@@ -13,7 +13,7 @@
 # [gameMode] to show target player gamemode
 # [prefix] to show target player prefix if possible
 # [suffix] to show target player suffix if possible
-# Sender is console or player who performs command. In example Zrips performs /heal Zhax then Zrips data will be used
+# Sender is console or player who performs the command. For example Zrips performs /heal Zhax then Zrips data will be used
 # [senderName] to show Sender player name
 # [senderDisplayName] to show Sender player display name
 # [senderLvl] to show Sender player level
@@ -24,7 +24,7 @@
 # [senderGameMode] to show Sender player gamemode
 # [senderPrefix] to show Sender player prefix if possible
 # [senderSuffix] to show Sender player suffix if possible
-# Source is player which is being used for extra info. In example Zrips performs /tp Zhax Zrips then Zhax data will be used as its location is being taken for new player location
+# Source is player which is being used for extra info. For example Zrips performs /tp Zhax Zrips then Zhax data will be used as its location is being taken for new player location
 # [sourceName] to show source player name
 # [sourceDisplayName] to show source player display name
 # [sourceLvl] to show source player level
@@ -36,14 +36,14 @@
 # [sourcePrefix] to show source player prefix if possible
 # [sourceSuffix] to show source player suffix if possible
 # ***********************************************
-# Some lines supports option to send them to custom places, like action bar, title, sub title or even create JSON/clickable messages
-# If line starts with !toast! then player will get toast message (advancement popup, only 1.12 and up). Some extra variables can be used to define type and icon. example: !toast! -t:goal -icon:paper Hello world!
-# If line starts with !actionbar! then player will get action bar message defined after this variable
-# If line starts with !actionbar:[seconds]! then player will get action bar message for defined amount of time
-# If line starts with !broadcast! then everyone will receive message. You can add extra !toast! !actionbar! or !title! to send message for everyone to specific place, in example !broadcast!!title!
-# If line starts with !customtext:[cTextName]! then custom text will be taken by name provided and shown for player. In case its used after !broadcast! then everyone who is online will get this custom text message
-# If line starts with !title! then player will get title message defined after this variable, in addition it can contain !subtitle! which will add subtitle message
-# If line starts with !bosbar:[name]-[timer]! then player will get bossbar message defined after this variable, in addition you can define how long this message will be visible. You need to define bossbar name which can be anything you want, but lines with same name will override each other to prevent stacking
+# Some lines support the option to send them to custom places, like action bar, title, sub-title, or even create JSON/clickable messages
+# If the line starts with !toast! then player will get toast message (advancement popup, only 1.12 and up). Some extra variables can be used to define type and icon. example: !toast! -t:goal -icon:paper Hello world!
+# If the line starts with !actionbar! then player will get action bar message defined after this variable
+# If the line starts with !actionbar:[seconds]! then player will get action bar message for a defined amount of time
+# If the line starts with !broadcast! then everyone will receive message. You can add extra !toast! !actionbar! or !title! to send message for everyone to specific place, in example !broadcast!!title!
+# If the line starts with !customtext:[cTextName]! then custom text will be taken by name provided and shown for player. In case it is used after !broadcast! then everyone who is online will get this custom text message
+# If the line starts with !title! then player will get title message defined after this variable, in addition it can contain !subtitle! which will add subtitle message
+# If the line starts with !bossbar:[name]-[timer]! then player will get bossbar message defined after this variable, in addition you can define how long this message will be visible. You need to define bossbar name which can be anything you want, but lines with same name will override each other to prevent stacking
 # To include clickable messages: <T>Text</T><H>Hover text</H><C>command</C><SC>Suggested text</SC>
 # <T> and </T> required, other is optional
 # Use /n to break line
@@ -196,6 +196,8 @@ info:
   pageCount: '&7[current]&8/&7[total]'
   pageCountHover: '&7Hay un total de [totalEntries] líneas.'
   skullOwner: '!actionbar!&7Propietario:&r [playerName]'
+  playerHeadName: '&eHead of &7[playerName]'
+  mobHeadName: '&eHead of &f[mobName]'
   circle: '&3Círculo'
   square: '&5Cuadrado'
   clear: '&7Clear'
@@ -203,141 +205,10 @@ info:
   valueToLong: '&eEl valor es muy largo. Máximo: &6[max]&e.'
   valueToShort: '&eEl valor es muy corto. Mínimo: &6[min]&e.'
   pickIcon: '&3Selecciona un icono'
-  # Following locale lines got moved to CMI folder and will be removed in future updates from this file. If you want to modify those lines check CMI locale directory
-  Same: '&c¡No puedes modificar tu propio inventario!'
-  cantLoginWithDifCap: '&c¡No puedes conectarte usando el mismo nombre en mayúsculas!
-    Nombre anterior: &4[oldName] &c| Nombre actual: &4[currentName]'
-  Searching: '&e¡Buscando datos del jugador! &7Esta tarea puede tardar algo de tiempo
-    en finalizar!'
-  NoCommandWhileSleeping: '&c¡No puedes utilizar comandos mientras duermes!'
-  PurgeNotEnabled: '&c¡La función de purga no está activada en el archivo de configuración!'
-  TeamManagementDisabled: '&7¡Esta módulo se encuentra limitado porque la función
-    DisableTeamManagement está activada (true) en el archivo de configuración!'
-  NoGameMode: '&c¡Por favor, usa &40&c/&41&c/&42&c/&43 &co &4Survival&c/&4Creative&c/&4Adventure&c/&4Spectator
-    &co &4s&c/&4c&c/&4a&c/&4sp&c!'
-  NameChange: '&6[playerDisplayName] &ea jugado con los siguientes nombres: &6[namelist]'
-  Cooldowns: '&eDebes esperar &6[time] &epara volver usar este comando.'
-  specializedCooldowns: '&eDebes esperar &6[time] &epara volver a usar este comando.'
-  specializedRunning: '&eLa acción se está procesando, por favor espera &6[time]&e.'
-  CooldownOneTime: '&eEste comando es de un solo uso.'
-  WarmUp:
-    canceled: '!title!!subtitle!&c¡Te has movido!'
-    counter: '!title!&6No te muevas!subtitle!&4[time]'
-    DontMove: '!title!&6¡No te muevas!'
-    Boss:
-      DontMove: '&c¡No te muevas durante &4[autoTimeLeft]&c!'
-      WaitFor: '&c¡Espera &4[autoTimeLeft] &csegundos!'
   Spawner: '&eGenerador de &r[type]'
-  FailedSpawnerMine: '!actionbar!&cNo has obtenido el generador. Está al &7[percent]%
-    &cde probabilidad de obtenerlo.'
-  ClickSpawner: '!actionbar!&7[percent]% &ede probabilidad de obtenerlo.'
-  Elevator:
-    created: '&eSe ha creado un Elevador.'
-  CantPlaceSpawner: '&eNo se puede colocar el Generador de Monstruos tan cerca de
-    otro generador (&6[range]&e)'
-  ChunksLoading: '&eAún se está generando el sector del mundo. Espera un poco y vuelve
-    a intentarlo.'
-  CantUseNonEncrypted: '!actionbar!&cLos comandos de este objeto no están cifrados.
-    ¡No es posible usarlos!'
-  CantDecode: '!actionbar!&cNo se puede descifrar el mensaje/comando. El archivo que
-    contiene una clave incorrecta para esta tarea. Informa al administrador sobre
-    este problema.'
-  CantTeleport: '&eNo puedes aparecer en otro lugar porque llevas demasiados objetos
-    limitados. Desplázate sobre ellos para ver los objetos máximos permitidos.'
-  BlackList: '&e[material] [amount] &6Máximo: [max]'
-  wrongPortal: '&cEstás en un portal incorrecto.'
-  ItemWillBreak: '!actionbar!&e¡La herramienta (&6[itemName]&e) está a punto de romperse!
-    &6[current]&e/&6[max]'
-  ArmorWillBreak: '!actionbar!&e¡El [itemName] se romperá pronto! &e[current]&6/&e[max]'
-  flyingToHigh: '&cNo puedes volar tan alto, el máximo es de &6[max] &cbloques!'
-  specializedItemFail: '&cNo se puede determinar el objeto del comando especializado
-    del valor: &7[value]'
-  sunSpeeding: '&7[hour]H | Durmiendo [count] de [total] al [speed]% de velocidad.'
-  sleepersRequired: '&7[&4!&7] &f[sleeping] &7de &f[required] &7jugadores durmiendo
-    para poder pasar la noche rápidamente.'
-  sunSpeedingTitle: '&7[hour]H'
-  skippingNight: '!title!&7Despertarás!subtitle!&7En pocos segundos.'
-  sunSpeedingSubTitle: '&f[count]&7/&f[total] &7(&f[speed]x&7)'
-  repairConfirm: '&7[&4!&7] &ePulsa aquí para confirmar si quieres reparar &7[items]
-    &epor valor de &7[cost]&e.'
-  bookDate: '&7Escrito el &f[date]&7.'
-  maintenance: '&7Servidor en Modo Mantenimiento.'
-  mapLimit: '&cNo puedes ir más allá de 30.000.000 bloques.'
-  startedEditingPainting: '&eAhora puedes cambiar la imagen del cuadro usando la rueda
-    del ratón. Golpea en otro bloque para terminar.'
-  canceledEditingPainting: '&eYa no puedes cambiar la imagen del Cuadro.'
-  changedPainting: '!actionbar!&eHas cambiado la imagen del Cuadro. ID: &6[id] &eNombre:
-    &6[name]&e.'
-  noSpam: '!title!&c¡No puedes repetir siempre lo mismo!'
-  noCmdSpam: '!title!&c¡No puedes repetir comandos sucesivamente!'
-  spamConsoleInform: '&4[playerName] &cestá haciendo saltar (&7[rules]&c) el filtro
-    del chat con:&r [message]'
-  # This line can have extra variables: [totalUsers] [onlinePlayers]
-  FirstJoin: '&6¡[playerDisplayName]&e, este servidor te da la bienvenida!'
-  LogoutCustom: '&7[&4-&7] &4[prefix][playerDisplayName] &cse ha ido.'
-  LoginCustom: '&7[&2+&7] &aHa entrado &2[prefix][playerDisplayName]&a.'
-  deathlocation: '&eHas muerto en las coordenadas x:&6[x]&e, y:&6[y]&e, z:&6[z] &edel
-    mundo &6[world]&e.'
-  book:
-    exploit: '&cNo puedes crear un libro que contenga más de [amount] páginas.'
-  combat:
-    CantUseShulkerBox: '&cNo puedes usar la Caja de Shulker durante el combate contra
-      otro jugador. Espera: [time]'
-    CantUseCommand: '!actionbar!&cNo puedes usar este comando durante el combate contra
-      otro jugador. Espera: [time]'
-    bossBarPvp: '&cModo Combate [autoTimeLeft]'
-    bossBarPve: '&7Modo Cazador [autoTimeLeft]'
-  noSchedule: '&cNo se encuentra ninguna programación con este nombre.'
-  totem:
-    cooldown: '&eReutilización del Talismán: [time]'
-    warmup: '&eEfecto del Talismán: [time]'
-    cantConsume: '&eSe ha denegado el uso del Talismán debido al tiempo de espera
-      de reutilización.'
-  InventorySave:
-    info: '&7Información sobre &f[playerDisplayName]&7.'
-    saved: '&e[time] &eInventario guardado con la ID: &e[id]'
-    NoSavedInv: '&eEste jugador no tiene ningún inventario guardado.'
-    NoEntries: '&4¡El archivo existe, pero no se ha encontrado el inventario!'
-    CantFind: '&eNo se encuentra el inventario con esta ID.'
-    TopLine: '&6&m       &r&6【 &eInventarios de &6[playerDisplayName] guardados &6】&6&m       &r'
-    List: '&eID &6[id] &e► &6[time]'
-    KillerSymbol: '&c ☠'
-    Click: '&ePulsa para ver el inventario guardado ([id]).'
-    IdDontExist: '&4¡Esta ID no existe!'
-    Deleted: '&e¡El inventario guardado se ha eliminado correctamente!'
-    Restored: '&eHas restaurado el inventario &6[sourcename] del jugador &6[targetname]&e.'
-    GotRestored: '&eSe ha restaurado el inventario de &6[sourcename] &eguardado el
-      &6[time]&e.'
-    LoadForSelf: '&eCargar este inventario para tí.'
-    LoadForOwner: '&eCargar este inventario para el propietario.'
-    NextInventory: '&eSiguiente inventario.'
-    PreviousInventory: '&eInventario anterior.'
-    Editable: '&eModo edición &aActivado&e.'
-    NonEditable: '&eModo edición &cDesactivado&e.'
-  vanishSymbolOn: '&8[&7Oculto&8]&r'
-  vanishSymbolOff: ''
-  afkSymbolOn: '&c■'
-  afkSymbolOff: '&a■'
-  beeinfo: '!actionbar!&7Cantidad de Miel: &e[level]&7/&e[maxlevel] &7| Abejas en
-    el interior: &e[count]&7/&e[maxcount]'
-  pvp:
-    noGodDamage: '!actionbar!&cNo puedes causar daño siendo inmortal.'
-  pve:
-    noGodDamage: '!actionbar!&cNo puedes causar daño siendo inmortal.'
-  InvEmpty:
-    armor: '&e¡Los huecos de tu armadura deben estar vacíos.!'
-    hand: '&e¡Tu mano debe estar vacía!'
-    maininv: '&e¡Tu inventario principal debe estar vacío!'
-    maininvslots: '&e¡Tu inventario principal debe tener como mínimo &6[count] &ehuecos
-      vacíos!'
-    inv: '&e¡Tu inventario debe estar vacío.!'
-    offhand: '&e¡Tu mano contraria debe estar vacía!'
-    quickbar: '&e¡Tu cinturón debe estar vacío!'
-    quickbarslots: '&e¡Tu cinturón debe tener como mínimo &6[count] &ehuecos vacíos!'
-    subinv: '&e¡Tu sub-cinturón debe estar vacío!'
-    subinvslots: '&e¡Tu sub-cinturón debe tener como mínimo &6[count] &ehuecos vacíos!'
   DamageCause:
     block_explosion: Explosión
+    campfire: campfire
     contact: Daño por Bloque
     cramming: Rellenar
     custom: Desconocido
@@ -354,6 +225,7 @@ info:
     fly_into_wall: Volar hacia la pared
     freeze: Congelado
     hot_floor: Cubo de Magma
+    kill: kill
     lava: Lava
     lightning: Relámpago
     magic: Magia
@@ -367,111 +239,121 @@ info:
     thorns: Truenos
     void: Vacío
     wither: Wither
+    world_border: world border
   Biomes:
-    BADLANDS: Baldía
-    BAMBOO_JUNGLE: Selva de Bambú
-    BASALT_DELTAS: Deltas de Basalto
-    BEACH: Playa
-    BIRCH_FOREST: Bosque de Abedul
-    COLD_OCEAN: Océano Frío
-    CRIMSON_FOREST: Bosque Carmesí
-    CUSTOM: Personalizado
-    DARK_FOREST: Selva Espesa
-    DEEP_COLD_OCEAN: Océano Frío Profundo
-    DEEP_DARK: Oscuridad profunda
-    DEEP_FROZEN_OCEAN: Océano Congelado Profundo
-    DEEP_LUKEWARM_OCEAN: Océano Templado Profundo
-    DEEP_OCEAN: Océano Profundo
-    DESERT: Desierto
-    DRIPSTONE_CAVES: Cuevas Kársticas
-    END_BARRENS: Yermo del End
-    END_HIGHLANDS: Cima del End
-    END_MIDLANDS: Ladera del End
-    ERODED_BADLANDS: Acantilado del Desierto Rojo
-    FLOWER_FOREST: Selva de Flores
-    FOREST: Bosque
-    FROZEN_OCEAN: Océano Helado
-    FROZEN_PEAKS: Cumbres Heladas
-    FROZEN_RIVER: Río Helado
-    GROVE: Arboleda
-    ICE_SPIKES: Picos de Hielo
-    JAGGED_PEAKS: Cumbres Escarpadas
-    JUNGLE: Jungla
-    LUKEWARM_OCEAN: Océano Templado
-    LUSH_CAVES: Cuevas Frondosas
-    MANGROVE_SWAMP: Manglar
-    MEADOW: Prado
-    MUSHROOM_FIELDS: Campo de Hongos
-    NETHER_WASTES: Desiertos del Inframundo
     OCEAN: Océano
-    OLD_GROWTH_BIRCH_FOREST: Abedular Ancestral
-    OLD_GROWTH_PINE_TAIGA: Taiga de Pinos Ancestrales
-    OLD_GROWTH_SPRUCE_TAIGA: Taiga de Abetos Ancestrales
     PLAINS: Llanura
+    DESERT: Desierto
+    WINDSWEPT_HILLS: Colinas Ventiscosas
+    FOREST: Bosque
+    TAIGA: Bosque Boreal
+    SWAMP: Pantano
+    MANGROVE_SWAMP: Manglar
     RIVER: Río
+    NETHER_WASTES: Desiertos del Inframundo
+    THE_END: El Fin
+    FROZEN_OCEAN: Océano Helado
+    FROZEN_RIVER: Río Helado
+    SNOWY_PLAINS: Llanura Nevada
+    MUSHROOM_FIELDS: Campo de Hongos
+    BEACH: Playa
+    JUNGLE: Jungla
+    SPARSE_JUNGLE: Jungla Dispersa
+    DEEP_OCEAN: Océano Profundo
+    STONY_SHORE: Costa Rocosa
+    SNOWY_BEACH: Playa Nevada
+    BIRCH_FOREST: Bosque de Abedul
+    DARK_FOREST: Selva Espesa
+    SNOWY_TAIGA: Bosque Boreal Nevado
+    OLD_GROWTH_PINE_TAIGA: Taiga de Pinos Ancestrales
+    WINDSWEPT_FOREST: Bosque Ventiscoso
     SAVANNA: Sabana
     SAVANNA_PLATEAU: Meseta de la Sabana
-    SMALL_END_ISLANDS: Isla Pequeña del End
-    SNOWY_BEACH: Playa Nevada
-    SNOWY_PLAINS: Llanura Nevada
-    SNOWY_SLOPES: Ladera Nevada
-    SNOWY_TAIGA: Bosque Boreal Nevado
-    SOUL_SAND_VALLEY: Valle de Almas
-    SPARSE_JUNGLE: Jungla Dispersa
-    STONY_PEAKS: Cumbres Rocosas
-    STONY_SHORE: Costa Rocosa
-    SUNFLOWER_PLAINS: Llanura de Girasoles
-    SWAMP: Pantano
-    TAIGA: Bosque Boreal
-    THE_END: El Fin
-    THE_VOID: El Vacío
-    WARM_OCEAN: Océano Cálido
-    WARPED_FOREST: Bosque Distorsionado
-    WINDSWEPT_FOREST: Bosque Ventiscoso
-    WINDSWEPT_GRAVELLY_HILLS: Colinas Pedregosas Ventiscosas
-    WINDSWEPT_HILLS: Colinas Ventiscosas
-    WINDSWEPT_SAVANNA: Sabana Ventiscosa
+    BADLANDS: Baldía
     WOODED_BADLANDS: Páramo Frondoso
+    SMALL_END_ISLANDS: Isla Pequeña del End
+    END_MIDLANDS: Ladera del End
+    END_HIGHLANDS: Cima del End
+    END_BARRENS: Yermo del End
+    WARM_OCEAN: Océano Cálido
+    LUKEWARM_OCEAN: Océano Templado
+    COLD_OCEAN: Océano Frío
+    DEEP_LUKEWARM_OCEAN: Océano Templado Profundo
+    DEEP_COLD_OCEAN: Océano Frío Profundo
+    DEEP_FROZEN_OCEAN: Océano Congelado Profundo
+    THE_VOID: El Vacío
+    SUNFLOWER_PLAINS: Llanura de Girasoles
+    WINDSWEPT_GRAVELLY_HILLS: Colinas Pedregosas Ventiscosas
+    FLOWER_FOREST: Selva de Flores
+    ICE_SPIKES: Picos de Hielo
+    OLD_GROWTH_BIRCH_FOREST: Abedular Ancestral
+    OLD_GROWTH_SPRUCE_TAIGA: Taiga de Abetos Ancestrales
+    WINDSWEPT_SAVANNA: Sabana Ventiscosa
+    ERODED_BADLANDS: Acantilado del Desierto Rojo
+    BAMBOO_JUNGLE: Selva de Bambú
+    SOUL_SAND_VALLEY: Valle de Almas
+    CRIMSON_FOREST: Bosque Carmesí
+    WARPED_FOREST: Bosque Distorsionado
+    BASALT_DELTAS: Deltas de Basalto
+    DRIPSTONE_CAVES: Cuevas Kársticas
+    LUSH_CAVES: Cuevas Frondosas
+    DEEP_DARK: Oscuridad profunda
+    MEADOW: Prado
+    GROVE: Arboleda
+    SNOWY_SLOPES: Ladera Nevada
+    FROZEN_PEAKS: Cumbres Heladas
+    JAGGED_PEAKS: Cumbres Escarpadas
+    STONY_PEAKS: Cumbres Rocosas
+    CHERRY_GROVE: Cherry grove
+    CUSTOM: Personalizado
   EntityType:
     allay: '&4Allay'
     area_effect_cloud: Nube de Efecto Área
+    armadillo: Armadillo
     armor_stand: Soporte de Armadura
     arrow: Flecha
     axolotl: '&2Ajolote'
     bat: '&6Murciélago'
     bee: '&4Abeja'
     blaze: '&4Blaze'
+    block_display: Block display
     boat: Barca
+    bogged: Bogged
+    breeze: Breeze
+    breeze_wind_charge: Breeze wind charge
     camel: '&2Camello'
     cat: '&2Gato'
     cave_spider: '&4Araña de Cueva'
     chest_boat: Barca con Cofre
+    chest_minecart: Chest minecart
     chicken: '&2Gallina'
     cod: '&2Bacalao'
+    command_block_minecart: Command block minecart
     cow: '&2Vaca'
     creeper: '&4Creeper'
     dolphin: '&2Delfín'
     donkey: '&2Burro'
     dragon_fireball: Bola de Fuego Valyrio
-    dropped_item: Objeto Arrojado
     drowned: '&4Ahogado'
     egg: Huevo
     elder_guardian: '&6Guardián Anciano'
     enderman: '&6Enderman'
     endermite: '&4Endermite'
-    ender_crystal: Cristal de Ender
     ender_dragon: '&4Dragón'
     ender_pearl: Perla de Ender
-    ender_signal: Llamada de Ender
+    end_crystal: End crystal
     evoker: '&4Invocador'
     evoker_fangs: Colmillos de Invocador
+    experience_bottle: Experience bottle
     experience_orb: Orbe de Experiencia
+    eye_of_ender: Eye of ender
     falling_block: Caída de Bloque
     fireball: Bola de Fuego
-    firework: Fuegos Artificiales
-    fishing_hook: Anzuelo
+    firework_rocket: Firework rocket
+    fishing_bobber: Fishing bobber
     fox: '&6Zorro'
     frog: '&2Rana'
+    furnace_minecart: Furnace minecart
     ghast: '&4Ghast'
     giant: '&6Gigante'
     glow_item_frame: Marco Brillante
@@ -479,27 +361,26 @@ info:
     goat: Cabra
     guardian: '&6Guardián'
     hoglin: '&4Hoglin'
+    hopper_minecart: Hopper minecart
     horse: '&2Caballo'
     husk: '&4Zombi Momificado'
     illusioner: '&4Ilusionista'
+    interaction: Interaction
     iron_golem: '&6Golem de Hierro'
+    item: Item
+    item_display: Item display
     item_frame: Marco
-    leash_hitch: Gancho de Correa
-    lightning: Relámpago
+    leash_knot: Leash knot
+    lightning_bolt: Lightning bolt
     llama: '&6Llama'
     llama_spit: Escupitajo de Llama
     magma_cube: Cubo de Magma
     marker: Marca
     minecart: Vagoneta
-    minecart_chest: Vagoneta-Cofre
-    minecart_command: Vagoneta-Comandos
-    minecart_furnace: Vagoneta-Horno
-    minecart_hopper: Vagoneta-Tolva
-    minecart_mob_spawner: Vagoneta-Generadora
-    minecart_tnt: Vagoneta-Dinamitada
+    mooshroom: Mooshroom
     mule: '&2Mula'
-    mushroom_cow: '&2Vacaseta'
     ocelot: '&6Ocelote'
+    ominous_item_spawner: Ominous item spawner
     painting: Cuadro
     panda: '&6Oso Panda'
     parrot: '&2Loro'
@@ -510,7 +391,7 @@ info:
     pillager: '&4Saqueador'
     player: '&6Jugador'
     polar_bear: '&2Oso Polar'
-    primed_tnt: Dinamita activada
+    potion: Potion
     pufferfish: '&2Pez Globo'
     rabbit: '&2Conejo'
     ravager: '&4Devastador'
@@ -523,16 +404,19 @@ info:
     skeleton_horse: '&6Caballo Esqueleto'
     slime: '&6Babosa'
     small_fireball: Bola de Fuego pequeña
+    sniffer: Sniffer
     snowball: Bola de Nieve
-    snowman: '&6Golem Invernal'
+    snow_golem: Snow golem
+    spawner_minecart: Spawner minecart
     spectral_arrow: Flecha Espectral
     spider: '&6Araña'
-    splash_potion: Poción Arrojadiza
     squid: '&6Pulpo'
     stray: '&4Esqueleto Invernal'
     strider: '&2Lavagante'
     tadpole: '&2Renacuajo'
-    thrown_exp_bottle: Botella de Magia lanzada
+    text_display: Text display
+    tnt: Tnt
+    tnt_minecart: Tnt minecart
     trader_llama: '&2Llama Ambulante'
     trident: '&4Tridente'
     tropical_fish: '&2Pez Tropical'
@@ -543,6 +427,7 @@ info:
     vindicator: '&4Defensor'
     wandering_trader: '&2Vendedor Ambulante'
     warden: '&6Warden'
+    wind_charge: Wind charge
     witch: '&4Bruja'
     wither: '&4Wither'
     wither_skeleton: '&4Esqueleto de Wither'
@@ -553,152 +438,129 @@ info:
     zombie_horse: '&4Caballo Zombificado'
     zombie_villager: '&4Aldeano Zombificado'
     zombified_piglin: '&4Piglin Zombificado'
-  EnchantAliases:
-    protection_fire:
-    - Protección contra el Fuego
-    damage_all:
-    - Filo
-    arrow_fire:
-    - Fuego
-    soul_speed:
-    - Velocidad del Alma
-    water_worker:
-    - Afinidad Acuática
-    arrow_knockback:
-    - Retroceso
-    loyalty:
-    - Lealtad
-    depth_strider:
-    - Agilidad Acuática
-    vanishing_curse:
-    - Maldición de Desaparición
-    durability:
-    - Irrompibilidad
-    knockback:
-    - Empuje
-    luck:
-    - Suerte
-    binding_curse:
-    - Maldición de Ligamiento
-    loot_bonus_blocks:
-    - Fortuna
-    protection_environmental:
-    - Protección
-    dig_speed:
-    - Eficiencia
-    mending:
-    - Reparación
-    frost_walker:
-    - Paso helado
-    lure:
-    - Suerte Marina
-    loot_bonus_mobs:
-    - Botín
-    piercing:
-    - Perforación
-    protection_explosions:
-    - Protección Contra Explosiones
-    damage_undead:
-    - Golpeo
-    multishot:
-    - Disparo Múltiple
-    swift_sneak:
-    - SWIFTSNEAK
-    fire_aspect:
-    - Aspecto Ígneo
-    channeling:
-    - Conductividad
-    sweeping_edge:
-    - Filo Arrasador
-    thorns:
-    - Espinas
-    damage_arthropods:
-    - Perdición de los Artrópodos
-    oxygen:
-    - Respiración
-    riptide:
-    - Propulsión Acuática
-    silk_touch:
-    - Toque de Seda
-    quick_charge:
-    - Carga Rápida
-    protection_projectile:
-    - Protección Contra Proyectiles
-    impaling:
-    - Empalamiento
-    protection_fall:
-    - Caída de Pluma
-    arrow_damage:
-    - Poder
-    arrow_infinite:
-    - Infinidad
+  # Avoid adding color codes to the enchant name
+  EnchantNames:
+    dig_speed: Eficiencia
+    sweeping_edge: Filo Arrasador
+    loot_bonus_mobs: Botín
+    quick_charge: Carga Rápida
+    silk_touch: Toque de Seda
+    soul_speed: Velocidad del Alma
+    density: Density
+    breach: Breach
+    arrow_fire: Fuego
+    loot_bonus_blocks: Fortuna
+    water_worker: Afinidad Acuática
+    multishot: Disparo Múltiple
+    channeling: Conductividad
+    loyalty: Lealtad
+    binding_curse: Maldición de Ligamiento
+    arrow_knockback: Retroceso
+    arrow_damage: Poder
+    protection_projectile: Protección Contra Proyectiles
+    damage_all: Filo
+    frost_walker: Paso helado
+    protection_fire: Protección contra el Fuego
+    impaling: Empalamiento
+    luck: Suerte
+    riptide: Propulsión Acuática
+    mending: Reparación
+    protection_environmental: Protección
+    oxygen: Respiración
+    piercing: Perforación
+    protection_fall: Caída de Pluma
+    swift_sneak: SWIFTSNEAK
+    durability: Irrompibilidad
+    fire_aspect: Aspecto Ígneo
+    lure: Suerte Marina
+    damage_undead: Golpeo
+    knockback: Empuje
+    depth_strider: Agilidad Acuática
+    wind_burst: Wind_burst
+    arrow_infinite: Infinidad
+    vanishing_curse: Maldición de Desaparición
+    damage_arthropods: Perdición de los Artrópodos
+    protection_explosions: Protección Contra Explosiones
+    thorns: Espinas
   PotionEffectAliases:
-    speed:
-    - Velocidad
-    slow:
-    - Lentitud
-    fast_digging:
-    - Excavación Rápida
-    slow_digging:
-    - Excavación Lenta
-    increase_damage:
-    - Aumentar Daño
-    heal:
-    - Curación
-    harm:
-    - Daño
-    jump:
-    - Salto
-    confusion:
-    - Confusión
-    regeneration:
-    - Regeneración
-    damage_resistance:
-    - Resistencia al Daño
-    fire_resistance:
-    - Resistencia al Fuego
-    water_breathing:
-    - Apnea
+    instanthealth:
+    - Instant health
     invisibility:
     - Invisibilidad
-    blindness:
-    - Ceguera
-    night_vision:
-    - Visión Nocturna
-    hunger:
-    - Hambre
-    weakness:
-    - Debilidad
-    poison:
-    - Poción
-    wither:
-    - Wither
-    health_boost:
-    - Curación Instantánea
-    absorption:
-    - Absorción
-    saturation:
-    - Saturación
-    glowing:
-    - Aura
-    levitation:
-    - Levitación
-    luck:
-    - Suerte
+    waterbreathing:
+    - Water breathing
+    resistance:
+    - Resistance
     unluck:
     - Mala Suerte
-    slow_falling:
-    - Caída Lenta
-    conduit_power:
-    - Canalización
-    dolphins_grace:
-    - Gracia de Delfín
-    bad_omen:
-    - Mal Presagio
-    hero_of_the_village:
-    - Héroe de la Aldea
+    blindness:
+    - Ceguera
+    haste:
+    - Haste
+    poison:
+    - Poción
+    slowness:
+    - Slowness
+    hunger:
+    - Hambre
+    slowfalling:
+    - Slow falling
+    weaving:
+    - Weaving
+    fireresistance:
+    - Fire resistance
+    saturation:
+    - Saturación
+    raidomen:
+    - Raid omen
+    jumpboost:
+    - Jump boost
+    dolphinsgrace:
+    - Dolphins grace
+    miningfatigue:
+    - Mining fatigue
+    healthboost:
+    - Health boost
+    regeneration:
+    - Regeneración
+    conduitpower:
+    - Conduit power
+    badomen:
+    - Bad omen
+    luck:
+    - Suerte
+    speed:
+    - Velocidad
+    trialomen:
+    - Trial omen
+    strength:
+    - Strength
     darkness:
     - Oscuridad
+    heroofthevillage:
+    - Hero of the village
+    levitation:
+    - Levitación
+    instantdamage:
+    - Instant damage
+    oozing:
+    - Oozing
+    weakness:
+    - Debilidad
+    nausea:
+    - Nausea
+    windcharged:
+    - Wind charged
+    absorption:
+    - Absorción
+    wither:
+    - Wither
+    glowing:
+    - Aura
+    infested:
+    - Infested
+    nightvision:
+    - Night vision
 direction:
   n: Norte
   ne: Noreste
@@ -775,9 +637,6 @@ econ:
   charged: '!actionbar!&eHas pagado &6[amount]'
   notEnoughMoney: '&cNo tienes suficiente dinero. Necesitas (&6[amount]&c)&c.'
   tooMuchMoney: '&cTienes demasiado dinero.'
-  disabled: '&cNo puedes usar este comando con el sistema económico desactivado.'
-  commandCost: '&7Este comando tiene un coste de &6[cost]&7.\n&8&oRepite el comando
-    o pulsa sobre el mensaje para confirmar.'
 Selection:
   SelectPoints: '&c¡Selecciona 2 puntos con la herramienta de selección!: &6[tool]'
   PrimaryPoint: '&6Primer &epunto seleccionado en &6[point]&e.'
@@ -802,68 +661,6 @@ Location:
   - world_nether-&2Inframundo
   - world_the_end-&2The End
 Locations: '&7Lugares: '
-warp:
-  list: '&e[pos]. &6[warpName] &7► [worldName] ([x]:[y]:[z])'
-afk:
-  'off': '&aActivo'
-  MayNotRespond: '&eEl jugador no responde, está ausente.'
-  MayNotRespondStaff: '&eEl moderador está ausente y no te va a responder. Prueba
-    contactando por otro medio.'
-BossBar:
-  hpBar: '&8[[victim]&8] &2&o-[damage]&r &8► &4[current] &8[&7[max]&8]'
-Potion:
-  Effects: '&8Efecto de la poción.'
-  List: '&e[PotionName] [PotionAmplifier] &eDuración: &e[LeftDuration] &eseg'
-  NoPotions: '&eNinguna.'
-Information:
-  Title: '&cInformación sobre el jugador.'
-  Health: '&eSalud: &6[Health]&e/&6[maxHealth]'
-  Hunger: '&eHambre: &6[Hunger]'
-  Saturation: '&eSaturación: &6[Saturation]'
-  Exp: '&eExperiencia: &6[Exp]'
-  NotEnoughExp: '&eNo tiene suficiente experiencia: &6[Exp]'
-  NotEnoughExpNeed: '&eNo tiene suficiente experiencia: &6[Exp]/[need]'
-  tooMuchExp: '&eDemasiada experiencia: &6[Exp]/[need]'
-  NotEnoughVotes: '&eNo tiene suficientes votos: &6[votes]'
-  TooMuchVotes: '&eDemasiados votos: &6[votes]'
-  BadGameMode: '&cNo puedes hacer esto con este modo de juego.'
-  BadArea: '&cNo puedes hacer esto aquí.'
-  GameMode: '&eModo de Juego: &6[GameMode]'
-  Flying: '&eVolando: &6[Flying]'
-  Uuid: '&6[uuid]'
-  FirstConnection: '&ePrimera conexión: &6[time]'
-  Lastseen: '&eÚltima sesión: &6[time]'
-  Onlinesince: '&eConectado desde: &6[time]'
-  Money: '&eDinero: &6[money]'
-  Group: '&eGrupo: &6[group]'
-Elytra:
-  Speed: '&eVelocidad: &6[speed] &ekm/h'
-  SpeedBoost: ' &2+ '
-  SpeedSuperBoost: ' &6+++ '
-  CanUse: '&c¡No puedes colocarte las alas sin permiso!'
-  CantGlide: '&c¡Aquí no puedes usar las alas!'
-  Charging: '&eImpulso al &6[percentage]&e%.'
-NetherPortal:
-  ToHigh: '&c¡El Portal es demasiado alto, el máximo es &6[max]&c!'
-  ToWide: '&c¡El Portal es demasiado ancho, el máximo es &6[max]&c!'
-  Creation: '!actionbar!&7¡Se ha creado un Portal al Inframundo de [height]x[width]!'
-  Disabled: '&c¡La creación de portales está desactivada en la configuración!'
-Ender:
-  Title: '&7Abrir Cofre de Ender.'
-Chat:
-  localPrefix: ''
-  shoutPrefix: '&c[S]&r'
-  LocalNoOne: '!actionbar!&cNadie te está leyendo, introduce ! antes del texto para
-    enviar el mensaje por el chat general.'
-  shoutDeduction: '!actionbar!&cCastigado &e[amount] &cpor gritar.'
-  publicHover: '&7Enviado a las %server_time_HH:mm:ss%'
-  privateHover: '&7Enviado a las %server_time_HH:mm:ss%'
-  staffHover: '&7Enviado a las %server_time_HH:mm:ss%'
-  helpopHover: '&7Enviado a las %server_time_HH:mm:ss%'
-  link: '&8[&4&oENLACE&8]&r'
-  item: '&7[[amount]%cmi_iteminhand_displayname%&7]'
-  itemAmount: ' x[amount]'
-  itemEmpty: '&7[Puño vacío]'
 command:
   help:
     output:

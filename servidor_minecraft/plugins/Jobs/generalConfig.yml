@@ -510,7 +510,7 @@ ActionBars:
   Enabled: true
   Messages:
     # States of action bar messages
-    # Valid options: Off, Rapid, Batched
+    # Valid options: Off §8|§r Rapid §8|§r Batched
     DefaultState: Rapid
     # Time in seconds action bar will remain visible if rapid state is enabled
     # This time is used to define for how long we will accumulate payments to be shown in action bar
