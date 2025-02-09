@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 1739137415186
+  lastteleport: 1739137848865
   lastheal: 0
   mute: 0
   jail: 0
@@ -33,8 +33,8 @@ last-account-name: ElKeitoGG
 lastlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: 557.1842262925043
-  y: -4.0
-  z: -143.15703700604604
-  yaw: 109.07925415039062
-  pitch: 3.496138572692871
+  x: 0.0
+  y: 98.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

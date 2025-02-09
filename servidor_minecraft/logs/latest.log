@@ -2699,3 +2699,136 @@ java.util.ConcurrentModificationException: null
 [21:44:30] [Server thread/INFO]: mwarrii issued server command: /fly
 [21:44:42] [Async Chat Thread - #48/INFO]: [Not Secure] CREADOR ElKeitoGG: CALATE
 [21:44:43] [Async Chat Thread - #48/INFO]: [Not Secure] CREADOR ElKeitoGG: CALLATE
+[21:46:23] [Async Chat Thread - #49/INFO]: [Not Secure] CREADOR ElKeitoGG: a donde
+[21:46:25] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[21:46:29] [Server thread/INFO]: ElKeitoGG issued server command: /fly
+[21:46:31] [Server thread/INFO]: ElKeitoGG issued server command: /fly
+[21:46:34] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[21:46:37] [Server thread/INFO]: mwarrii issued server command: /ho
+[21:46:42] [Server thread/INFO]: mwarrii issued server command: /homes
+[21:46:43] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[21:46:48] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:50] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:51] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:52] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:53] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:53] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:54] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:54] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:55] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:56] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:56] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:57] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:57] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:58] [Server thread/WARN]: mwarrii moved wrongly!
+[21:46:59] [Server thread/WARN]: mwarrii moved wrongly!
+[21:48:00] [Server thread/INFO]: ElKeitoGG drowned
+[21:50:40] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAO
+[21:50:45] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAO
+[21:50:45] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAO
+[21:50:46] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAO
+[21:50:46] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAO
+[21:50:46] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAOt
+[21:50:47] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XK TOY AHOGAOt
+[21:50:48] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[21:50:49] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: q
+[21:50:52] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: ay dios
+[21:51:04] [Server thread/INFO]: ElKeitoGG issued server command: /give ElKeitoGG stick 1
+[21:51:04] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[21:51:11] [Server thread/INFO]: ElKeitoGG issued server command: /ie enchant sharpness 255
+[21:51:16] [Server thread/INFO]: ElKeitoGG issued server command: /ie enchant fire_aspect 255
+[21:51:25] [Server thread/INFO]: ElKeitoGG issued server command: /ie enchant knockback 255
+[21:51:30] [Server thread/INFO]: ElKeitoGG issued server command: /ie enchant looting 255
+[21:51:39] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: Busca la casa
+[21:51:41] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: y la hacemos
+[21:51:47] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: No seas floja
+[21:51:48] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: buscala
+[21:52:01] [Server thread/INFO]: ElKeitoGG issued server command: /give ElKeitoGG ironshovel 1
+[21:52:01] [Server thread/ERROR]: [CraftMagicNumbers] Exception modifying ItemStack
+java.lang.Throwable: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+	at org.bukkit.craftbukkit.util.CraftMagicNumbers.modifyItemStack(CraftMagicNumbers.java:287) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.MetaItemStack.canSpawn(MetaItemStack.java:135) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.Commandgive.run(Commandgive.java:56) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:175) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.commands.EssentialsCommand.run(EssentialsCommand.java:170) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommandEssentials(Essentials.java:820) ~[EssentialsX-2.20.1.jar:?]
+	at EssentialsX-2.20.1.jar/com.earth2me.essentials.Essentials.onCommand(Essentials.java:723) ~[EssentialsX-2.20.1.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown item 'minecraft:' at position 0: <--[HERE]
+[21:52:14] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared menu
+[21:52:35] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared enchant excavation 3 ElKeitoGG
+[21:52:37] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: MIRA
+[21:52:41] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: MIRA ESTO
+[21:52:53] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[21:53:08] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: toma te la regalo
+[21:53:53] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: a ver
+[21:53:55] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: buscare una casa
+[21:54:18] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[21:54:23] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: ay
+[21:54:26] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: mari mira esto
+[21:54:47] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: listo
+[21:54:48] [Async Chat Thread - #51/INFO]: [Not Secure] CREADOR ElKeitoGG: mira dc
