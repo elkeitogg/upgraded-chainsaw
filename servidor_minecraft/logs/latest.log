@@ -3347,3 +3347,67 @@ java.util.ConcurrentModificationException: null
 [22:04:59] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: ponte ese texturepack
 [22:05:23] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo deserteagle_ammo ElKeitoGG
 [22:05:38] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: mira mi transmi
+[22:06:26] [Server thread/INFO]: mwarrii died
+[22:06:30] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: alamierda
+[22:06:36] [Server thread/INFO]: mwarrii issued server command: /home
+[22:06:44] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: eh
+[22:06:59] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell:weapon get mk18
+[22:07:02] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell:weapon get mk18 1000
+[22:07:21] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: MIRA LA TRANSMISION
+[22:07:27] [Server thread/INFO]: mwarrii was slain by ElKeitoGG using [MK18]
+[22:07:33] [Server thread/INFO]: mwarrii issued server command: /home
+[22:07:41] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: y ahora?
+[22:07:43] [Server thread/INFO]: mwarrii issued server command: /fly
+[22:08:00] [Async Chat Thread - #57/INFO]: [Not Secure] CREADOR ElKeitoGG: ya?
+[22:09:03] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell get m1911 1000
+[22:09:36] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getthrowable grenade
+[22:09:49] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[22:09:50] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getthrowable grenade
+[22:10:04] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getthrowable flashbang
+[22:10:47] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: a ver
+[22:10:50] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: como era
+[22:10:53] [Server thread/INFO]: ElKeitoGG issued server command: /gamerule keepInventory true
+[22:10:53] [Server thread/INFO]: [ElKeitoGG: Gamerule keepInventory is now set to: true]
+[22:10:55] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: ya
+[22:11:04] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getmelee machete
+[22:11:09] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getmelee machete 1000
+[22:11:13] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: Tengo un MACHETEEEEEE
+[22:11:27] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: mira usalo
+[22:11:38] [Server thread/INFO]: ElKeitoGG issued server command: /heal
+[22:11:40] [Server thread/INFO]: ElKeitoGG issued server command: /gm 0
+[22:11:41] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: dale
+[22:11:46] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: PEGAMEE
+[22:12:00] [Server thread/INFO]: ElKeitoGG issued server command: /invsee mw
+[22:12:05] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:15] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:15] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:16] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:16] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:16] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:17] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:17] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:17] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:17] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmiteme pantalla
+[22:12:28] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: por eso
+[22:12:31] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: transmite pantalla
+[22:12:38] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: pa enseñarte a poner el texturepack
+[22:12:46] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: No importaaaa
+[22:13:01] [Async Chat Thread - #59/INFO]: [Not Secure] CREADOR ElKeitoGG: solo es copiar y pegar en la carpeta de texturepacks
+[22:13:27] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getweapon doublebarreledshotgun 1000
+[22:14:08] [Async Chat Thread - #61/INFO]: [Not Secure] CREADOR ElKeitoGG: ya pusiste el txtpack?
+[22:14:22] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:25] [Async Chat Thread - #61/INFO]: [Not Secure] CREADOR ElKeitoGG: ay dios dame paciencia
+[22:14:26] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:27] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:27] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:27] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:28] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:28] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:29] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:29] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:29] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:30] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:14:30] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo doublebarreledshotgun_ammo
+[22:15:26] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: toma
+[22:15:44] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: click derecho y recargas
+[22:16:01] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Mira el machetote
