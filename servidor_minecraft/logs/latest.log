@@ -282,3 +282,134 @@
 [20:02:52] [Server thread/INFO]: ElKeitoGG issued server command: /bal
 [20:03:00] [Server thread/INFO]: ElKeitoGG issued server command: /eco reset ElKeitoGG
 [20:03:01] [Server thread/INFO]: ElKeitoGG issued server command: /eco
+[20:03:58] [User Authenticator #1/INFO]: UUID of player mwarrii is dd8e00ab-8a85-3d43-998e-1ca59d149e09
+[20:04:02] [TAB Processing Thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:04:02] [Server thread/INFO]: [Staff] mwarrii joined the server
+[20:04:02] [Server thread/INFO]: mwarrii[/127.229.174.33:34719] logged in with entity id 1014 at ([world]-413.2378110060439, 63.0, 24.334512504499273)
+[20:04:32] [Server thread/INFO]: mwarrii lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:04:32] [Server thread/INFO]: mwarrii left the game
+[20:05:25] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:05:25] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:05:25] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:05:25] [Server thread/INFO]: [TAB] Enabled in 13ms
+[20:05:52] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:05:52] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:05:52] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:05:52] [Server thread/INFO]: [TAB] Enabled in 11ms
+[20:06:04] [User Authenticator #2/INFO]: UUID of player mwarrii is dd8e00ab-8a85-3d43-998e-1ca59d149e09
+[20:06:06] [TAB Processing Thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:06:06] [Server thread/INFO]: [Staff] mwarrii joined the server
+[20:06:06] [Server thread/INFO]: mwarrii[/127.229.174.33:57131] logged in with entity id 1225 at ([world]-413.2378110060439, 63.0, 24.334512504499273)
+[20:06:22] [Async Chat Thread - #0/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Es un nuevo plugin
+[20:06:26] [Async Chat Thread - #0/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Puedes poner una nueva
+[20:06:36] [Server thread/INFO]: mwarrii lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:06:36] [Server thread/INFO]: mwarrii left the game
+[20:06:48] [User Authenticator #2/INFO]: UUID of player mwarrii is dd8e00ab-8a85-3d43-998e-1ca59d149e09
+[20:06:48] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:06:50] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:06:50] [Server thread/INFO]: [EconomyShopGUI] [DEBUG]: Detected skin change of caezon, updating cached skin...
+[20:06:50] [Server thread/INFO]: [Staff] caezon joined the server
+[20:06:50] [Server thread/INFO]: caezon[/127.2.214.85:37347] logged in with entity id 1296 at ([world]-416.18401859836507, 64.0, 24.81907453677016)
+[20:06:50] [TAB Processing Thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:06:50] [Server thread/INFO]: [Staff] mwarrii joined the server
+[20:06:50] [Server thread/INFO]: mwarrii[/127.229.174.33:54981] logged in with entity id 1295 at ([world]-413.35167860985337, 63.0, 24.76249998807907)
+[20:07:19] [Server thread/INFO]: [AuthMe] mwarrii registered 127.229.174.33
+[20:07:19] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] mwarrii logged in 127.229.174.33
+[20:07:21] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:07:21] [Server thread/INFO]: caezon left the game
+[20:07:24] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:07:26] [Server thread/INFO]: [Staff] caezon joined the server
+[20:07:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:07:26] [Server thread/INFO]: caezon[/127.2.214.85:35737] logged in with entity id 1350 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:07:56] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:07:56] [Server thread/INFO]: caezon left the game
+[20:07:59] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:08:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:08:01] [Server thread/INFO]: [Staff] caezon joined the server
+[20:08:01] [Server thread/INFO]: caezon[/127.2.214.85:37877] logged in with entity id 1400 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:08:06] [Server thread/INFO]: caezon issued server command: /login
+[20:08:31] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:08:31] [Server thread/INFO]: caezon left the game
+[20:08:33] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:08:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:08:34] [Server thread/INFO]: [Staff] caezon joined the server
+[20:08:34] [Server thread/INFO]: caezon[/127.2.214.85:41865] logged in with entity id 1456 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:08:41] [Server thread/INFO]: caezon issued server command: /register
+[20:09:04] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:09:04] [Server thread/INFO]: caezon left the game
+[20:09:07] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:09:09] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:09:09] [Server thread/INFO]: [Staff] caezon joined the server
+[20:09:09] [Server thread/INFO]: caezon[/127.2.214.85:44583] logged in with entity id 1505 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:09:39] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:09:39] [Server thread/INFO]: caezon left the game
+[20:09:43] [User Authenticator #2/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:09:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:09:44] [Server thread/INFO]: [Staff] caezon joined the server
+[20:09:44] [Server thread/INFO]: caezon[/127.2.214.85:52235] logged in with entity id 1558 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:10:11] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:10:11] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:10:11] [Server thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:10:11] [Server thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:10:11] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:10:11] [Server thread/INFO]: [TAB] Enabled in 13ms
+[20:10:14] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:10:14] [Server thread/INFO]: caezon left the game
+[20:10:47] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Dile a kevin q tiene q hacerse un nuevo /register
+[20:10:50] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: xk puse un nuevo plugin
+[20:10:56] [User Authenticator #3/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:10:56] [Server thread/INFO]: ElKeitoGG issued server command: /op ElKeitoGG
+[20:10:56] [Server thread/INFO]: [ElKeitoGG: Made ElKeitoGG a server operator]
+[20:10:57] [Server thread/INFO]: [Staff] caezon joined the server
+[20:10:57] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:10:57] [Server thread/INFO]: caezon[/127.2.214.85:42263] logged in with entity id 1666 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:10:59] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode survival
+[20:11:01] [Server thread/INFO]: caezon issued server command: /register
+[20:11:05] [Server thread/INFO]: mwarrii was slain by ElKeitoGG
+[20:11:12] [Server thread/INFO]: mwarrii issued server command: /tp ElKeitoGG
+[20:11:15] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: MI KAMEHAME HA
+[20:11:27] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:11:27] [Server thread/INFO]: caezon left the game
+[20:11:28] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: weon
+[20:11:31] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ayer me quede dormido
+[20:11:32] [Async Chat Thread - #3/INFO]: [Not Secure] [CREADOR] ElKeitoGG: XD
+[20:11:52] [User Authenticator #3/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:11:52] [Server thread/INFO]: ElKeitoGG issued server command: /gm 1
+[20:11:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:11:53] [Server thread/INFO]: [Staff] caezon joined the server
+[20:11:53] [Server thread/INFO]: caezon[/127.2.214.85:38283] logged in with entity id 1935 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:11:56] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode survival
+[20:12:23] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:12:23] [Server thread/INFO]: caezon left the game
+[20:12:40] [User Authenticator #3/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:12:42] [Server thread/INFO]: [Staff] caezon joined the server
+[20:12:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:12:42] [Server thread/INFO]: caezon[/127.2.214.85:45853] logged in with entity id 2016 at ([world]-416.0215802282644, 63.0, 24.506629386744837)
+[20:13:12] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:13:12] [Server thread/INFO]: caezon left the game
+[20:13:15] [User Authenticator #3/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:13:17] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:13:17] [Server thread/INFO]: [Staff] caezon joined the server
+[20:13:17] [Server thread/INFO]: caezon[/127.2.214.85:58529] logged in with entity id 2077 at ([world]-416.00169713669766, 63.0, 24.410669511916748)
+[20:13:17] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Player
+[20:13:17] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:13:19] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:13:20] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:13:20] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:13:20] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:13:22] [Server thread/INFO]: mwarrii was slain by ElKeitoGG using [KAME-HAME.. HAAAAAAA!!]
+[20:13:25] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: XD
+[20:13:29] [Server thread/INFO]: mwarrii issued server command: /tp ElKeitoGG
+[20:13:30] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ya mawri no se molesta :c
+[20:13:31] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: cuando la mato
+[20:13:36] [Server thread/INFO]: ElKeitoGG issued server command: /feed
+[20:13:47] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
+[20:13:47] [Server thread/INFO]: caezon left the game

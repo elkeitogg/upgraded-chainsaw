@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739084329420
-  login: 1739084250364
+  logout: 1739132027151
+  login: 1739131997099
 money: '0'
 last-account-name: caezon
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: -416.18401859836507
-  y: 64.0
-  z: 24.81907453677016
-  yaw: -107.39044189453125
-  pitch: 43.60667037963867
+  x: -416.00169713669766
+  y: 63.0
+  z: 24.410669511916748
+  yaw: -83.99043273925781
+  pitch: 49.649993896484375
