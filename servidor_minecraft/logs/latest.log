@@ -413,3 +413,135 @@
 [20:13:36] [Server thread/INFO]: ElKeitoGG issued server command: /feed
 [20:13:47] [Server thread/INFO]: caezon lost connection: Login timeout exceeded, you have been kicked from the server, please try again!
 [20:13:47] [Server thread/INFO]: caezon left the game
+[20:14:11] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: que
+[20:14:12] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ah XD
+[20:14:31] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:14:31] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:14:31] [Server thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:14:31] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:14:31] [Server thread/INFO]: [TAB] Enabled in 9ms
+[20:14:42] [User Authenticator #4/INFO]: UUID of player caezon is b089513f-673d-391b-b712-53b0c6d3c2a0
+[20:14:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:14:44] [Server thread/INFO]: [Staff] caezon joined the server
+[20:14:44] [Server thread/INFO]: caezon[/127.2.214.85:49667] logged in with entity id 2366 at ([world]-416.00169713669766, 63.0, 24.410669511916748)
+[20:15:00] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Dile que si quiere lo registro por el
+[20:15:02] [Server thread/INFO]: [AuthMe] caezon registered 127.2.214.85
+[20:15:02] [Craft Scheduler Thread - 42 - AuthMe/INFO]: [AuthMe] caezon logged in 127.2.214.85
+[20:15:04] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: mucha hueveada
+[20:15:13] [Server thread/INFO]: mwarrii has made the advancement [A Seedy Place]
+[20:15:15] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: ahora si V:
+[20:15:18] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ah ya
+[20:15:24] [Server thread/INFO]: caezon was slain by ElKeitoGG using [KAME-HAME.. HAAAAAAA!!]
+[20:15:31] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: Q PASÓ
+[20:15:33] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: JAJAJA
+[20:15:43] [Server thread/INFO]: caezon issued server command: /tp ElkeitoGG
+[20:15:53] [Server thread/INFO]: ElKeitoGG issued server command: /lp user caezon demote
+[20:16:06] [Server thread/INFO]: ElKeitoGG issued server command: /lp user caezon parent remove staff
+[20:16:06] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (caezon)
+[20:16:06] [luckperms-command-executor/INFO]: [LP] LOG > parent remove staff
+[20:16:12] [Server thread/INFO]: ElKeitoGG issued server command: /lp user mwarrii parent remove staff
+[20:16:12] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (mwarrii)
+[20:16:12] [luckperms-command-executor/INFO]: [LP] LOG > parent remove staff
+[20:16:16] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: WEON
+[20:16:22] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: NO SE GUARDO NADA DE LO QUE HICE AYERR
+[20:16:24] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: AHHHHHHHHHHHH
+[20:16:32] [Async Chat Thread - #5/INFO]: [Not Secure] [CREADOR] ElKeitoGG: mira el tab denuevo
+[20:16:32] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: pendejo
+[20:16:33] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ajgklajskgljklsag
+[20:16:58] [Server thread/INFO]: mwarrii was slain by ElKeitoGG using [KAME-HAME.. HAAAAAAA!!]
+[20:17:01] [Server thread/INFO]: mwarrii issued server command: /tp ElKeitoGG
+[20:17:01] [Server thread/INFO]: [Essentials] mwarrii was denied access to command.
+[20:17:05] [Server thread/INFO]: ElKeitoGG issued server command: /eco
+[20:17:06] [Server thread/INFO]: ElKeitoGG issued server command: /bal
+[20:17:11] [Server thread/INFO]: ElKeitoGG issued server command: /tp mwarrii ElKeitoGG
+[20:17:15] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: usa /back gran weona
+[20:17:23] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: el kevin
+[20:17:26] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: yonofui
+[20:17:31] [Server thread/INFO]: ElKeitoGG issued server command: /invsee caezon
+[20:17:41] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: esto q es?
+[20:17:50] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ;:V
+[20:17:51] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: ke
+[20:17:57] [Server thread/INFO]: ElKeitoGG issued server command: /vanish
+[20:17:57] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: agarraste mi posición
+[20:17:58] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: keo ql
+[20:18:16] [Server thread/INFO]: caezon was slain by mwarrii using [KAME-HAME.. HAAAAAAA!!]
+[20:18:22] [Server thread/INFO]: ElKeitoGG issued server command: /vanish
+[20:18:24] [Async Chat Thread - #4/INFO]: [Not Secure] [Usuario] caezon: tonto weonhuerfano
+[20:18:29] [Server thread/INFO]: ElKeitoGG was slain by mwarrii using [KAME-HAME.. HAAAAAAA!!]
+[20:18:32] [Server thread/INFO]: ElKeitoGG issued server command: /back
+[20:18:37] [Server thread/INFO]: ElKeitoGG issued server command: /tp caezon mwarrii
+[20:18:47] [Server thread/INFO]: ElKeitoGG issued server command: /lp user mwarrii parent add staff
+[20:18:47] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (mwarrii)
+[20:18:47] [luckperms-command-executor/INFO]: [LP] LOG > parent add staff
+[20:18:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:18:55] [Server thread/INFO]: ElKeitoGG issued server command: /lp user caezon parent add staff
+[20:18:55] [luckperms-command-executor/INFO]: [LP] LOG > (ElKeitoGG) [U] (caezon)
+[20:18:55] [luckperms-command-executor/INFO]: [LP] LOG > parent add staff
+[20:18:56] [TAB Processing Thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:18:56] [Server thread/INFO]: caezon has made the advancement [Ol' Betsy]
+[20:19:00] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ya tienen comandos
+[20:19:03] [Server thread/INFO]: ElKeitoGG issued server command: /heal
+[20:19:05] [Server thread/INFO]: mwarrii issued server command: /weather clear
+[20:19:15] [Server thread/INFO]: ElKeitoGG issued server command: /time 1
+[20:19:34] [Server thread/INFO]: ElKeitoGG issued server command: /fly
+[20:19:42] [Server thread/INFO]: ElKeitoGG issued server command: /invsee mwa
+[20:19:44] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: no sé
+[20:19:52] [Server thread/WARN]: caezon moved wrongly!
+[20:19:52] [Server thread/INFO]: mwarrii issued server command: /fly
+[20:19:54] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: WHAT
+[20:19:55] [Server thread/WARN]: ElKeitoGG moved wrongly!
+[20:19:57] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: KEVIN HACKER
+[20:19:57] [Server thread/WARN]: ElKeitoGG moved wrongly!
+[20:20:01] [Server thread/INFO]: mwarrii has made the advancement [Suit Up]
+[20:20:02] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ahya
+[20:20:07] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: keo
+[20:20:08] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: vamos a jugar
+[20:20:09] [Server thread/INFO]: ElKeitoGG issued server command: /vanish
+[20:20:10] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: o a wear
+[20:20:12] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: las 2
+[20:20:18] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: chupala
+[20:20:29] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: JAJAJA
+[20:20:37] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: q e seso
+[20:20:42] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: nogracias
+[20:21:23] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: estoy aqui
+[20:21:24] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: ya va
+[20:21:24] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: q lindo se ve con este pack de texturas
+[20:21:29] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: estoy configurando cosas
+[20:21:51] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: me rompiste
+[20:21:53] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: mi casquito
+[20:22:03] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: hackers
+[20:22:15] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: yo veré q hacers
+[20:22:20] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
+[20:22:20] [Server thread/INFO]: ElKeitoGG left the game
+[20:22:23] [User Authenticator #5/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[20:22:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:24] [Server thread/INFO]: [Staff] ElKeitoGG joined the server
+[20:22:24] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:52633] logged in with entity id 3658 at ([world]-411.5221793251236, 63.0, 31.39568643620043)
+[20:22:30] [Craft Scheduler Thread - 59 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
+[20:22:40] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:22:40] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:22:40] [Server thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:40] [Server thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:40] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:40] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:22:44] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Vean el tab
+[20:22:51] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: q
+[20:22:53] [Async Chat Thread - #4/INFO]: [Not Secure] [CREADOR] ElKeitoGG: Vean el tab
+[20:22:54] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:22:54] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:22:54] [Server thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:54] [Server thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:54] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:22:54] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:23:06] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:23:06] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:23:06] [Server thread/INFO]: [TAB] [WARN] Player caezon's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:23:06] [Server thread/INFO]: [TAB] [WARN] Player mwarrii's group (staff) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:23:06] [Server thread/INFO]: [TAB] [WARN] Player ElKeitoGG's group (creador) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:23:06] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:23:09] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: deja de hackear keo
+[20:23:47] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:23:47] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:23:47] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:23:51] [Server thread/INFO]: caezon has made the advancement [Suit Up]
+[20:24:07] [Async Chat Thread - #4/INFO]: [Not Secure] [STAFF] caezon: voy a minar carboncito

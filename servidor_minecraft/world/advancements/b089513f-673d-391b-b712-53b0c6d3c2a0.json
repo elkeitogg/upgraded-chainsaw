@@ -238,7 +238,8 @@
       "minecraft:skeleton": "2025-02-09 05:31:12 +0000",
       "minecraft:enderman": "2025-02-09 05:18:46 +0000",
       "minecraft:spider": "2025-02-09 05:16:16 +0000",
-      "minecraft:zombie": "2025-02-09 05:16:17 +0000"
+      "minecraft:zombie": "2025-02-09 05:16:17 +0000",
+      "minecraft:drowned": "2025-02-09 20:16:07 +0000"
     },
     "done": false
   },
@@ -1243,6 +1244,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-09 06:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-09 20:18:56 +0000"
     },
     "done": true
   },
