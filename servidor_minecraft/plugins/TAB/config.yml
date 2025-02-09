@@ -2,17 +2,15 @@
 header-footer:
   enabled: true
   header:
+  - ''
+  - '<#0072ff>ᴋ<#0079ff>ᴇ<#0080ff>ᴏ<#0087ff>ꜱ<#008eff>ᴇ<#0095ff>ʀ<#009cff>ᴠ<#00a3ff>ᴇ<#00aaff>ʀ<#00b1ff>.<#00b8ff>ɴ<#00bfff>ᴇ<#00c6ff>ᴛ'
+  - '&7ᴇꜱᴛÁꜱ ᴊᴜɢᴀɴᴅᴏ ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇɴ ᴇʟ ꜱᴇʀᴠᴇʀ ᴅᴇ &fᴋᴇᴏ'
+  - ''
+  footer:
     - ""
-    - "&c&lServer de Keo"
+    - "ᴇɴᴛʀᴀ ᴀʟ ᴅɪꜱᴄᴏʀᴅ ᴘᴀʀᴀ ᴍÁꜱ ɪɴꜰᴏʀᴍᴀᴄɪÓɴ"
+    - '&#16D9F3ᴅɪꜱᴄᴏʀᴅ.ɢɢ/ᴅᴇɴᴋᴀɪʀ'
     - ""
-    - "&7&l>> %animation:Bienvenida%&3 &l%player%&7&l! &7&l<<"
-    - ""
-    - "&7Jugadores conectados: &f%online%"
-    - "&ePing: &f%ping%"
-    - ""
-  footer: 
-    - ""
-    - "&6&l147.185.221.25:55205"
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:
@@ -58,9 +56,9 @@ playerlist-objective:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Belowname
 belowname-objective:
-  enabled: false
+  enabled: true
   value: "%health%"
-  title: "&cHealth"
+  title: "&c❤"
   fancy-value: "&c%health%"
   fancy-value-default: "NPC"
   disable-condition: '%world%=disabledworld'
