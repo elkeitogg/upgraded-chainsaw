@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.2.214.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739084329420
+  login: 1739084250364
+money: '0'
+last-account-name: caezon
+lastlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: 0.0
+  y: 98.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: -416.18401859836507
+  y: 64.0
+  z: 24.81907453677016
+  yaw: -107.39044189453125
+  pitch: 43.60667037963867

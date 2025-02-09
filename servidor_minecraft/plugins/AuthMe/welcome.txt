@@ -1,0 +1,1 @@
+Bienvenido {PLAYER} a {SERVER}!

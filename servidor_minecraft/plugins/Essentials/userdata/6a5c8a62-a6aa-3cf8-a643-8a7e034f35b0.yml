@@ -5,26 +5,36 @@ muted: false
 jailed: false
 ip-address: 127.106.169.53
 afk: false
-socialspy: false
+socialspy: true
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 0
+  lastteleport: 1739083238822
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739077643648
-  login: 1739077613414
-money: '436620.79999999998'
+  logout: 1739086322217
+  login: 1739130922874
+  kits:
+    tools: 1739078313167
+money: '0'
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: -18.970622797713336
-  y: 123.0
-  z: 145.69999998807907
-  yaw: 61.24042892456055
-  pitch: 20.147872924804688
+  x: -416.01364198286063
+  y: 63.0
+  z: 65.69999998807907
+  yaw: 132.273681640625
+  pitch: 10.93114185333252
 last-account-name: ElKeitoGG
+lastlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: 0.0
+  y: 98.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

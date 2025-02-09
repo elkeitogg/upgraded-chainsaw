@@ -1,12 +1,9 @@
-# Creador:
- # tabprefix: "&0&l[&4&lCREADOR&0&l] &f"
- # tagprefix: "&2&lCREADOR &f"
-# Staff:
- # tabprefix: "&0&l[&6&lSTAFF&0&l] &f"
- # tagprefix: "&2&lSTAFF &f"
-# Default:
- # tabprefix: "&0&l[&a&lUsuario&0&l] &7"
- # tagprefix: "&2&lUsuario &7"
+#Owner:
+#  tabprefix: "&0&l[&a&lOwner&0&l] &a"
+#  tagprefix: "&2&lOwner &a"
+Player:
+  tabprefix: "&0&l[&7&lPlayer&0&l] &3"
+  tagprefix: "&2&lPlayer &3"
 example_group:
   header:
     - "This is an example of per-group header/footer"
