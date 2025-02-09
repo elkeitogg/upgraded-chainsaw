@@ -96,18 +96,16 @@ scoreboard:
       title: "<#0072ff>ꜱ<#007aff>ᴜ<#0081ff>ʀ<#0089ff>ᴠ<#0091ff>ɪ<#0098ff>ᴠ<#00a0ff>ᴀ<#00a7ff>ʟ <#00afff>1<#00b7ff>.<#00beff>2<#00c6ff>1"
       lines:
         - ""
-        - "&3● &fNick: &3%player%"
+        - "&3● &fNick: &b%player%"
         - "&3● &fRango: %luckperms_prefix%"
         - "&3● &fDinero: &a%vault_eco_balance_formatted% ⛃"
         - ""
-        - "&3● &fKills: &4%statistic_player_kills% ⚔️"
-        - "&3● &fMuertes: &f%statistic_deaths% 💀"
+        - "&3● &fKills: &c%statistic_player_kills%"
+        - "&3● &fMuertes: &c%statistic_deaths%"
         - ""
-        - "&6Personal Info:"
-        - "* &bRank&7: &f%group%"
-        - "* &bPing&7: &f%ping%&8ms"
-        - "* &bWorld&7: &f%world%"
-        - "%animation:MyAnimation1%"
+        - "&3● &fCoords: &b%player_x%, %player_y%, %player_z%"
+        - "&3● &fConectados: &a%server_online%"
+        - "&3● &fTiempo de juego: &a%stat_time_played%"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:

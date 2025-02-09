@@ -673,3 +673,149 @@
 [20:44:28] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
 [20:44:28] [Server thread/INFO]: [TAB] Disabled in 1ms
 [20:44:28] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:44:43] [Server thread/INFO]: ElKeitoGG issued server command: /heal
+[20:45:11] [Server thread/INFO]: caezon issued server command: /fly
+[20:45:22] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:45:22] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:45:22] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:45:26] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:45:26] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:45:26] [Server thread/INFO]: [TAB] Enabled in 5ms
+[20:46:06] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: q
+[20:46:12] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: siii
+[20:46:13] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:46:13] [Server thread/INFO]: [TAB] Disabled in 2ms
+[20:46:13] [Server thread/INFO]: [TAB] Enabled in 10ms
+[20:46:35] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: waos
+[20:46:36] [Server thread/INFO]: mwarrii has made the advancement [Diamonds!]
+[20:46:38] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: encontre una aldea
+[20:46:41] [Server thread/INFO]: caezon issued server command: /fly
+[20:46:52] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: xaicos
+[20:46:54] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: encontré una aldea
+[20:47:27] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: JKAAJ
+[20:47:47] [Async Chat Thread - #20/INFO]: [Not Secure] STAFF caezon: los aldeanos parecen chinos
+[20:48:29] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: encontré marraqueta
+[20:49:01] [Server thread/INFO]: caezon issued server command: /fly
+[20:49:05] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:49:05] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:49:05] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:49:07] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: :V
+[20:49:09] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: XDD
+[20:49:16] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: MOMENTO
+[20:49:22] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Geolocation
+[20:49:23] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:49:26] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:49:26] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:49:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:49:26] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:49:27] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:49:27] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:49:27] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:49:35] [Server thread/INFO]: caezon issued server command: /fly
+[20:49:43] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: Q MIEDO
+[20:49:59] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: acá ta too peligroz
+[20:50:12] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:50:12] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:50:12] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:50:15] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: NOSE
+[20:50:16] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: aver
+[20:50:47] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: iu
+[20:51:36] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: acllate.
+[20:51:44] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Server
+[20:51:44] [placeholderapi-io-#5/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:51:47] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:51:47] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:51:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:51:47] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:51:55] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: ocupo amenudo los audifonos
+[20:51:56] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: JASJKAS
+[20:52:01] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:52:01] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:52:01] [Server thread/INFO]: [TAB] Enabled in 7ms
+[20:52:02] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: mejor?
+[20:52:18] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:52:18] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:52:18] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:52:20] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: ahora si
+[20:52:21] [Server thread/INFO]: caezon issued server command: /fly
+[20:52:23] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: mejor?
+[20:52:41] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:52:41] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:52:41] [Server thread/INFO]: [TAB] Enabled in 6ms
+[20:53:02] [Server thread/INFO]: ElKeitoGG issued server command: /vanish
+[20:53:07] [Server thread/INFO]: ElKeitoGG issued server command: /vanish
+[20:53:09] [Async Chat Thread - #19/INFO]: [Not Secure] CREADOR ElKeitoGG: :V
+[20:53:57] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: hMMMMMMMMMMMMMMMMM
+[20:54:00] [Async Chat Thread - #19/INFO]: [Not Secure] STAFF caezon: alguien pasó por acá
+[20:54:14] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:54:14] [Server thread/INFO]: [TAB] Disabled in 2ms
+[20:54:14] [Server thread/INFO]: [TAB] Enabled in 8ms
+[20:54:25] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download Player
+[20:54:25] [placeholderapi-io-#7/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:29] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:54:29] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:54:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:54:29] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:54:33] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:54:33] [Server thread/INFO]: [TAB] Disabled in 0ms
+[20:54:33] [Server thread/INFO]: [TAB] Enabled in 5ms
+[20:54:37] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerTime
+[20:54:37] [placeholderapi-io-#9/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:38] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:54:38] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:54:38] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:54:39] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:54:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:54:39] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:54:40] [Server thread/INFO]: ElKeitoGG issued server command: /papi ecloud download PlayerTime
+[20:54:40] [placeholderapi-io-#8/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:42] [Server thread/INFO]: ElKeitoGG issued server command: /papi reload
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:54:42] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:54:42] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[20:54:42] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:54:44] [Server thread/INFO]: ElKeitoGG issued server command: /tab reload
+[20:54:44] [Server thread/INFO]: [TAB] Disabled in 1ms
+[20:54:44] [Server thread/INFO]: [TAB] Enabled in 7ms

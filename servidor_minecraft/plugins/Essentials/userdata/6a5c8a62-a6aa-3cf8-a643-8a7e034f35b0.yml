@@ -16,11 +16,11 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739132662999
+  logout: 1739134385499
   login: 1739132544703
   kits:
     tools: 1739078313167
-money: '10106.992000000000002'
+money: '10116.262000000000003'
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
