@@ -1724,3 +1724,557 @@ java.util.ConcurrentModificationException: null
 [21:24:10] [Server thread/INFO]: Villager Villager['Cleric'/23425, uuid='5b1a563e-2786-4a55-bb34-ba1f8a168324', l='ServerLevel[world]', x=413.61, y=74.13, z=-184.14, cpos=[25, -12], tl=1496, v=true] died, message: 'Cleric was slain by ElKeitoGG using [KAME-HAME.. HAAAAAAA!!]'
 [21:24:20] [Async Chat Thread - #35/INFO]: [Not Secure] CREADOR ElKeitoGG: vamo
 [21:24:21] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[21:25:54] [Async Chat Thread - #37/INFO]: [Not Secure] CREADOR ElKeitoGG: donde fuiste
+[21:25:57] [Server thread/INFO]: ElKeitoGG issued server command: /tp mwa
+[21:26:01] [Server thread/WARN]: ElKeitoGG moved wrongly!
+[21:27:40] [Async Chat Thread - #39/INFO]: [Not Secure] CREADOR ElKeitoGG: :v
+[21:28:04] [Async Chat Thread - #39/INFO]: [Not Secure] CREADOR ElKeitoGG: Meto mobs chetados?
+[21:28:08] [Async Chat Thread - #39/INFO]: [Not Secure] CREADOR ElKeitoGG: y encantamientos customs?
+[21:28:22] [Async Chat Thread - #40/INFO]: [Not Secure] CREADOR ElKeitoGG: Customs en el sentido de que puede que te salga espadas que te tiren rayos
+[21:28:30] [Async Chat Thread - #40/INFO]: [Not Secure] CREADOR ElKeitoGG: lo hago?
+[21:30:29] [Craft Scheduler Thread - 106 - StaffPlusPlus/WARN]: [StaffPlusPlus] Plugin StaffPlusPlus v1.21.9 generated an exception while executing task 1935
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.database.MuteRepositoryImpl.getAllActiveMutes(MuteRepositoryImpl.java:81) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteService.getAllActiveMutes(MuteService.java:88) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteSessionTask.run(MuteSessionTask.java:45) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 12 more
+[21:30:39] [Craft Scheduler Thread - 106 - StaffPlusPlus/WARN]: [StaffPlusPlus] Plugin StaffPlusPlus v1.21.9 generated an exception while executing task 1935
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.database.MuteRepositoryImpl.getAllActiveMutes(MuteRepositoryImpl.java:81) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteService.getAllActiveMutes(MuteService.java:88) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteSessionTask.run(MuteSessionTask.java:45) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 12 more
+[21:30:39] [Craft Scheduler Thread - 107 - StaffPlusPlus/WARN]: [StaffPlusPlus] Plugin StaffPlusPlus v1.21.9 generated an exception while executing task 1936
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.warn.warnings.database.SqlWarnRepository.expireWarnings(SqlWarnRepository.java:170) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.warn.warnings.WarnService.lambda$expireWarnings$7(WarnService.java:195) ~[staffplusplus-core-1.21.9.jar:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.warn.warnings.WarnService.expireWarnings(WarnService.java:195) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.warn.warnings.WarningExpireTask.run(WarningExpireTask.java:23) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 22 more
+[21:30:49] [Craft Scheduler Thread - 109 - StaffPlusPlus/WARN]: [StaffPlusPlus] Plugin StaffPlusPlus v1.21.9 generated an exception while executing task 1935
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.database.MuteRepositoryImpl.getAllActiveMutes(MuteRepositoryImpl.java:81) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteService.getAllActiveMutes(MuteService.java:88) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteSessionTask.run(MuteSessionTask.java:45) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 12 more
+[21:30:59] [Craft Scheduler Thread - 102 - StaffPlusPlus/WARN]: [StaffPlusPlus] Plugin StaffPlusPlus v1.21.9 generated an exception while executing task 1935
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.database.MuteRepositoryImpl.getAllActiveMutes(MuteRepositoryImpl.java:81) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteService.getAllActiveMutes(MuteService.java:88) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.mute.MuteSessionTask.run(MuteSessionTask.java:45) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 12 more
+[21:31:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:31:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:31:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:31:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:31:02] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[21:31:02] [Server thread/INFO]: [StaffPlusPlus] Disabling StaffPlusPlus v1.21.9
+[21:31:02] [Server thread/INFO]: [StaffPlusPlus] Staff++ is now disabling!
+[21:31:02] [Server thread/ERROR]: Error occurred while disabling StaffPlusPlus v1.21.9
+net.shortninja.staffplus.core.common.exceptions.DatabaseException: Failed to connect to the database
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:46) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilder.<init>(QueryBuilder.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.SqliteQueryBuilder.<init>(SqliteQueryBuilder.java:18) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcsqlmigrations.helpers.QueryBuilderFactory.create(QueryBuilderFactory.java:22) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.investigate.database.investigation.InvestigationsRepositoryImpl.pauseAllInvestigations(InvestigationsRepositoryImpl.java:84) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.domain.staff.investigate.PauseInvestigationOnQuit.disable(PauseInvestigationOnQuit.java:39) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.StaffPlusPlus.lambda$disable$1(StaffPlusPlus.java:82) ~[staffplusplus-core-1.21.9.jar:?]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.StaffPlusPlus.disable(StaffPlusPlus.java:82) ~[staffplusplus-core-1.21.9.jar:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.be.garagepoort.mcioc.tubingbukkit.TubingBukkitPlugin.onDisable(TubingBukkitPlugin.java:32) ~[staffplusplus-core-1.21.9.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.clearPlugins(PaperPluginInstanceManager.java:167) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.clearPlugins(PaperPluginManagerImpl.java:102) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:607) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1092) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1027) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.sql.SQLException: path to 'plugins/StaffPlusPlus/staff.db': '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/StaffPlusPlus' does not exist
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:261) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:67) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:106) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at org.sqlite.JDBC.connect(JDBC.java:79) ~[sqlite-jdbc-3.46.0.0.jar:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253) ~[java.sql:?]
+	at staffplusplus-core-1.21.9.jar/net.shortninja.staffplus.core.application.database.migrations.sqlite.SqlLiteConnectionProvider.getConnection(SqlLiteConnectionProvider.java:43) ~[staffplusplus-core-1.21.9.jar:?]
+	... 27 more
+[21:31:02] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[21:31:02] [Server thread/INFO]: [TAB] Disabled in 2ms
+[21:31:02] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.6.3
+[21:31:02] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[21:31:02] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[21:31:02] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.4.6
+[21:31:02] [Server thread/INFO]: ------------- Jobs -------------
+[21:31:02] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[21:31:02] [Server thread/INFO]: Cleared boss bar cache
+[21:31:02] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[21:31:02] [Server thread/INFO]: Saved player data
+[21:31:02] [Server thread/INFO]: Closed database connection
+[21:31:02] [Server thread/INFO]: ------------------------------------
+[21:31:02] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[21:31:02] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[21:31:02] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
+[21:31:02] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[21:31:02] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
+[21:31:02] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.2.9
+[21:31:02] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[21:31:02] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:31:02] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[21:31:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[21:31:02] [Server thread/ERROR]: *****************************************************************
+[21:31:02] [Server thread/ERROR]: *** WARNING                                                   ***
+[21:31:02] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[21:31:02] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[21:31:02] [Server thread/ERROR]: ***                                                           ***
+[21:31:02] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[21:31:02] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[21:31:02] [Server thread/ERROR]: *** on GitHub!                                                ***
+[21:31:02] [Server thread/ERROR]: *****************************************************************
+[21:31:02] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:31:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[21:31:02] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:31:02] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[21:31:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:31:02] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[21:31:02] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:31:02] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[21:31:02] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:31:02] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:31:02] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:31:02] [Server thread/INFO]: Loaded 1290 recipes
+[21:31:02] [Server thread/INFO]: Loaded 1399 advancements
+[21:31:03] [Paper Async Command Builder Thread Pool - 16/ERROR]: Caught previously unhandled exception :
+[21:31:03] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:31:03] [Paper Async Command Builder Thread Pool - 16/ERROR]: Paper Async Command Builder Thread Pool - 16
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:31:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ExcellentEnchants-4.3.3.jar'...
+[21:31:03] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/nightcore-2.7.3.2.jar'...
+[21:31:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ExcellentEnchants-4.3.3.jar' in 461ms.
+[21:31:03] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/nightcore-2.7.3.2.jar' in 385ms.
+[21:31:03] [Server thread/INFO]: [PluginInitializerManager] Initialized 18 plugins
+[21:31:03] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[21:31:03] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (17):
+ - AuthMe (5.6.0-bCUSTOM), CMILib (1.5.2.9), Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), ExcellentEnchants (4.3.3), ItemEdit (3.6.3), Jobs (5.2.4.6), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), TAB (5.0.6), Vault (1.7.3-b131), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4), nightcore (2.7.3.2)
+[21:31:03] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[21:31:03] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[21:31:03] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[21:31:03] [Server thread/WARN]: [PluginInitializerManager] =========================
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loading 2 libraries... please wait
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.pom
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.pom
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.36/slf4j-parent-1.7.36.pom
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.pom
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.jar
+[21:31:04] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[21:31:04] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/com/zaxxer/HikariCP/6.0.0/HikariCP-6.0.0.jar
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[21:31:04] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[21:31:05] [Server thread/INFO]: [nightcore] Server version detected as Paper 1.21.
+[21:31:05] [Server thread/INFO]: [nightcore] [Core Components] ENTITY_ID_GENERATOR: Loaded
+[21:31:05] [Server thread/INFO]: [nightcore] [Core Components] ITEM_NBT_COMPRESSOR: Loaded
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[21:31:05] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[21:31:05] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[21:31:05] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[21:31:05] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[21:31:06] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@45126e4]
+[21:31:06] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[21:31:06] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[21:31:06] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[21:31:09] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[21:31:09] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.2.9
+[21:31:09] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[21:31:09] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.7.3.2
+[21:31:09] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[21:31:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[21:31:09] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.4.6
+[21:31:09] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.6.3
+[21:31:09] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[21:31:09] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[21:31:09] [Server thread/INFO]: [ExcellentEnchants] Loading server plugin ExcellentEnchants v4.3.3
+[21:31:09] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[21:31:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:31:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[21:31:09] [Server thread/INFO]:         __    
+[21:31:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[21:31:10] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[21:31:10] [Server thread/INFO]: 
+[21:31:10] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:31:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:31:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:31:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:31:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1722ms)
+[21:31:11] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[21:31:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[21:31:11] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[21:31:11] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[21:31:11] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[21:31:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[21:31:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:31:11] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[21:31:11] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[21:31:11] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[21:31:12] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[21:31:13] [Server thread/INFO]: [nightcore] Enabling nightcore v2.7.3.2
+[21:31:13] [Server thread/WARN]: [nightcore] ===================================
+[21:31:13] [Server thread/WARN]: [nightcore] WARNING: You're running an outdated server version (1.21)!
+[21:31:13] [Server thread/WARN]: [nightcore] This version will no longer be supported in future relases.
+[21:31:13] [Server thread/WARN]: [nightcore] Please upgrade your server to 1.21.1.
+[21:31:13] [Server thread/WARN]: [nightcore] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:31:13] [Server thread/WARN]: [nightcore] ===================================
+[21:31:13] [Server thread/INFO]: [nightcore] Downloading 'en' assets from github...
+[21:31:13] [Server thread/INFO]: [nightcore] Found permissions provider: LuckPerms
+[21:31:13] [Server thread/INFO]: [nightcore] Found economy provider: EssentialsX Economy
+[21:31:13] [Server thread/INFO]: [nightcore] Found chat provider: LuckPerms
+[21:31:13] [Server thread/INFO]: [nightcore] Plugin loaded in 417 ms!
+[21:31:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[21:31:13] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[21:31:14] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:31:14] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[21:31:15] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:31:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.2]
+[21:31:15] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[21:31:15] [Server thread/INFO]: [ExcellentEnchants] Enabling ExcellentEnchants v4.3.3
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] ===================================
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] WARNING: You're running an outdated server version (1.21)!
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] This version will no longer be supported in future relases.
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] Please upgrade your server to 1.21.1.
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] ABSOLUTELY NO DISCORD SUPPORT WILL BE PROVIDED
+[21:31:15] [Server thread/WARN]: [ExcellentEnchants] ===================================
+[21:31:15] [Server thread/INFO]: [ExcellentEnchants] Powered by nightcore
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.2
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: ae257f6
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:31:15] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:31:15] [Server thread/ERROR]: [ExcellentEnchants] Unsupported server version!
+[21:31:15] [Server thread/INFO]: [ExcellentEnchants] Disabling ExcellentEnchants v4.3.3
+[21:31:15] [Server thread/INFO]: [ExcellentEnchants] Plugin loaded in 169 ms!
+[21:31:15] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:31:15] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:31:15] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[21:31:15] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[21:31:16] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:31:16] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:31:16] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[21:31:16] [Server thread/INFO]: [Essentials] Using locale en
+[21:31:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:31:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:31:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[21:31:16] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[21:31:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:31:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:31:16] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:31:17] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.2.9
+[21:31:18] [Server thread/INFO]: Server version: v1_21_R1 - 1.21.0 - paper  1.21-130-b1b5d4c (MC: 1.21)
+[21:31:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.5.2.9]
+[21:31:19] [Server thread/INFO]: PlaceholderAPI hooked.
+[21:31:19] [Server thread/INFO]: Updated (EN) language file. Took 68ms
+[21:31:19] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[21:31:19] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[21:31:19] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[21:31:19] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[21:31:19] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.4.6
+[21:31:19] [Server thread/INFO]: ------------- Jobs -------------
+[21:31:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobsr [5.2.4.6]
+[21:31:19] [Server thread/INFO]: PlaceholderAPI hooked.
+[21:31:19] [Server thread/INFO]: Connected to database (SqLite)
+[21:31:20] [Server thread/INFO]: Loaded 8 titles
+[21:31:20] [Server thread/INFO]: Loaded 2 restricted areas!
+[21:31:20] [Server thread/INFO]: Loaded 53 protected blocks timers
+[21:31:20] [Server thread/INFO]: Loaded 1481 custom item names
+[21:31:20] [Server thread/INFO]: Loaded 84 custom entity names
+[21:31:20] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[21:31:20] [Server thread/INFO]: Loaded 42 custom enchant names
+[21:31:20] [Server thread/INFO]: Loaded 46 custom enchant names
+[21:31:20] [Server thread/INFO]: Loaded 16 custom color names
+[21:31:20] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[21:31:20] [Server thread/INFO]: Loaded 4 shop items
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Explorer
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Crafter
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Digger
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Hunter
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Builder
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Miner
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Brewer
+[21:31:20] [Server thread/INFO]: Loaded 1 quests for Farmer
+[21:31:20] [Server thread/INFO]: Loaded 12 jobs
+[21:31:20] [Server thread/INFO]: Loaded 0 boosted items
+[21:31:20] [Server thread/INFO]: Loaded 8 furnace for reassigning.
+[21:31:20] [Server thread/INFO]: Loaded 1 brewing for reassigning.
+[21:31:20] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[21:31:20] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[21:31:20] [Server thread/INFO]: Preloaded 3 players data in 0.08
+[21:31:20] [Server thread/INFO]: Duplicate in database for (ElKeitoGG) -> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0) <-> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0)
+[21:31:20] [Server thread/INFO]: Duplicate in database for (mwarrii) -> (dd8e00ab-8a85-3d43-998e-1ca59d149e09) <-> (dd8e00ab-8a85-3d43-998e-1ca59d149e09)
+[21:31:20] [Server thread/INFO]: Registering listeners...
+[21:31:20] [Server thread/INFO]: Listeners registered successfully
+[21:31:21] [Server thread/INFO]: Plugin has been enabled successfully.
+[21:31:21] [Server thread/INFO]: ------------------------------------
+[21:31:21] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.6.3
+[21:31:21] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[21:31:21] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[21:31:21] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[21:31:21] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[21:31:21] [Server thread/INFO]: [ItemEdit] placeholders:
+[21:31:21] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[21:31:21] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[21:31:21] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[21:31:21] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[21:31:21] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[21:31:21] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[21:31:21] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[21:31:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[21:31:21] [Server thread/INFO]: [ItemEdit] # Enabled (took 223 ms)
+[21:31:21] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[21:31:21] [Server thread/INFO]: [TAB] Loaded NMS hook in 41ms
+[21:31:22] [Server thread/INFO]: [TAB] Enabled in 714ms
+[21:31:22] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[21:31:22] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[21:31:22] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[21:31:22] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[21:31:22] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/Essentials/spawn.yml'
+[21:31:22] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[21:31:22] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[21:31:22] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando lang-es.yml como archivo de idioma...
+[21:31:22] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 12 secciones de tiendas.
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21...
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[21:31:23] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[21:31:23] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 226ms para completar
+[21:31:23] [Paper Async Command Builder Thread Pool - 17/ERROR]: Caught previously unhandled exception :
+[21:31:23] [Paper Async Command Builder Thread Pool - 17/ERROR]: Paper Async Command Builder Thread Pool - 17
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:31:23] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:31:23] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /bc pequeño lag
+[21:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21145ms or 422 ticks behind
+[21:31:23] [Server thread/INFO]: Timings Reset
+[21:31:23] [Craft Scheduler Thread - 102 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:31:23] [Craft Scheduler Thread - 111 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[21:31:23] [Craft Scheduler Thread - 111 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[21:31:23] [Craft Scheduler Thread - 111 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[21:31:23] [Craft Scheduler Thread - 112 - Vault/INFO]: [Vault] Checking for Updates ... 
+[21:31:23] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[21:31:23] [Craft Scheduler Thread - 111 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[21:31:23] [Server thread/INFO]: WorldGuard detected.
+[21:31:23] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[21:31:23] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[21:31:23] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[21:31:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[21:31:23] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[21:31:23] [Server thread/INFO]: 9 placeholder hook(s) registered!
+[21:31:23] [Craft Scheduler Thread - 112 - Vault/INFO]: [Vault] No new version available
+[21:31:32] [Server thread/INFO]: mwarrii lost connection: Disconnected
+[21:31:32] [Server thread/INFO]: mwarrii left the game
+[21:32:28] [User Authenticator #8/INFO]: UUID of player mwarrii is dd8e00ab-8a85-3d43-998e-1ca59d149e09
+[21:32:31] [Server thread/INFO]: mwarrii joined the game
+[21:32:31] [Server thread/INFO]: mwarrii[/127.229.174.33:57409] logged in with entity id 25303 at ([world]537.5182553340757, 48.0, -107.99254848024712)
+[21:32:45] [Craft Scheduler Thread - 117 - AuthMe/INFO]: [AuthMe] mwarrii logged in 127.229.174.33
+[21:32:49] [Server thread/INFO]: ElKeitoGG issued server command: /bc pequeño lagueoooooooooooooou
+[21:32:53] [Craft Scheduler Thread - 117 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
+[21:32:58] [Async Chat Thread - #41/INFO]: [Not Secure] CREADOR ElKeitoGG: XDDDDDD
+[21:33:05] [Async Chat Thread - #41/INFO]: [Not Secure] CREADOR ElKeitoGG: ACABO DE VER COMO MI HERMANO SALIO CORRIENDO POR UN GATO
+[21:33:09] [Server thread/INFO]: ElKeitoGG issued server command: /pl
+[21:33:29] [Server thread/INFO]: mwarrii issued server command: /fly
+[21:35:28] [Server thread/INFO]: ElKeitoGG issued server command: /bcastw pequeño lag

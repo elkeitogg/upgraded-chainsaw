@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739135879106
-  login: 1739135892651
+  logout: 1739136692303
+  login: 1739136751503
 money: '10000'
 last-account-name: mwarrii
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: -404.73133962443757
-  y: 62.0
-  z: 36.09527498928658
-  yaw: 119.55574798583984
-  pitch: 20.13583755493164
+  x: 537.5182553340757
+  y: 48.0
+  z: -107.99254848024712
+  yaw: -74.8177719116211
+  pitch: 49.950042724609375
 homes:
   home:
     world: ab110033-df51-4e6e-b68a-8d03e362d34e
