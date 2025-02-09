@@ -35,7 +35,7 @@ enchantment_menu:
     lore:
     - '&8Currently on page &e%page%'
 
-equipment_translations: {}
+equipment_translations:
   SWORDS: 'Swords'
   BOWS: 'Bows'
   CROSSBOWS: 'Crossbows'
