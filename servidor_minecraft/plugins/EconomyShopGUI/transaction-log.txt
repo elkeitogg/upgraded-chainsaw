@@ -3,3 +3,6 @@
 [2025-02-08 06:28:26] - [CREADOR] ElKeitoGG sold 64x Diamond Block(Ores.page1.items.10) for $7,938.56 with the sell all command.
 [2025-02-08 06:34:32] - [CREADOR] ElKeitoGG vendido 2304x Diamond Block(Ores.page1.items.10) por 285,788.16$ con el vender todo el comando.
 [2025-02-08 06:34:33] - [CREADOR] ElKeitoGG vendido 1216x Diamond Block(Ores.page1.items.10) por 150,832.63$ con el vender todo el comando.
+[2025-02-09 22:21:58] - CREADOR ElKeitoGG vendido 3x Diorite(Blocks.page2.items.101), 10x Cobblestone(Blocks.page1.items.51) por 2.24$ con el interfaz de Venta.
+[2025-02-09 22:22:10] - STAFF mwarrii vendido 82x Diorite(Blocks.page2.items.101), 725x Cobblestone(Blocks.page1.items.51), 48x Granite(Blocks.page3.items.122), 9x Oak Log(Blocks.page5.items.230), 2x Dirt(Blocks.page3.items.109), 3x String(Mobs.page1.items.20) por 160.14$ con el interfaz de Venta.
+[2025-02-09 22:22:27] - CREADOR ElKeitoGG vendido 12x Cobblestone(Blocks.page1.items.51) por 2.04$ con el interfaz de Venta.

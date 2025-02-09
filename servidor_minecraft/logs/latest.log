@@ -3411,3 +3411,794 @@ java.util.ConcurrentModificationException: null
 [22:15:26] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: toma
 [22:15:44] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: click derecho y recargas
 [22:16:01] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Mira el machetote
+[22:16:16] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell get deserteagle 1000
+[22:16:32] [Server thread/INFO]: mwarrii died
+[22:16:36] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[22:16:39] [Server thread/INFO]: ElKeitoGG issued server command: /s mw
+[22:16:40] [Server thread/INFO]: mwarrii issued server command: /tp ElKeitoGG
+[22:16:42] [Server thread/INFO]: ElKeitoGG died
+[22:16:46] [Server thread/INFO]: ElKeitoGG issued server command: /back
+[22:17:01] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: son balas
+[22:17:27] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[22:17:46] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
+[22:17:46] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
+[22:17:46] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
+[22:17:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:17:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:17:46] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[22:17:46] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
+[22:17:46] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[22:17:46] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
+[22:17:46] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[22:17:46] [Server thread/INFO]: [TAB] Disabled in 2ms
+[22:17:46] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.6.3
+[22:17:46] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[22:17:46] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[22:17:46] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.15
+[22:17:46] [Server thread/INFO]: [Gunshell] Disabling Gunshell v1.7.1-1619c06
+[22:17:46] [Server thread/INFO]: [Gunshell] WorldGuard compatibility layer disabled!
+[22:17:46] [Server thread/INFO]: [Gunshell] Disabled extension WorldGuardExtension for plugin WorldGuard
+[22:17:46] [Server thread/INFO]: [Gunshell] Gunshell v1.7.1-1619c06 has been disabled!
+[22:17:46] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[22:17:46] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[22:17:46] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[22:17:46] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.4.6
+[22:17:46] [Server thread/INFO]: ------------- Jobs -------------
+[22:17:46] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[22:17:46] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[22:17:46] [Server thread/INFO]: Cleared boss bar cache
+[22:17:46] [Server thread/INFO]: Saved player data
+[22:17:46] [Server thread/INFO]: Closed database connection
+[22:17:46] [Server thread/INFO]: ------------------------------------
+[22:17:46] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[22:17:46] [Server thread/ERROR]: *****************************************************************
+[22:17:46] [Server thread/ERROR]: *** WARNING                                                   ***
+[22:17:46] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[22:17:46] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[22:17:46] [Server thread/ERROR]: ***                                                           ***
+[22:17:46] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[22:17:46] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[22:17:46] [Server thread/ERROR]: *** on GitHub!                                                ***
+[22:17:46] [Server thread/ERROR]: *****************************************************************
+[22:17:46] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.2.9
+[22:17:46] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[22:17:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:17:46] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[22:17:46] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[22:17:46] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:17:46] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:17:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[22:17:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:17:46] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:17:46] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[22:17:46] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:17:46] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:17:46] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:17:46] [Server thread/INFO]: Loaded 1290 recipes
+[22:17:46] [Server thread/INFO]: Loaded 1399 advancements
+[22:17:46] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:17:46] [Paper Async Command Builder Thread Pool - 33/ERROR]: Caught previously unhandled exception :
+[22:17:46] [Paper Async Command Builder Thread Pool - 33/ERROR]: Paper Async Command Builder Thread Pool - 33
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:17:46] [Server thread/INFO]: [PluginInitializerManager] Initialized 18 plugins
+[22:17:46] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[22:17:46] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (17):
+ - AuthMe (5.6.0-bCUSTOM), CMILib (1.5.2.9), EnchantsSquared (2.5.15), Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), Gunshell (1.7.1-1619c06), ItemEdit (3.6.3), Jobs (5.2.4.6), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), TAB (5.0.6), Vault (1.7.3-b131), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4)
+[22:17:46] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[22:17:46] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[22:17:46] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[22:17:46] [Server thread/WARN]: [PluginInitializerManager] =========================
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[22:17:47] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[22:17:47] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[22:17:47] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[22:17:47] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[22:17:48] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6e7ff89a]
+[22:17:48] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[22:17:48] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[22:17:48] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[22:17:48] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.2.9
+[22:17:48] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[22:17:51] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.4.6
+[22:17:51] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[22:17:51] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[22:17:51] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[22:17:51] [Server thread/INFO]: [Gunshell] Loading server plugin Gunshell v1.7.1-1619c06
+[22:17:51] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.15
+[22:17:51] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.6.3
+[22:17:51] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[22:17:51] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[22:17:51] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[22:17:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:17:51] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[22:17:51] [Server thread/INFO]:         __    
+[22:17:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[22:17:52] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:17:52] [Server thread/INFO]: 
+[22:17:52] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:17:52] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:17:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:17:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:17:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1176ms)
+[22:17:52] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:17:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:17:52] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:17:53] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:17:53] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:17:53] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[22:17:53] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:17:53] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:17:53] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[22:17:53] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[22:17:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[22:17:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[22:17:54] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[22:17:55] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:17:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[22:17:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:17:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.2]
+[22:17:56] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[22:17:56] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.5.2
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: ae257f6
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:17:56] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:17:56] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:17:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:17:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:17:56] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:17:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[22:17:57] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:17:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:17:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:17:57] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[22:17:57] [Server thread/INFO]: [Essentials] Using locale en
+[22:17:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:17:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:17:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:17:58] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:17:58] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.2.9
+[22:17:59] [Server thread/INFO]: Server version: v1_21_R1 - 1.21.0 - paper  1.21-130-b1b5d4c (MC: 1.21)
+[22:17:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.5.2.9]
+[22:17:59] [Server thread/INFO]: PlaceholderAPI hooked.
+[22:17:59] [Server thread/INFO]: Updated (EN) language file. Took 40ms
+[22:17:59] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.4.6
+[22:17:59] [Server thread/INFO]: ------------- Jobs -------------
+[22:17:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobsr [5.2.4.6]
+[22:17:59] [Server thread/INFO]: PlaceholderAPI hooked.
+[22:18:00] [Server thread/INFO]: Connected to database (SqLite)
+[22:18:00] [Server thread/INFO]: Loaded 8 titles
+[22:18:00] [Server thread/INFO]: Loaded 2 restricted areas!
+[22:18:00] [Server thread/INFO]: Loaded 53 protected blocks timers
+[22:18:00] [Server thread/INFO]: Loaded 1481 custom item names
+[22:18:00] [Server thread/INFO]: Loaded 84 custom entity names
+[22:18:00] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[22:18:00] [Server thread/INFO]: Loaded 42 custom enchant names
+[22:18:00] [Server thread/INFO]: Loaded 46 custom enchant names
+[22:18:00] [Server thread/INFO]: Loaded 16 custom color names
+[22:18:00] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[22:18:00] [Server thread/INFO]: Loaded 4 shop items
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Brewer
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Hunter
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Miner
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Explorer
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Crafter
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Digger
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Farmer
+[22:18:00] [Server thread/INFO]: Loaded 1 quests for Builder
+[22:18:00] [Server thread/INFO]: Loaded 12 jobs
+[22:18:00] [Server thread/INFO]: Loaded 0 boosted items
+[22:18:00] [Server thread/INFO]: Loaded 8 furnace for reassigning.
+[22:18:00] [Server thread/INFO]: Loaded 1 brewing for reassigning.
+[22:18:00] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[22:18:00] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[22:18:00] [Server thread/INFO]: Preloaded 3 players data in 0.11
+[22:18:00] [Server thread/INFO]: Duplicate in database for (mwarrii) -> (dd8e00ab-8a85-3d43-998e-1ca59d149e09) <-> (dd8e00ab-8a85-3d43-998e-1ca59d149e09)
+[22:18:00] [Server thread/INFO]: Duplicate in database for (ElKeitoGG) -> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0) <-> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0)
+[22:18:00] [Server thread/INFO]: Registering listeners...
+[22:18:00] [Server thread/INFO]: Listeners registered successfully
+[22:18:01] [Server thread/INFO]: Plugin has been enabled successfully.
+[22:18:01] [Server thread/INFO]: ------------------------------------
+[22:18:01] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[22:18:01] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:18:01] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[22:18:01] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:18:01] [Server thread/INFO]: [Gunshell] Enabling Gunshell v1.7.1-1619c06
+[22:18:01] [Server thread/INFO]: [Gunshell] Using compatibility layer for version v1_21
+[22:18:01] [Server thread/INFO]: [Gunshell] WorldGuard compatibility layer enabled!
+[22:18:01] [Server thread/INFO]: [Gunshell] Enabled extension WorldGuardExtension for plugin WorldGuard
+[22:18:01] [Server thread/INFO]: [Gunshell] 14 fireables have been loaded into memory.
+[22:18:01] [Server thread/INFO]: [Gunshell] 15 ammunition types have been loaded into memory.
+[22:18:01] [Server thread/INFO]: [Gunshell] 5 throwables have been loaded into memory.
+[22:18:01] [Server thread/INFO]: [Gunshell] 2 melee weapons have been loaded into memory.
+[22:18:01] [Server thread/INFO]: [Gunshell] Gunshell v1.7.1-1619c06 has been enabled!
+[22:18:01] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.15
+[22:18:01] [Server thread/INFO]: [EnchantsSquared] [STDOUT] nms version found: true
+[22:18:01] [Server thread/WARN]: Nag author(s): '[Athlaeos]' of 'EnchantsSquared v2.5.15' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:18:01] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.6.3
+[22:18:01] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[22:18:01] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[22:18:01] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[22:18:01] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[22:18:01] [Server thread/INFO]: [ItemEdit] placeholders:
+[22:18:01] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[22:18:01] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[22:18:01] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[22:18:01] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[22:18:01] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[22:18:01] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[22:18:01] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[22:18:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[22:18:01] [Server thread/INFO]: [ItemEdit] # Enabled (took 244 ms)
+[22:18:01] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[22:18:01] [Server thread/INFO]: [TAB] Loaded NMS hook in 74ms
+[22:18:02] [Server thread/INFO]: [TAB] Enabled in 748ms
+[22:18:02] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[22:18:03] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:18:03] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[22:18:03] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[22:18:03] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/Essentials/spawn.yml'
+[22:18:03] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando lang-es.yml como archivo de idioma...
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 12 secciones de tiendas.
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21...
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[22:18:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[22:18:03] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 221ms para completar
+[22:18:04] [Paper Async Command Builder Thread Pool - 34/ERROR]: Caught previously unhandled exception :
+[22:18:04] [Paper Async Command Builder Thread Pool - 34/ERROR]: Paper Async Command Builder Thread Pool - 34
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:18:04] [Server thread/INFO]: ElKeitoGG: Reload complete.
+[22:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18029ms or 360 ticks behind
+[22:18:04] [Server thread/INFO]: Timings Reset
+[22:18:04] [Craft Scheduler Thread - 386 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:18:04] [Craft Scheduler Thread - 388 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[22:18:04] [Craft Scheduler Thread - 388 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[22:18:04] [Craft Scheduler Thread - 388 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[22:18:04] [Craft Scheduler Thread - 390 - Vault/INFO]: [Vault] Checking for Updates ... 
+[22:18:04] [Craft Scheduler Thread - 388 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[22:18:04] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[22:18:04] [Server thread/INFO]: WorldGuard detected.
+[22:18:04] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[22:18:04] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[22:18:04] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[22:18:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[22:18:04] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[22:18:04] [Server thread/INFO]: 9 placeholder hook(s) registered!
+[22:18:04] [Craft Scheduler Thread - 390 - Vault/INFO]: [Vault] No new version available
+[22:18:04] [Server thread/INFO]: ElKeitoGG issued server command: /bc pequeño lag
+[22:18:07] [Server thread/INFO]: mwarrii lost connection: Disconnected
+[22:18:07] [Server thread/INFO]: ➜ STAFF mwarrii ha salido del servidor!
+[22:18:12] [Craft Scheduler Thread - 390 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
+[22:18:18] [User Authenticator #14/INFO]: UUID of player mwarrii is dd8e00ab-8a85-3d43-998e-1ca59d149e09
+[22:18:20] [Server thread/INFO]: mwarrii[/127.229.174.33:45433] logged in with entity id 35251 at ([world]-461.52750151850586, 54.0, 18.9572687313924)
+[22:18:20] [Server thread/INFO]: ➜ STAFF mwarrii ha entrado al servidor!
+[22:18:28] [Craft Scheduler Thread - 385 - AuthMe/INFO]: [AuthMe] mwarrii logged in 127.229.174.33
+[22:18:29] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseee
+[22:18:30] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseee
+[22:18:30] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseee
+[22:18:30] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseee
+[22:18:31] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseee
+[22:18:31] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseeet
+[22:18:32] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseeett
+[22:18:33] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Te dije que cada que pase eso solo debes loggear denuevo, no hay necesidad de salirseeettt
+[22:18:38] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: usa /l tu contra
+[22:18:43] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: SI
+[22:18:47] [Server thread/INFO]: ElKeitoGG issued server command: /invsee mw
+[22:18:57] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Mucho
+[22:19:16] [Server thread/INFO]: ElKeitoGG issued server command: /gunshell getammo deserteagle_ammo
+[22:19:27] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: a ver
+[22:19:29] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: pasame tu pico
+[22:19:33] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared menu
+[22:19:50] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared enchant excavation 3
+[22:19:52] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: ya
+[22:19:53] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: pica
+[22:20:08] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: Cuidado q se gasta como si picaras 9 veces
+[22:20:19] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: XDDD
+[22:20:22] [Server thread/INFO]: ElKeitoGG issued server command: /invsee mw
+[22:20:33] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared menu
+[22:20:46] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: No es un bug
+[22:20:48] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: así lo puse
+[22:20:49] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[22:20:53] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: enserio
+[22:20:58] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: ah
+[22:21:24] [Server thread/INFO]: ElKeitoGG issued server command: /sg
+[22:21:27] [Server thread/INFO]: ElKeitoGG issued server command: /sellgui
+[22:21:31] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: usa
+[22:21:33] [Server thread/INFO]: ElKeitoGG issued server command: /sellgui
+[22:21:36] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: -/sellgui
+[22:21:43] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: y ahí metes los bloques que quieras vender
+[22:21:44] [Server thread/INFO]: mwarrii issued server command: /sellgui
+[22:21:46] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: y te dan plata
+[22:21:56] [Server thread/INFO]: ElKeitoGG issued server command: /sellgui
+[22:21:58] [Server thread/INFO]: Shop >> CREADOR ElKeitoGG vendido 3x Diorite(Blocks.page2.items.101), 10x Cobblestone(Blocks.page1.items.51) por 2.24$ con el interfaz de Venta.
+[22:22:07] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: solo cierra la cosa
+[22:22:08] [Async Chat Thread - #63/INFO]: [Not Secure] CREADOR ElKeitoGG: dale a esc
+[22:22:10] [Server thread/INFO]: Shop >> STAFF mwarrii vendido 82x Diorite(Blocks.page2.items.101), 725x Cobblestone(Blocks.page1.items.51), 48x Granite(Blocks.page3.items.122), 9x Oak Log(Blocks.page5.items.230), 2x Dirt(Blocks.page3.items.109), 3x String(Mobs.page1.items.20) por 160.14$ con el interfaz de Venta.
+[22:22:25] [Server thread/INFO]: ElKeitoGG issued server command: /sellgui
+[22:22:27] [Server thread/INFO]: Shop >> CREADOR ElKeitoGG vendido 12x Cobblestone(Blocks.page1.items.51) por 2.04$ con el interfaz de Venta.
+[22:22:53] [Server thread/INFO]: ElKeitoGG issued server command: /enchantssquared menu
+[22:23:30] [Async Chat Thread - #65/INFO]: [Not Secure] CREADOR ElKeitoGG: XDD
+[22:23:31] [Async Chat Thread - #65/INFO]: [Not Secure] CREADOR ElKeitoGG: que pendeja
+[22:23:46] [Server thread/INFO]: mwarrii issued server command: /fly
+[22:24:18] [Async Chat Thread - #65/INFO]: [Not Secure] CREADOR ElKeitoGG: te mueres
+[22:25:22] [Async Chat Thread - #67/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[22:25:25] [Async Chat Thread - #68/INFO]: [Not Secure] CREADOR ElKeitoGG: ah la pala
+[22:25:55] [Async Chat Thread - #68/INFO]: [Not Secure] CREADOR ElKeitoGG: q putas mari
+[22:25:56] [Async Chat Thread - #68/INFO]: [Not Secure] CREADOR ElKeitoGG: XDDD
+[22:26:00] [Async Chat Thread - #68/INFO]: [Not Secure] CREADOR ElKeitoGG: estoy cantando esa cancion
+[22:27:14] [Async Chat Thread - #69/INFO]: [Not Secure] CREADOR ElKeitoGG: pequeño lag
+[22:27:16] [Server thread/INFO]: ElKeitoGG issued server command: /reload confirm
+[22:27:16] [Server thread/INFO]: ElKeitoGG: Please note that this command is not supported and may cause issues when using some plugins.
+[22:27:16] [Server thread/INFO]: ElKeitoGG: If you encounter any issues please use the /stop command to restart your server.
+[22:27:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:27:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:27:16] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[22:27:16] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
+[22:27:16] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[22:27:16] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
+[22:27:16] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[22:27:16] [Server thread/INFO]: [TAB] Disabled in 1ms
+[22:27:16] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.6.3
+[22:27:16] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[22:27:16] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[22:27:16] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.15
+[22:27:16] [Server thread/INFO]: [Gunshell] Disabling Gunshell v1.7.1-1619c06
+[22:27:16] [Server thread/INFO]: [Gunshell] WorldGuard compatibility layer disabled!
+[22:27:16] [Server thread/INFO]: [Gunshell] Disabled extension WorldGuardExtension for plugin WorldGuard
+[22:27:16] [Server thread/INFO]: [Gunshell] Gunshell v1.7.1-1619c06 has been disabled!
+[22:27:16] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[22:27:16] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[22:27:16] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[22:27:16] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.4.6
+[22:27:16] [Server thread/INFO]: ------------- Jobs -------------
+[22:27:16] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[22:27:16] [Server thread/INFO]: Cleared boss bar cache
+[22:27:16] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[22:27:16] [Server thread/INFO]: Saved player data
+[22:27:16] [Server thread/INFO]: Closed database connection
+[22:27:16] [Server thread/INFO]: ------------------------------------
+[22:27:16] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[22:27:16] [Server thread/ERROR]: *****************************************************************
+[22:27:16] [Server thread/ERROR]: *** WARNING                                                   ***
+[22:27:16] [Server thread/ERROR]: *** RELOADING THE SERVER WHILE PROTOCOLLIB IS ENABLED MIGHT   ***
+[22:27:16] [Server thread/ERROR]: *** LEAD TO UNEXPECTED ERRORS!                                ***
+[22:27:16] [Server thread/ERROR]: ***                                                           ***
+[22:27:16] [Server thread/ERROR]: *** Consider cleanly restarting your server if you encounter  ***
+[22:27:16] [Server thread/ERROR]: *** any issues related to ProtocolLib before opening an issue ***
+[22:27:16] [Server thread/ERROR]: *** on GitHub!                                                ***
+[22:27:16] [Server thread/ERROR]: *****************************************************************
+[22:27:16] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.2.9
+[22:27:16] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[22:27:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:27:16] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[22:27:16] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[22:27:16] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:27:16] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:27:16] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[22:27:16] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:27:16] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:27:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[22:27:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:27:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:27:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:27:16] [Server thread/INFO]: Loaded 1290 recipes
+[22:27:16] [Server thread/INFO]: Loaded 1399 advancements
+[22:27:17] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:27:17] [Paper Async Command Builder Thread Pool - 36/ERROR]: Caught previously unhandled exception :
+[22:27:17] [Paper Async Command Builder Thread Pool - 36/ERROR]: Paper Async Command Builder Thread Pool - 36
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:27:17] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/TrollPlus-1.4.8.jar'...
+[22:27:17] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TrollPlus-1.4.8.jar' in 144ms.
+[22:27:17] [Server thread/INFO]: [PluginInitializerManager] Initialized 19 plugins
+[22:27:17] [Server thread/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.10.2)
+[22:27:17] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (18):
+ - AuthMe (5.6.0-bCUSTOM), CMILib (1.5.2.9), EnchantsSquared (2.5.15), Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsSpawn (2.20.1), Gunshell (1.7.1-1619c06), ItemEdit (3.6.3), Jobs (5.2.4.6), LuckPerms (5.4.153), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0), SkinsRestorer (15.5.2), TAB (5.0.6), TrollPlus (1.4.8), Vault (1.7.3-b131), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4)
+[22:27:17] [Server thread/WARN]: [PluginInitializerManager] ======== WARNING ========
+[22:27:17] [Server thread/WARN]: [PluginInitializerManager] You are reloading while having Paper plugins installed on your server.
+[22:27:17] [Server thread/WARN]: [PluginInitializerManager] Paper plugins do NOT support being reloaded. This will cause some unexpected issues.
+[22:27:17] [Server thread/WARN]: [PluginInitializerManager] =========================
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[22:27:17] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/upgraded-chainsaw/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[22:27:17] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.153
+[22:27:18] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[22:27:18] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[22:27:19] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@78fec237]
+[22:27:19] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[22:27:19] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[22:27:19] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[22:27:19] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.2.9
+[22:27:19] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[22:27:21] [Server thread/INFO]: [Jobs] Loading server plugin Jobs v5.2.4.6
+[22:27:21] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[22:27:21] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[22:27:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[22:27:21] [Server thread/INFO]: [Gunshell] Loading server plugin Gunshell v1.7.1-1619c06
+[22:27:21] [Server thread/INFO]: [EnchantsSquared] Loading server plugin EnchantsSquared v2.5.15
+[22:27:21] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.6.3
+[22:27:21] [Server thread/INFO]: [TrollPlus] Loading server plugin TrollPlus v1.4.8
+[22:27:21] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.6
+[22:27:21] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.6.0-bCUSTOM
+[22:27:21] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[22:27:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:27:21] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.153
+[22:27:22] [Server thread/INFO]:         __    
+[22:27:22] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.153
+[22:27:22] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:27:22] [Server thread/INFO]: 
+[22:27:22] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:27:22] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:27:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:27:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:27:23] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[22:27:23] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1371ms)
+[22:27:23] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:27:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:27:23] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:27:23] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:27:23] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[22:27:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[22:27:23] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:27:23] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[22:27:23] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[22:27:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[22:27:24] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[22:27:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[22:27:25] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[22:27:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:27:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[22:27:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:27:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.2]
+[22:27:26] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[22:27:26] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.2
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: ae257f6
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:27:26] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:27:27] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:27:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:27:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:27:27] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:27:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[22:27:27] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[22:27:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:27:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:27:28] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[22:27:28] [Server thread/INFO]: [Essentials] Using locale en
+[22:27:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:27:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:27:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:27:28] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[22:27:28] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.2.9
+[22:27:29] [Server thread/INFO]: Server version: v1_21_R1 - 1.21.0 - paper  1.21-130-b1b5d4c (MC: 1.21)
+[22:27:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.5.2.9]
+[22:27:30] [Server thread/INFO]: PlaceholderAPI hooked.
+[22:27:30] [Server thread/INFO]: Updated (EN) language file. Took 40ms
+[22:27:30] [Server thread/INFO]: [Jobs] Enabling Jobs v5.2.4.6
+[22:27:30] [Server thread/INFO]: ------------- Jobs -------------
+[22:27:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobsr [5.2.4.6]
+[22:27:30] [Server thread/INFO]: PlaceholderAPI hooked.
+[22:27:30] [Server thread/INFO]: Connected to database (SqLite)
+[22:27:30] [Server thread/INFO]: Loaded 8 titles
+[22:27:30] [Server thread/INFO]: Loaded 2 restricted areas!
+[22:27:30] [Server thread/INFO]: Loaded 53 protected blocks timers
+[22:27:30] [Server thread/INFO]: Loaded 1481 custom item names
+[22:27:30] [Server thread/INFO]: Loaded 84 custom entity names
+[22:27:30] [Server thread/INFO]: Loaded 2 custom MythicMobs names
+[22:27:30] [Server thread/INFO]: Loaded 42 custom enchant names
+[22:27:30] [Server thread/INFO]: Loaded 46 custom enchant names
+[22:27:30] [Server thread/INFO]: Loaded 16 custom color names
+[22:27:30] [Server thread/INFO]: Update shops items icon section and use 'ItemStack' instead
+[22:27:30] [Server thread/INFO]: Loaded 4 shop items
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Enchanter
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Digger
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Brewer
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Woodcutter
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Builder
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Weaponsmith
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Crafter
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Explorer
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Hunter
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Miner
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Fisherman
+[22:27:30] [Server thread/INFO]: Loaded 1 quests for Farmer
+[22:27:30] [Server thread/INFO]: Loaded 12 jobs
+[22:27:30] [Server thread/INFO]: Loaded 0 boosted items
+[22:27:30] [Server thread/INFO]: Loaded 8 furnace for reassigning.
+[22:27:30] [Server thread/INFO]: Loaded 1 brewing for reassigning.
+[22:27:30] [Jobs-DatabaseSaveTask/INFO]: Started database save task.
+[22:27:30] [Jobs-BufferedPaymentThread/INFO]: Started buffered payment thread.
+[22:27:31] [Server thread/INFO]: Preloaded 3 players data in 0.06
+[22:27:31] [Server thread/INFO]: Duplicate in database for (ElKeitoGG) -> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0) <-> (6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0)
+[22:27:31] [Server thread/INFO]: Duplicate in database for (mwarrii) -> (dd8e00ab-8a85-3d43-998e-1ca59d149e09) <-> (dd8e00ab-8a85-3d43-998e-1ca59d149e09)
+[22:27:31] [Server thread/INFO]: Registering listeners...
+[22:27:31] [Server thread/INFO]: Listeners registered successfully
+[22:27:31] [Server thread/INFO]: Plugin has been enabled successfully.
+[22:27:31] [Server thread/INFO]: ------------------------------------
+[22:27:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[22:27:31] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:27:31] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[22:27:31] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:27:31] [Server thread/INFO]: [Gunshell] Enabling Gunshell v1.7.1-1619c06
+[22:27:31] [Server thread/INFO]: [Gunshell] Using compatibility layer for version v1_21
+[22:27:31] [Server thread/INFO]: [Gunshell] WorldGuard compatibility layer enabled!
+[22:27:31] [Server thread/INFO]: [Gunshell] Enabled extension WorldGuardExtension for plugin WorldGuard
+[22:27:31] [Server thread/INFO]: [Gunshell] 14 fireables have been loaded into memory.
+[22:27:31] [Server thread/INFO]: [Gunshell] 15 ammunition types have been loaded into memory.
+[22:27:31] [Server thread/INFO]: [Gunshell] 5 throwables have been loaded into memory.
+[22:27:31] [Server thread/INFO]: [Gunshell] 2 melee weapons have been loaded into memory.
+[22:27:31] [Server thread/INFO]: [Gunshell] Gunshell v1.7.1-1619c06 has been enabled!
+[22:27:31] [Server thread/INFO]: [EnchantsSquared] Enabling EnchantsSquared v2.5.15
+[22:27:31] [Server thread/INFO]: [EnchantsSquared] [STDOUT] nms version found: true
+[22:27:31] [Server thread/WARN]: Nag author(s): '[Athlaeos]' of 'EnchantsSquared v2.5.15' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:27:32] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.6.3
+[22:27:32] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[22:27:32] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[22:27:32] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[22:27:32] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[22:27:32] [Server thread/INFO]: [ItemEdit] placeholders:
+[22:27:32] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[22:27:32] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[22:27:32] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[22:27:32] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[22:27:32] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[22:27:32] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[22:27:32] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[22:27:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[22:27:32] [Server thread/INFO]: [ItemEdit] # Enabled (took 301 ms)
+[22:27:32] [Server thread/INFO]: [TrollPlus] Enabling TrollPlus v1.4.8
+[22:27:32] [Server thread/INFO]: [TrollPlus] Plugin metrics are enabled.
+[22:27:32] [Server thread/INFO]: [TrollPlus] Checking for updates...
+[22:27:32] [Server thread/INFO]: [TAB] Enabling TAB v5.0.6
+[22:27:32] [Server thread/INFO]: [TAB] Loaded NMS hook in 57ms
+[22:27:33] [Server thread/INFO]: [TAB] Enabled in 763ms
+[22:27:33] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-bCUSTOM
+[22:27:33] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:27:33] [Server thread/INFO]: [AuthMe] Hooked into LuckPerms!
+[22:27:33] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[22:27:33] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/upgraded-chainsaw/servidor_minecraft/plugins/Essentials/spawn.yml'
+[22:27:34] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando lang-es.yml como archivo de idioma...
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Carga completada 16 configuraciones de la sección de /secciones/
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completada la carga de la configuración de 16 tiendas desde /shops/
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Actualizando la configuración de la tienda...
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Se completó la carga de 1 proveedor(es) de economía para todas las 12 secciones de tiendas.
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Usando minecraft versión 1.21...
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Proveedor spawner establecido en AUTO en la configuración
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: El modo de depuración está habilitado.
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Cargando todos los elementos...
+[22:27:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Iniciado - Tomó 160ms para completar
+[22:27:34] [Paper Async Command Builder Thread Pool - 37/ERROR]: Caught previously unhandled exception :
+[22:27:34] [Paper Async Command Builder Thread Pool - 37/ERROR]: Paper Async Command Builder Thread Pool - 37
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:27:34] [Server thread/INFO]: ElKeitoGG: Reload complete.
+[22:27:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18252ms or 365 ticks behind
+[22:27:34] [Server thread/INFO]: Timings Reset
+[22:27:34] [Craft Scheduler Thread - 422 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:27:34] [Craft Scheduler Thread - 427 - Vault/INFO]: [Vault] Checking for Updates ... 
+[22:27:34] [Craft Scheduler Thread - 425 - AuthMe/INFO]: [AuthMe] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[22:27:34] [Craft Scheduler Thread - 425 - AuthMe/WARN]: [AuthMe] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[22:27:34] [Craft Scheduler Thread - 425 - AuthMe/INFO]: [AuthMe] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[22:27:34] [Craft Scheduler Thread - 425 - AuthMe/WARN]: [AuthMe] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[22:27:34] [Craft Scheduler Thread - 421 - TrollPlus/INFO]: [TrollPlus] No new updates available.
+[22:27:34] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[22:27:34] [Server thread/INFO]: WorldGuard detected.
+[22:27:34] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (Essentials)
+[22:27:34] [Server thread/INFO]: [Jobs] Successfully linked with Vault. (LuckPerms)
+[22:27:34] [Craft Scheduler Thread - 427 - Vault/INFO]: [Vault] No new version available
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: playerlist [3.0.8]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[22:27:34] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: geolocation [1.1]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[22:27:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[22:27:34] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[22:27:34] [Server thread/INFO]: 9 placeholder hook(s) registered!
+[22:27:39] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:40] [Craft Scheduler Thread - 422 - AuthMe/INFO]: [AuthMe] mwarrii logged in 127.229.174.33
+[22:27:43] [Craft Scheduler Thread - 422 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
+[22:27:46] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:47] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:47] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:47] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:48] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:48] [Async Chat Thread - #70/INFO]: [Not Secure] CREADOR ElKeitoGG: mari q tienes de foto?
+[22:27:56] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode survival
+[22:28:23] [Server thread/INFO]: ElKeitoGG issued server command: /troll
+[22:28:25] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:28:59] [Server thread/INFO]: ElKeitoGG issued server command: /troll help
+[22:29:03] [Server thread/INFO]: ElKeitoGG issued server command: /troll+
+[22:29:09] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:29:18] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:29:40] [Server thread/INFO]: [Not Secure] STAFF mwarrii: si
+[22:29:41] [Server thread/INFO]: [Not Secure] STAFF mwarrii: XD
+[22:29:48] [Server thread/INFO]: [Not Secure] STAFF mwarrii: Kevin feo ql
+[22:29:50] [Server thread/INFO]: [Not Secure] STAFF mwarrii: ahora te saco captura
+[22:30:01] [Server thread/INFO]: [Not Secure] STAFF mwarrii: XD
+[22:30:13] [Server thread/INFO]: ElKeitoGG issued server command: /trollgui
+[22:30:16] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:30:20] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: yata
+[22:30:25] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: XD
+[22:30:38] [Server thread/INFO]: ElKeitoGG issued server command: /trollplus reload
+[22:30:53] [Server thread/INFO]: ElKeitoGG issued server command: /trollplus reload
+[22:30:54] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: voy
+[22:30:55] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: voy
+[22:30:56] [Server thread/INFO]: ElKeitoGG issued server command: /trollplus reload
+[22:31:01] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:31:26] [Server thread/INFO]: ElKeitoGG issued server command: /tp mw
+[22:31:40] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: q te pasa
+[22:31:43] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: xk das giros
+[22:31:45] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: rara
+[22:31:47] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:31:59] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: XDDD
+[22:32:09] [Async Chat Thread - #72/INFO]: [Not Secure] CREADOR ElKeitoGG: YO QUIERO
+[22:32:11] [Server thread/INFO]: ElKeitoGG issued server command: /troll ElKeitoGG
+[22:32:32] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:32:36] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:32:44] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:33:26] [Async Chat Thread - #73/INFO]: [Not Secure] CREADOR ElKeitoGG: mari
+[22:33:29] [Async Chat Thread - #73/INFO]: [Not Secure] CREADOR ElKeitoGG: q tienes puesto de foto
+[22:33:36] [Async Chat Thread - #73/INFO]: [Not Secure] CREADOR ElKeitoGG: HABLA
+[22:33:38] [Server thread/INFO]: ElKeitoGG issued server command: /heal
+[22:34:12] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:34:21] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:34:44] [Server thread/INFO]: ElKeitoGG issued server command: /troll mwarrii
+[22:34:49] [Server thread/INFO]: [Servidor: Hizo a mwarrii operador del servidor]
+[22:35:15] [Async Chat Thread - #75/INFO]: [Not Secure] CREADOR ElKeitoGG: estan buenos verdad
+[22:35:18] [Server thread/INFO]: ElKeitoGG issued server command: /troll ElKeitoGG
+[22:35:30] [Server thread/INFO]: ElKeitoGG was slain by mwarrii
+[22:35:33] [Async Chat Thread - #75/INFO]: [Not Secure] CREADOR ElKeitoGG: alv
+[22:35:34] [Server thread/INFO]: ElKeitoGG issued server command: /back
+[22:35:37] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:35:49] [Server thread/INFO]: ElKeitoGG issued server command: /fly
+[22:36:03] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:36:10] [Server thread/INFO]: [Not Secure] STAFF mwarrii: ahi tienes tierra
+[22:36:11] [Server thread/INFO]: [Not Secure] STAFF mwarrii: ahi tienes tierra
+[22:36:12] [Server thread/INFO]: ElKeitoGG issued server command: /troll mw
+[22:36:17] [Async Chat Thread - #75/INFO]: [Not Secure] CREADOR ElKeitoGG: ya
