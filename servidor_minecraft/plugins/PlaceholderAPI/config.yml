@@ -27,7 +27,7 @@ expansions:
   server:
     server_name: A Minecraft Server
     time:
-      locale: en
+      locale: es
       zone: Etc/UTC
       suffix:
         week: w
