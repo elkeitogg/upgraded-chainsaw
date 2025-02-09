@@ -105,7 +105,9 @@ scoreboard:
         - ""
         - "&3● &fCoords: &b%player_x%, %player_y%, %player_z%"
         - "&3● &fConectados: &a%server_online%"
-        - "&3● &fTiempo de juego: &a%stat_time_played%"
+        - "&3● &fTiempo de juego: &a%statistic_time_played:hours%h"
+        - ""
+        - "     <#0072ff>ᴋ<#0079ff>ᴇ<#0080ff>ᴏ<#0087ff>ꜱ<#008eff>ᴇ<#0095ff>ʀ<#009cff>ᴠ<#00a3ff>ᴇ<#00aaff>ʀ<#00b1ff>.<#00b8ff>ɴ<#00bfff>ᴇ<#00c6ff>ᴛ"
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Layout
 layout:

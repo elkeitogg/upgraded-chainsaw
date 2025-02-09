@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1739132009370
+  lastteleport: 1739134792134
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: mwarrii
 lastlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: 4.210437275083328
-  y: 99.79673560066871
-  z: 1.6980016031963743
-  yaw: 93.5999984741211
-  pitch: 47.0999870300293
+  x: 0.0
+  y: 98.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
 logoutlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
@@ -36,3 +36,12 @@ logoutlocation:
   z: 24.76249998807907
   yaw: -48.590423583984375
   pitch: 29.6566162109375
+homes:
+  home:
+    world: ab110033-df51-4e6e-b68a-8d03e362d34e
+    world-name: world
+    x: -420.1104731077624
+    y: 63.0
+    z: 27.75051419917507
+    yaw: 18.959808349609375
+    pitch: -5.587193965911865
