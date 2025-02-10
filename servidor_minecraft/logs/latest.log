@@ -2014,3 +2014,5 @@ java.util.ConcurrentModificationException: null
 [16:13:56] [Server thread/INFO]: ElKeitoGG issued server command: /back
 [16:13:58] [Server thread/INFO]: ElKeitoGG issued server command: /fly
 [16:14:14] [Server thread/INFO]: ElKeitoGG issued server command: /invsee mwarrii
+[16:20:59] [Server thread/INFO]: ElKeitoGG issued server command: /tp
+[16:21:03] [Server thread/INFO]: ElKeitoGG issued server command: /tpa
