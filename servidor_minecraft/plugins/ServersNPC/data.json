@@ -15,7 +15,9 @@
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "RTP"
+      "&c&l¡CUIDADO!-&aAfuera-está-el-&c&lPVP-&aactivado.",
+      "&aCon-&e/rtp-&apodrás-salir-de-la-zona-protegida-de-forma-rápida.",
+      "&a&lRTP"
     ],
     "refreshSkinDuration": 0,
     "clickActions": [],

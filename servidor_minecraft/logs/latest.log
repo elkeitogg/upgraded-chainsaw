@@ -401,3 +401,17 @@
 [19:09:40] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs skin 1 GentooP
 [19:10:19] [Server thread/INFO]: ElKeitoGG lost connection: Disconnected
 [19:10:19] [Server thread/INFO]: ➜ CREADOR ElKeitoGG ha salido del servidor!
+[19:18:10] [User Authenticator #1/INFO]: UUID of player ElKeitoGG is 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0
+[19:18:10] [Server thread/INFO]: [ResourcePackManager] Sending resource pack to ElKeitoGG
+[19:18:10] [Server thread/INFO]: ElKeitoGG[/127.106.169.53:48649] logged in with entity id 1242 at ([world]-346.21029274788907, 93.0, 678.6725987340346)
+[19:18:10] [Server thread/INFO]: ➜ CREADOR ElKeitoGG ha entrado al servidor!
+[19:18:25] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
+[19:19:01] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 2 &a&lRTP
+[19:19:05] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP
+[19:19:12] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP
+[19:20:46] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &aCon &a/rtp &apodrás salir de la zona protegida de forma rápida. &c&lCUIDADO, &aafuera está el &c&lPVP &aactivado.
+[19:21:39] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &aCon&a/rtp&apodrássalirdelazonaprotegidadeforma rápida. &c&lCUIDADO,&aafueraestáel&c&lPVP&aactivado.
+[19:22:11] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &aCon&e/rtp&apodrássalirdelazonaprotegidadeforma rápida. &c&lCUIDADO,&aafueraestáel&c&lPVP&aactivado.
+[19:23:06] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &aCon-&e/rtp-&apodrás-salir-de-la-zona-protegida-de-forma-rápida. &c&lCUIDADO,-&aafuera-está-el&c&lPVP-&aactivado.
+[19:24:00] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &aCon-&e/rtp-&apodrás-salir-de-la-zona-protegida-de-forma-rápida. &c&l¡CUIDADO!-&aAfuera-está-el-&c&lPVP-&aactivado.
+[19:24:22] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs lines 1 &a&lRTP &eCon-&a/rtp-&epodrás-salir-de-la-zona-protegida-de-forma-rápida. &c&l¡CUIDADO!-&eAfuera-está-el-&c&lPVP-&eactivado.
