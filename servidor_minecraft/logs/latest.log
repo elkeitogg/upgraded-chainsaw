@@ -571,3 +571,9 @@ java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
 [19:42:43] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 holo
 [19:42:50] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 mirror
 [19:42:53] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 mirror
+[20:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[20:13:27] [Server thread/INFO]: ElKeitoGG issued server command: /betterstructures teleport world 4184 41 -2344
+[20:13:32] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode spectator
+[20:14:18] [Async Chat Thread - #0/INFO]: [Not Secure] CREADOR ElKeitoGG: home
+[20:14:19] [Server thread/INFO]: ElKeitoGG issued server command: /home
+[20:14:21] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
