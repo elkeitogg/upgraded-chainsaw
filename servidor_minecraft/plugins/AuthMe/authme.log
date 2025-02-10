@@ -645,3 +645,8 @@
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
 [02-10 18:11:54]: [FINE] ElKeitoGG logged in 127.106.169.53
+[02-10 18:35:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[02-10 18:35:42]: [INFO] SQLite Setup finished
+[02-10 18:35:42]: [INFO] Hooked into LuckPerms!
+[02-10 18:35:42]: [INFO] Hooked successfully into Essentials
+[02-10 18:35:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
