@@ -1,0 +1,43 @@
+Settings:
+  Icon: NETHERRACK
+  Type: NETHER
+  Load: true
+  TP-On-Join: false
+  World-Inventories: false
+  Unix-Register: 1739204938
+Regions:
+  Global:
+    Type: INFINITE
+    Display-Name: '&f&lGlobal'
+    Priority: 10
+    Icon: BEDROCK
+    Announce-Enter:
+      Title: false
+      Actionbar: false
+    Block:
+      Interact: true
+      Break: true
+      Place: true
+    Container:
+      Interact: true
+    PVP: true
+    PVE: true
+    Hunger: true
+    Damage: true
+    Explosions: true
+    Item:
+      Drop: true
+      Pickup: true
+    Entity-Spawning: true
+    Enter: true
+    Create-Portal: true
+    Access:
+      Crafting-Table: true
+      Chests: true
+      Hoppers: true
+    No-Chat: false
+    No-Consumables: false
+    Disabled-Nether-Portal: false
+    Disabled-End-Portal: false
+    No-Fire-Spreading: false
+    Item-Pickup-Only-Owner: false

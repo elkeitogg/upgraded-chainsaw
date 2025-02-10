@@ -11,20 +11,21 @@
 #
 regions:
     spawn:
-        min: {x: -393, y: -64, z: 633}
-        max: {x: -301, y: 319, z: 725}
+        min: {x: -393, y: 91, z: 633}
+        max: {x: -301, y: 91, z: 725}
         members: {}
         flags:
             command-on-exit: ['/title @p title "&c¡Saliendo de la zona protegida,
                     ten cuidado!"']
             creeper-explosion: deny
             build: deny
-            command-on-entry: [/title @p title "&e¡Entrando a la zona protegida!"]
-            pvp: deny
             tnt: deny
-            mob-spawning: deny
+            pvp: deny
+            command-on-entry: [/title @p title "&e¡Entrando a la zona protegida!"]
             weather-lock: clear
+            mob-spawning: deny
             fire-spread: deny
-        owners: {}
+        owners:
+            unique-ids: [6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0]
         type: cuboid
         priority: 0
