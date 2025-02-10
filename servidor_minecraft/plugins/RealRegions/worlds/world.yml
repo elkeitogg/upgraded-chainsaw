@@ -69,12 +69,12 @@ Regions:
     No-Fire-Spreading: false
     Item-Pickup-Only-Owner: false
     Create-Portal: true
-    Icon: LIGHT_BLUE_STAINED_GLASS
+    Icon: DRAGON_EGG
     Type: CUBOID
     Display-Name: spawn
     Priority: 100
     Announce-Enter:
-      Title: false
+      Title: true
       Actionbar: false
     POS:
       '1': -393%91%633

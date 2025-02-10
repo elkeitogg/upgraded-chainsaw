@@ -2469,3 +2469,24 @@ java.util.ConcurrentModificationException: null
 [16:32:38] [Server thread/INFO]: ElKeitoGG issued server command: /rg redefine spawn
 [16:32:45] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
 [16:32:51] [Server thread/INFO]: ElKeitoGG issued server command: /rr create spawn
+[16:35:28] [Server thread/INFO]: ElKeitoGG issued server command: /rr flag spawn on-enter-cmds add title @p {"text":"¡Bienvenido al Spawn! Estás protegido.","bold":true,"color":"green"}
+[16:36:31] [Server thread/INFO]: ElKeitoGG issued server command: /rr flag spawn on-enter-cmds add title @p {"text":"¡Bienvenido al Spawn, tienes protección actualmente!","bold":true,"color":"green"}
+[16:36:46] [Server thread/INFO]: ElKeitoGG issued server command: /rr info
+[16:36:49] [Server thread/INFO]: ElKeitoGG issued server command: /rr flags
+[16:36:57] [Server thread/INFO]: ElKeitoGG issued server command: /rr create spawn
+[16:37:18] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions
+[16:37:20] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:37:33] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:37:36] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:37:45] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:37:55] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:38:06] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:38:16] [Server thread/INFO]: ElKeitoGG issued server command: /rr regions world
+[16:39:23] [Server thread/INFO]: ElKeitoGG issued server command: /rr flags spawn@world
+[16:39:42] [Server thread/INFO]: ElKeitoGG issued server command: /rr flags spawn@world
+[16:40:59] [Server thread/INFO]: ElKeitoGG issued server command: /rg ElKeitoGG
+[16:41:24] [Server thread/INFO]: ElKeitoGG issued server command: /rr toggle-enter-title spawn@world
+[16:42:25] [Server thread/INFO]: ElKeitoGG issued server command: /rg info spawn
+[16:43:28] [Server thread/INFO]: ElKeitoGG issued server command: /rr players
+[16:43:32] [Server thread/INFO]: ElKeitoGG issued server command: /rr players world
+[16:44:09] [Server thread/INFO]: ElKeitoGG issued server command: /rr reload
