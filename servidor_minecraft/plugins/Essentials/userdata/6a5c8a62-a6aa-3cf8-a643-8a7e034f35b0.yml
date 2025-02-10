@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: true
 timestamps:
-  lastteleport: 1739149826019
+  lastteleport: 1739202786320
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1739149904460
-  login: 1739144106949
+  login: 1739202568384
   kits:
     tools: 1739078313167
 money: '11890.9643999999999224'
@@ -33,8 +33,17 @@ last-account-name: ElKeitoGG
 lastlocation:
   world: ab110033-df51-4e6e-b68a-8d03e362d34e
   world-name: world
-  x: -346.4720719190773
-  y: 93.0
-  z: 679.4875463862168
-  yaw: -179.57525634765625
-  pitch: -5.795063018798828
+  x: -419.50759376835475
+  y: 63.0
+  z: 38.89725655875714
+  yaw: -39.77032470703125
+  pitch: 5.989255905151367
+homes:
+  kevin:
+    world: ab110033-df51-4e6e-b68a-8d03e362d34e
+    world-name: world
+    x: -421.2014448877571
+    y: 63.0
+    z: 36.60431405364996
+    yaw: -39.77032470703125
+    pitch: 5.989255905151367
