@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-02-10 17:27:05 +0000",
       "minecraft:savanna_plateau": "2025-02-09 05:47:25 +0000",
       "minecraft:dark_forest": "2025-02-09 21:22:13 +0000",
       "minecraft:forest": "2025-02-08 04:28:09 +0000",

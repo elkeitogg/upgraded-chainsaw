@@ -14,7 +14,8 @@ regions:
         min: {x: -393, y: -64, z: 633}
         max: {x: -301, y: 319, z: 725}
         members: {}
-        flags: {build: deny}
+        flags: {creeper-explosion: deny, build: deny, tnt: deny, pvp: deny, weather-lock: clear,
+            mob-spawning: deny, fire-spread: deny}
         owners: {}
         type: cuboid
         priority: 0

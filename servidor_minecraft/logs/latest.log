@@ -2937,3 +2937,57 @@ java.util.ConcurrentModificationException: null
 [17:25:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
 [17:25:16] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn creeper-explosion deny
 [17:25:22] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn tnt deny
+[17:25:28] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn fire-spread deny
+[17:25:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:25:44] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn mob-spawning deny
+[17:25:51] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn pvp deny
+[17:26:02] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn weather-lock clear
+[17:26:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:27:19] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:24] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:35] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:39] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:43] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:46] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:27:49] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:00] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:02] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:12] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:17] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:21] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:24] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:28] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:42] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:28:52] [Server thread/INFO]: ElKeitoGG issued server command: //set2
+[17:28:53] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[17:29:03] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[17:29:06] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:09] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:12] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:15] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:18] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:21] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:24] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:30] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:34] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:29:44] [Server thread/INFO]: ElKeitoGG issued server command: //replace 2
+[17:29:54] [Server thread/INFO]: ElKeitoGG issued server command: //set 0
+[17:30:07] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[17:30:12] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[17:32:46] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags
+[17:32:50] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 2 spawn
+[17:32:54] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 3 spawn
+[17:32:56] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 4 spawn
+[17:32:58] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 5 spawn
+[17:33:02] [Server thread/INFO]: ElKeitoGG issued server command: /rg info
+[17:33:16] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags
+[17:33:37] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag -w "world" spawn build
+[17:33:51] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn build deny
+[17:34:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:34:17] [Server thread/INFO]: ElKeitoGG issued server command: /region flags
+[17:34:22] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 2 spawn
+[17:34:22] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 2 spawn
+[17:34:26] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 3 spawn
+[17:34:30] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 4 spawn
+[17:34:41] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 5 spawn
+[17:35:09] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn block-place deny
