@@ -14,8 +14,21 @@ regions:
         min: {x: -393, y: -64, z: 633}
         max: {x: -301, y: 319, z: 725}
         members: {}
-        flags: {creeper-explosion: deny, build: deny, tnt: deny, pvp: deny, weather-lock: clear,
-            mob-spawning: deny, fire-spread: deny}
+        flags:
+            creeper-explosion: deny
+            build: deny
+            invincible: allow
+            greeting-title: |-
+                §a§lBienvenido al spawn!
+                §f§lActualmente tienes protección de daño.
+            tnt: deny
+            pvp: deny
+            farewell-title: |-
+                §4§lSaliste del spawn!
+                §f§lTen cuidado, el §c§lPVP §f§lestá activado.
+            weather-lock: clear
+            mob-spawning: deny
+            block-place: deny
         owners: {}
         type: cuboid
         priority: 0

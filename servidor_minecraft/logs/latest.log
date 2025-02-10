@@ -2991,3 +2991,43 @@ java.util.ConcurrentModificationException: null
 [17:34:30] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 4 spawn
 [17:34:41] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags -w "world" -p 5 spawn
 [17:35:09] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn block-place deny
+[17:35:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:36:45] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn greeting-title `bBienvenido al spawn!\n`YActualmente estás protegido.
+[17:37:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:37:20] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn farewell-title `bSaliste del spawn!\n`cTen cuidado, el pvp está activado.
+[17:37:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:37:45] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn farewell-title
+[17:38:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:38:43] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn farewell-title &4&lSaliste del spawn!\n&f&lTen cuidado, el &c&lPVP &f&lestá activado.
+[17:38:53] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn greeting-title
+[17:39:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:39:37] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn greeting-title &a&lBienvenido al spawn!\n&f&lActualmente tienes protección de daño.
+[17:39:52] [Server thread/INFO]: ElKeitoGG issued server command: /heal
+[17:40:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:40:31] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn fall-damage deny
+[17:40:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:40:41] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn fire-spread deny
+[17:40:48] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn lava-fire deny
+[17:41:03] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn lava-fire
+[17:41:05] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn fire-spread
+[17:41:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:41:12] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn fall-damage
+[17:41:19] [Server thread/INFO]: ElKeitoGG issued server command: /rg flag spawn invincible allow
+[17:41:24] [Server thread/INFO]: ElKeitoGG issued server command: /deop ElKeitoGG
+[17:41:24] [Server thread/INFO]: [ElKeitoGG: Made ElKeitoGG no longer a server operator]
+[17:41:30] [Server thread/INFO]: ElKeitoGG issued server command: /op ElKeitoGG
+[17:41:30] [Server thread/INFO]: [ElKeitoGG: Made ElKeitoGG a server operator]
+[17:41:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:42:56] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode spectator
+[17:42:57] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[17:43:28] [Server thread/INFO]: ElKeitoGG issued server command: /time 1
+[17:43:53] [Server thread/INFO]: ElKeitoGG issued server command: /deop
+[17:43:56] [Server thread/INFO]: ElKeitoGG issued server command: /deop ElKeitoGG
+[17:43:56] [Server thread/INFO]: [ElKeitoGG: Made ElKeitoGG no longer a server operator]
+[17:44:07] [Server thread/INFO]: ElKeitoGG issued server command: /op ElKeitoGG
+[17:44:07] [Server thread/INFO]: [ElKeitoGG: Made ElKeitoGG a server operator]
+[17:44:08] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode spectator
+[17:44:09] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode survival
+[17:44:11] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[17:44:11] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode survival
+[17:45:08] [Server thread/INFO]: ElKeitoGG issued server command: /fly
