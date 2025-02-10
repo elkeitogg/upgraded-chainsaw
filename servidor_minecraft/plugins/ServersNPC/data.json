@@ -10,17 +10,25 @@
       "x": -348.5,
       "y": 94.0,
       "z": 681.5,
-      "yaw": -133.56897,
-      "pitch": 4.0887656
+      "yaw": -138.52698,
+      "pitch": 2.5679564
     },
     "npcType": "PLAYER",
     "hologramLines": [
-      "&c&l¡CUIDADO!-&aAfuera-está-el-&c&lPVP-&aactivado.",
-      "&aCon-&e/rtp-&apodrás-salir-de-la-zona-protegida-de-forma-rápida.",
+      "&a&lClick-Izquierdo",
+      "&c&l¡CUIDADO!-&eAfuera-está-el-&c&lPVP-&eactivado.",
+      "&eCon-&a/rtp-&epodrás-salir-de-la-zona-protegida-de-forma-rápida.",
       "&a&lRTP"
     ],
     "refreshSkinDuration": 0,
-    "clickActions": [],
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "rtp",
+        "delay": 0
+      }
+    ],
     "npcEquip": {},
     "npcFunctions": {},
     "customizationMap": {}
