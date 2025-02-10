@@ -3473,3 +3473,9 @@ java.util.ConcurrentModificationException: null
 [17:54:26] [Server thread/INFO]: ElKeitoGG issued server command: /image give 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0 miak
 [17:55:32] [Server thread/INFO]: ElKeitoGG issued server command: /image give 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0 miak 1 7 4
 [17:55:44] [Craft Scheduler Thread - 895 - YamipaPlugin/INFO]: [YamipaPlugin] [ImageRenderer] Saved placed fake images to disk
+[18:03:02] [Server thread/INFO]: ElKeitoGG issued server command: /image give 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0 miak 1 7 4 -ANIM,+REMO
+[18:03:14] [Craft Scheduler Thread - 933 - YamipaPlugin/INFO]: [YamipaPlugin] [ImageRenderer] Saved placed fake images to disk
+[18:03:41] [Server thread/INFO]: ElKeitoGG issued server command: /image give 6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0 miak 1 7 4 -ANIM,+REMO,-DROP,+GLOW
+[18:03:52] [Server thread/INFO]: ElKeitoGG issued server command: /time set night
+[18:04:44] [Craft Scheduler Thread - 941 - YamipaPlugin/INFO]: [YamipaPlugin] [ImageRenderer] Saved placed fake images to disk
+[18:05:27] [Server thread/INFO]: ElKeitoGG issued server command: /pl
