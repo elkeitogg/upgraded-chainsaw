@@ -577,3 +577,89 @@ java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
 [20:14:18] [Async Chat Thread - #0/INFO]: [Not Secure] CREADOR ElKeitoGG: home
 [20:14:19] [Server thread/INFO]: ElKeitoGG issued server command: /home
 [20:14:21] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode creative
+[21:13:07] [Server thread/INFO]: ElKeitoGG issued server command: /stop
+[21:13:07] [Server thread/INFO]: [ElKeitoGG: Stopping the server]
+[21:13:07] [Server thread/INFO]: Stopping server
+[21:13:07] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.10.2
+[21:13:07] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.6.0-bCUSTOM
+[21:13:07] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[21:13:07] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-bCUSTOM disabled!
+[21:13:07] [Server thread/INFO]: [BetterStructures] Disabling BetterStructures v1.7.8
+[21:13:07] [Server thread/INFO]: [BetterStructures] Shutdown!
+[21:13:07] [Server thread/INFO]: [TAB] Disabling TAB v5.0.6
+[21:13:07] [Server thread/INFO]: [TAB] Disabled in 2ms
+[21:13:07] [Server thread/INFO]: [TrollPlus] Disabling TrollPlus v1.4.8
+[21:13:07] [Server thread/INFO]: [WorldGuardExtraFlags] Disabling WorldGuardExtraFlags v4.2.4-SNAPSHOT
+[21:13:07] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.6.3
+[21:13:07] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[21:13:07] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[21:13:07] [Server thread/INFO]: [SimpleRTP] Disabling SimpleRTP v5.4
+[21:13:07] [Server thread/INFO]: [ServersNPC] Disabling ServersNPC v5.0
+[21:13:07] [Server thread/INFO]: [EnchantsSquared] Disabling EnchantsSquared v2.5.15
+[21:13:07] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager v1.3.0
+[21:13:07] [Server thread/INFO]: [ResourcePackManager] Disabling ResourcePackManager
+[21:13:07] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.12
+[21:13:07] [Server thread/INFO]: [GUIAdminTools] Disabling GUIAdminTools v2.7.9
+[21:13:07] [Server thread/INFO]: [GUIAdminTools] [STDOUT] Stop...
+[21:13:07] [Server thread/WARN]: Nag author(s): '[]' of 'GUIAdminTools v2.7.9' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:13:07] [Server thread/INFO]: [Gunshell] Disabling Gunshell v1.7.1-1619c06
+[21:13:07] [Server thread/INFO]: [Gunshell] WorldGuard compatibility layer disabled!
+[21:13:07] [Server thread/INFO]: [Gunshell] Disabled extension WorldGuardExtension for plugin WorldGuard
+[21:13:07] [Server thread/INFO]: [Gunshell] Gunshell v1.7.1-1619c06 has been disabled!
+[21:13:07] [Server thread/INFO]: [YamipaPlugin] Disabling YamipaPlugin v1.3.2
+[21:13:07] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.2
+[21:13:07] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[21:13:07] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[21:13:07] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[21:13:08] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[21:13:08] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[21:13:08] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v18.1.2
+[21:13:08] [Server thread/INFO]: [Jobs] Disabling Jobs v5.2.4.6
+[21:13:08] [Server thread/INFO]: ------------- Jobs -------------
+[21:13:08] [Jobs-BufferedPaymentThread/INFO]: Buffered payment thread shutdown.
+[21:13:08] [Jobs-DatabaseSaveTask/INFO]: Database save task shutdown!
+[21:13:08] [Server thread/INFO]: Cleared boss bar cache
+[21:13:08] [Server thread/INFO]: Saved player data
+[21:13:08] [Server thread/INFO]: Closed database connection
+[21:13:08] [Server thread/INFO]: ------------------------------------
+[21:13:08] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[21:13:08] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[21:13:08] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.2.9
+[21:13:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[21:13:08] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[21:13:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[21:13:08] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[21:13:08] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:13:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[21:13:08] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[21:13:08] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:13:08] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.153
+[21:13:08] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:13:08] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:13:08] [WebSocketConnectReadThread-567/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[21:13:08] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:13:08] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1
+[21:13:08] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[21:13:08] [Server thread/INFO]: Saving players
+[21:13:08] [Server thread/INFO]: ElKeitoGG lost connection: Server closed
+[21:13:08] [Server thread/INFO]: ElKeitoGG left the game
+[21:13:08] [Server thread/INFO]: Saving worlds
+[21:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 72 block chunks, 200 entity chunks, 0 poi chunks in world 'world' in 0.19s
+[21:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[21:13:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:13:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[21:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:13:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
