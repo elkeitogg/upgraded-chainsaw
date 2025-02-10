@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.52.25.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739147865826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739148143405
+  login: 1739145915847
+money: '0'
+lastlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: -347.7635890251992
+  y: 93.0
+  z: 675.7707886498537
+  yaw: 110.19317626953125
+  pitch: -14.886335372924805
+last-account-name: Jalelz
+logoutlocation:
+  world: ab110033-df51-4e6e-b68a-8d03e362d34e
+  world-name: world
+  x: -418.0474962464614
+  y: 63.0
+  z: 70.06900440924835
+  yaw: -116.44096374511719
+  pitch: 21.506027221679688

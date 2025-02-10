@@ -1,0 +1,18 @@
+location: world:-346.517:96.651:676.779
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&e&lBienvenido al Spawn'
+    height: 0.3
+  - content: '&b&lPara romper e interactuar con el ambiente'
+    height: 0.3
+  - content: '&b&lSal de la &c&lLANA ROJA'
+    height: 0.3
+  - content: '&c&lCUIDADO, &b&lel pvp está &c&lACTIVADO'
+    height: 0.3
+  actions: {}

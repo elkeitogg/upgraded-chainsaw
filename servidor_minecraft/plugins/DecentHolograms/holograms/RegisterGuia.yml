@@ -1,0 +1,14 @@
+location: world:-346.506:95.123:676.640
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&e&lUsa &a&l/register contraseña contraseña &e&lsi no estás logueado'
+    height: 0.3
+  - content: '&e&lUsa &a&l/login contraseña &e&lsi ya estás logueado'
+    height: 0.3
+  actions: {}
