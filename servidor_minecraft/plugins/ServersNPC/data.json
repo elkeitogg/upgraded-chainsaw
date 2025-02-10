@@ -30,7 +30,11 @@
       }
     ],
     "npcEquip": {},
-    "npcFunctions": {},
+    "npcFunctions": {
+      "mirror": false,
+      "holo": false,
+      "look": true
+    },
     "customizationMap": {}
   }
 ]

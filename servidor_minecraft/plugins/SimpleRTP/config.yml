@@ -4,16 +4,16 @@
 # Placeholder $x $y $z displays the new coordinates.
 # Hex colors can be used as &#000000
 Teleport-Message:
-  Before: '&8[&fProcesamiento de Mundos&8] &7> Searching for a safe place to teleport!'
-  After: '&8[&Procesamiento de Mundos&8] &7> You have been teleported $distance$ blocks away! At x: $x y: $y z: $z'
+  Before: '&8[&fProcesamiento de Mundos&8] &7> Buscando un lugar seguro para teletransportarse!'
+  After: '&8[&Procesamiento de Mundos&8] &7> Has sido teletransportado a $distance$ bloques lejos! En x: $x y: $y z: $z'
 
 # Placeholder $time$ displays cooldown time left. $minutes$ can show minutes. $seconds$ can show seconds.
 Cooldown-Messages:
   Cooldown-Active:
-    Message: '&8[&fProcesamiento de Mundos&8] &7> &cYou must wait $time$ seconds to teleport again!'
+    Message: '&8[&fProcesamiento de Mundos&8] &7> &cTienes que esperar $time$ segundos más para teletransportarte denuevo!'
   Cooldown-Ended:
     Enabled: true
-    Message: '&8[&fProcesamiento de Mundos&8] &7> &eCooldown ended! You can now use &7/rtp'
+    Message: '&8[&fProcesamiento de Mundos&8] &7> &eTiempo de espera terminado! Ya puedes usar &7/rtp'
 
 # Cooldown time in seconds.
 Cooldown-Time:
@@ -25,7 +25,7 @@ Cooldown-Time:
 Cancel-On-Move:
   Enabled: false
   Seconds: 3
-  Message: '&8[&fProcesamiento de Mundos&8] &cCancelled teleport. You must stay still to teleport!'
+  Message: '&8[&fProcesamiento de Mundos&8] &cTeletransporte cancelado. ¡Debes quedarte quieto para teletransportarte!'
 
 # RTP will not be available in blacklisted worlds.
 Teleportation:
@@ -35,7 +35,7 @@ Teleportation:
       blocked-worlds:
       - "world_the_end"
 
-Invalid-World: '&cYou can not use RTP in this world.'
+Invalid-World: '&cNo puedes usar RTP en este mundo.'
 
 # The maximum and minimum range coordinates the player will teleport from their original place.
 # If the world is not listed it will use -world
@@ -70,4 +70,4 @@ Potion-Effect:
 Force-Teleport:
   Notify-Player-Before:
     Enabled: true
-    Message: "&8[&fProcesamiento de Mundos&8] &eA admin has force random teleport you!"
+    Message: "&8[&fProcesamiento de Mundos&8] &eUn administrador te forzó teletransportarte al azar!"

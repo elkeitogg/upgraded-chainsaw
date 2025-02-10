@@ -553,3 +553,21 @@ java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
 [19:33:03] [Server thread/INFO]: ElKeitoGG issued server command: /rtp
 [19:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
 [19:33:23] [Server thread/INFO]: ElKeitoGG issued server command: /spawn
+[19:37:08] [Server thread/INFO]: ElKeitoGG issued server command: /simplertp reload
+[19:37:22] [Server thread/INFO]: ElKeitoGG issued server command: /spawn
+[19:37:47] [Server thread/INFO]: ElKeitoGG issued server command: /rg expand spawn 500
+[19:38:02] [Server thread/INFO]: ElKeitoGG issued server command: /rg select
+[19:38:56] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:03] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:13] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:21] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:24] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:32] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:39:37] [Server thread/INFO]: ElKeitoGG issued server command: //set 2
+[19:40:10] [Server thread/INFO]: ElKeitoGG issued server command: /rg expand
+[19:41:08] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs customize 1
+[19:42:33] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 look
+[19:42:42] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 holo
+[19:42:43] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 holo
+[19:42:50] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 mirror
+[19:42:53] [Server thread/INFO]: ElKeitoGG issued server command: /znpcs toggle 1 mirror
