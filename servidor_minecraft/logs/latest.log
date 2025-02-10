@@ -2919,3 +2919,10 @@ java.util.ConcurrentModificationException: null
 [16:49:03] [Craft Scheduler Thread - 491 - AuthMe/INFO]: [AuthMe] ElKeitoGG logged in 127.106.169.53
 [16:49:04] [Server thread/INFO]: ElKeitoGG issued server command: /pl
 [16:51:42] [Server thread/INFO]: ElKeitoGG issued server command: /rg flags spawn farewell
+[16:55:59] [Server thread/INFO]: ElKeitoGG issued server command: /rg
+[16:56:04] [Server thread/INFO]: ElKeitoGG issued server command: /rg remove spawn
+[16:56:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[16:56:09] [Server thread/INFO]: ElKeitoGG issued server command: /rg list
+[16:56:18] [Server thread/INFO]: ElKeitoGG issued server command: /regions info
+[16:56:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[17:00:06] [Server thread/INFO]: ElKeitoGG issued server command: /gamemode spectator

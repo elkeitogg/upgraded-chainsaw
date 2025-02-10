@@ -10,22 +10,9 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    spawn:
-        min: {x: -393, y: 91, z: 633}
-        max: {x: -301, y: 91, z: 725}
+    __global__:
         members: {}
-        flags:
-            command-on-exit: ['/title @p title "&c¡Saliendo de la zona protegida,
-                    ten cuidado!"']
-            creeper-explosion: deny
-            build: deny
-            tnt: deny
-            pvp: deny
-            command-on-entry: [/title @p title "&e¡Entrando a la zona protegida!"]
-            weather-lock: clear
-            mob-spawning: deny
-            fire-spread: deny
-        owners:
-            unique-ids: [6a5c8a62-a6aa-3cf8-a643-8a7e034f35b0]
-        type: cuboid
+        flags: {}
+        owners: {}
+        type: global
         priority: 0
